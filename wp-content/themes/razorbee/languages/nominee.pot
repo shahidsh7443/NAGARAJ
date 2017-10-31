@@ -1,0 +1,4531 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Nominee\n"
+"POT-Creation-Date: 2016-02-17 12:23+0600\n"
+"PO-Revision-Date: 2016-02-17 12:23+0600\n"
+"Last-Translator: \n"
+"Language-Team: Trendytheme <trendytheme.net@gmail.com>\n"
+"Language: en_US\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.7\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: esc_html__;esc_html_e;esc_html_x;_n_noop;_x;_nx;_n;__;"
+"_e\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:17 inc/template-tags.php:402
+msgid "404"
+msgstr ""
+
+#: 404.php:19
+msgid "Page Not Found!"
+msgstr ""
+
+#: 404.php:21
+msgid "Sorry, we couldn't find the content you were looking for."
+msgstr ""
+
+#: 404.php:23
+msgid "Go Back Home"
+msgstr ""
+
+#: admin/theme-options-config.php:44
+#, php-format
+msgid "%s Options"
+msgstr ""
+
+#: admin/theme-options-config.php:45 admin/theme-options-config.php:102
+#, php-format
+msgid "%s Theme Options"
+msgstr ""
+
+#: admin/theme-options-config.php:171
+msgid "General Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:177
+msgid "Breadcrumb"
+msgstr ""
+
+#: admin/theme-options-config.php:178
+msgid "Show or Hide Your website Breadcrumb"
+msgstr ""
+
+#: admin/theme-options-config.php:179 admin/theme-options-config.php:755
+#: admin/theme-options-config.php:857 admin/theme-options-config.php:1070
+#: visual-composer/vc_extend/tt-reformation.php:78
+#: visual-composer/vc_extend/tt-section-title.php:96
+msgid "Show"
+msgstr ""
+
+#: admin/theme-options-config.php:180 admin/theme-options-config.php:756
+#: admin/theme-options-config.php:858 admin/theme-options-config.php:1071
+#: visual-composer/vc_extend/tt-reformation.php:79
+#: visual-composer/vc_extend/tt-section-title.php:97
+msgid "Hide"
+msgstr ""
+
+#: admin/theme-options-config.php:187
+msgid "Smooth Page Scroll"
+msgstr ""
+
+#: admin/theme-options-config.php:188
+msgid "Enable or Disabled Smooth Page Scroll"
+msgstr ""
+
+#: admin/theme-options-config.php:189 admin/theme-options-config.php:1005
+msgid "Enable"
+msgstr ""
+
+#: admin/theme-options-config.php:190
+msgid "Disabled"
+msgstr ""
+
+#: admin/theme-options-config.php:199
+msgid "Header Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:206
+msgid "Header styles"
+msgstr ""
+
+#: admin/theme-options-config.php:207
+msgid "Select Header Style."
+msgstr ""
+
+#: admin/theme-options-config.php:210
+msgid "Header default"
+msgstr ""
+
+#: admin/theme-options-config.php:214
+msgid "Header transparent"
+msgstr ""
+
+#: admin/theme-options-config.php:225
+msgid "Menu background color"
+msgstr ""
+
+#: admin/theme-options-config.php:226
+msgid "Pick color for menu background."
+msgstr ""
+
+#: admin/theme-options-config.php:233
+msgid "Default menu font color"
+msgstr ""
+
+#: admin/theme-options-config.php:234
+msgid "Pick color for menu."
+msgstr ""
+
+#: admin/theme-options-config.php:240
+msgid "Sticky menu visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:241
+msgid "Visible or Hidden sticky menu"
+msgstr ""
+
+#: admin/theme-options-config.php:242 admin/theme-options-config.php:272
+#: admin/theme-options-config.php:283 admin/theme-options-config.php:321
+#: admin/theme-options-config.php:828 admin/theme-options-config.php:867
+#: admin/theme-options-config.php:887 admin/theme-options-config.php:907
+#: admin/theme-options-config.php:917
+#: visual-composer/vc_extend/tt-event-speaker.php:47
+#: visual-composer/vc_extend/tt-event-speaker.php:60
+#: visual-composer/vc_extend/tt-member-carousel.php:31
+#: visual-composer/vc_extend/tt-member-carousel.php:57
+#: visual-composer/vc_extend/tt-member.php:31
+#: visual-composer/vc_extend/tt-member.php:57
+#: visual-composer/vc_extend/tt-post-category.php:39
+#: visual-composer/vc_extend/tt-post-category.php:52
+#: visual-composer/vc_extend/tt-post-category.php:74
+#: visual-composer/vc_extend/tt-reformation.php:22
+msgid "Visible"
+msgstr ""
+
+#: admin/theme-options-config.php:243 admin/theme-options-config.php:273
+#: admin/theme-options-config.php:284 admin/theme-options-config.php:322
+#: admin/theme-options-config.php:829 admin/theme-options-config.php:868
+#: admin/theme-options-config.php:888 admin/theme-options-config.php:908
+#: admin/theme-options-config.php:918
+#: visual-composer/vc_extend/tt-event-speaker.php:48
+#: visual-composer/vc_extend/tt-event-speaker.php:61
+#: visual-composer/vc_extend/tt-member-carousel.php:32
+#: visual-composer/vc_extend/tt-member-carousel.php:58
+#: visual-composer/vc_extend/tt-member.php:32
+#: visual-composer/vc_extend/tt-member.php:58
+#: visual-composer/vc_extend/tt-post-category.php:40
+#: visual-composer/vc_extend/tt-post-category.php:53
+#: visual-composer/vc_extend/tt-post-category.php:75
+#: visual-composer/vc_extend/tt-reformation.php:23
+msgid "Hidden"
+msgstr ""
+
+#: admin/theme-options-config.php:252
+msgid "Sticky menu background color"
+msgstr ""
+
+#: admin/theme-options-config.php:253
+msgid "Pick color for sticky menu background."
+msgstr ""
+
+#: admin/theme-options-config.php:261
+msgid "Sticky menu font color"
+msgstr ""
+
+#: admin/theme-options-config.php:262
+msgid "Pick color for sticky menu."
+msgstr ""
+
+#: admin/theme-options-config.php:270
+msgid "Header topbar visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:271
+msgid "Visible or Hidden header topbar"
+msgstr ""
+
+#: admin/theme-options-config.php:281
+msgid "News Feed visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:282
+msgid "Visible or Hidden topbar newsfeed"
+msgstr ""
+
+#: admin/theme-options-config.php:292
+msgid "News feed limit"
+msgstr ""
+
+#: admin/theme-options-config.php:293
+msgid "Change post limit from header topbar"
+msgstr ""
+
+#: admin/theme-options-config.php:301
+msgid "News feed title word limit"
+msgstr ""
+
+#: admin/theme-options-config.php:302
+msgid "Change post title word limit"
+msgstr ""
+
+#: admin/theme-options-config.php:310
+msgid "Header contact"
+msgstr ""
+
+#: admin/theme-options-config.php:311
+msgid "Change header contact info"
+msgstr ""
+
+#: admin/theme-options-config.php:319
+msgid "Donate visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:320
+msgid "Visible or Hidden donate button"
+msgstr ""
+
+#: admin/theme-options-config.php:330
+msgid "Donate page"
+msgstr ""
+
+#: admin/theme-options-config.php:331
+msgid "Select donate page to linking with donate button"
+msgstr ""
+
+#: admin/theme-options-config.php:344
+msgid "Logo Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:349
+msgid "Logo Type"
+msgstr ""
+
+#: admin/theme-options-config.php:350
+msgid "You can set text or image logo"
+msgstr ""
+
+#: admin/theme-options-config.php:351
+msgid "Image Logo"
+msgstr ""
+
+#: admin/theme-options-config.php:352
+msgid "Text Logo"
+msgstr ""
+
+#: admin/theme-options-config.php:359
+msgid "Logo Text"
+msgstr ""
+
+#: admin/theme-options-config.php:360
+msgid "Change your logo text"
+msgstr ""
+
+#: admin/theme-options-config.php:367
+msgid "Site Logo."
+msgstr ""
+
+#: admin/theme-options-config.php:368
+msgid "Change Site logo dimension: 145px &times; 55px"
+msgstr ""
+
+#: admin/theme-options-config.php:375
+msgid "Retina Logo Image (High Density)"
+msgstr ""
+
+#: admin/theme-options-config.php:376
+msgid "Change Retina logo dimension: 290px &times; 110px"
+msgstr ""
+
+#: admin/theme-options-config.php:377
+msgid ""
+"Add a 290px &times; 110px pixels image that will be used as the logo in the "
+"header section. For the Retina Logo Image the even number of pixels is less "
+"important because it will be hardly noticable"
+msgstr ""
+
+#: admin/theme-options-config.php:386
+msgid "Margin Option"
+msgstr ""
+
+#: admin/theme-options-config.php:387
+msgid "You can change logo margin if needed."
+msgstr ""
+
+#: admin/theme-options-config.php:388
+msgid "Change top, right, bottom and left value in px, e.g: 10"
+msgstr ""
+
+#: admin/theme-options-config.php:399
+msgid "Page Header Image"
+msgstr ""
+
+#: admin/theme-options-config.php:406
+msgid "Page Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:407 admin/theme-options-config.php:415
+#: admin/theme-options-config.php:423 admin/theme-options-config.php:431
+#: admin/theme-options-config.php:438 admin/theme-options-config.php:446
+#: admin/theme-options-config.php:454 admin/theme-options-config.php:461
+#: admin/theme-options-config.php:468
+msgid "Upload image from media library, dimension: 1920px x 450px"
+msgstr ""
+
+#: admin/theme-options-config.php:414
+msgid "Reformation Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:422
+msgid "Blog Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:430
+msgid "Author Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:437
+msgid "Category Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:445
+msgid "Tag Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:453
+msgid "Search Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:460
+msgid "Archive Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:467
+msgid "404 Header Background."
+msgstr ""
+
+#: admin/theme-options-config.php:479
+msgid "Preset color"
+msgstr ""
+
+#: admin/theme-options-config.php:484
+msgid "Body background color"
+msgstr ""
+
+#: admin/theme-options-config.php:485
+msgid "Pick color for the theme body background (default: #ffffff)."
+msgstr ""
+
+#: admin/theme-options-config.php:492
+msgid "Site Accent Color"
+msgstr ""
+
+#: admin/theme-options-config.php:493
+msgid "Pick color for the theme accent color (default: #ef4836)."
+msgstr ""
+
+#: admin/theme-options-config.php:500
+msgid "Site Link Color"
+msgstr ""
+
+#: admin/theme-options-config.php:501
+msgid "Pick color for all link (default: #ef4836)."
+msgstr ""
+
+#: admin/theme-options-config.php:508
+msgid "Section title color"
+msgstr ""
+
+#: admin/theme-options-config.php:509
+msgid "Pick color for section title (default: #2f2f2f)."
+msgstr ""
+
+#: admin/theme-options-config.php:521
+msgid "Typography"
+msgstr ""
+
+#: admin/theme-options-config.php:528
+msgid "Body Font"
+msgstr ""
+
+#: admin/theme-options-config.php:529
+msgid "Specify the body font properties."
+msgstr ""
+
+#: admin/theme-options-config.php:546
+msgid "Heading Font"
+msgstr ""
+
+#: admin/theme-options-config.php:547
+msgid "This settings for all heading font (h1, h2, h3, h4, h5, h6)"
+msgstr ""
+
+#: admin/theme-options-config.php:564
+msgid "H1 (Heading one)"
+msgstr ""
+
+#: admin/theme-options-config.php:565
+msgid "This settings only for H1"
+msgstr ""
+
+#: admin/theme-options-config.php:585
+msgid "H2 (Heading two)"
+msgstr ""
+
+#: admin/theme-options-config.php:586
+msgid "This settings only for H2"
+msgstr ""
+
+#: admin/theme-options-config.php:606
+msgid "H3 (Heading three)"
+msgstr ""
+
+#: admin/theme-options-config.php:607
+msgid "This settings only for H3"
+msgstr ""
+
+#: admin/theme-options-config.php:626
+msgid "H4 (Heading four)"
+msgstr ""
+
+#: admin/theme-options-config.php:627
+msgid "This settings only for H4"
+msgstr ""
+
+#: admin/theme-options-config.php:646
+msgid "H5 (Heading five)"
+msgstr ""
+
+#: admin/theme-options-config.php:647
+msgid "This settings only for H5"
+msgstr ""
+
+#: admin/theme-options-config.php:666
+msgid "H6 (Heading six)"
+msgstr ""
+
+#: admin/theme-options-config.php:667
+msgid "This settings only for H6"
+msgstr ""
+
+#: admin/theme-options-config.php:691
+msgid "Blog Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:697
+msgid "Blog Page Title"
+msgstr ""
+
+#: admin/theme-options-config.php:698
+msgid "Enter Blog page title here, if leave blank then site title will appear"
+msgstr ""
+
+#: admin/theme-options-config.php:703
+msgid "Blog sidebar setting"
+msgstr ""
+
+#: admin/theme-options-config.php:704
+msgid "Select blog sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:725
+msgid "Share button"
+msgstr ""
+
+#: admin/theme-options-config.php:726
+msgid "Check to show share button"
+msgstr ""
+
+#: admin/theme-options-config.php:728
+msgid "Facebook"
+msgstr ""
+
+#: admin/theme-options-config.php:729
+msgid "Twitter"
+msgstr ""
+
+#: admin/theme-options-config.php:730
+msgid "Google+"
+msgstr ""
+
+#: admin/theme-options-config.php:731
+msgid "Linkedin"
+msgstr ""
+
+#: admin/theme-options-config.php:743
+msgid "Blog Pagination or Navigation"
+msgstr ""
+
+#: admin/theme-options-config.php:744
+msgid "Blog pagination style, posts pagination or newer / older posts"
+msgstr ""
+
+#: admin/theme-options-config.php:745
+msgid "Pagination"
+msgstr ""
+
+#: admin/theme-options-config.php:746
+msgid "Navigation"
+msgstr ""
+
+#: admin/theme-options-config.php:753
+msgid "Blog Carousel Visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:754
+msgid "You can show or hide post carousel from post grid view"
+msgstr ""
+
+#: admin/theme-options-config.php:764
+msgid "Carousel post query"
+msgstr ""
+
+#: admin/theme-options-config.php:765
+msgid "Select carousel post query"
+msgstr ""
+
+#: admin/theme-options-config.php:766
+msgid "Recent post"
+msgstr ""
+
+#: admin/theme-options-config.php:767
+msgid "Post from category"
+msgstr ""
+
+#: admin/theme-options-config.php:775
+msgid "Category"
+msgstr ""
+
+#: admin/theme-options-config.php:776
+#: visual-composer/vc_extend/tt-post-category.php:26
+msgid "Select Category"
+msgstr ""
+
+#: admin/theme-options-config.php:785
+msgid "Carousel post number"
+msgstr ""
+
+#: admin/theme-options-config.php:786
+msgid "Enter carousel post number to show"
+msgstr ""
+
+#: admin/theme-options-config.php:798 inc/metabox.php:247 inc/metabox.php:377
+msgid "Page Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:804
+msgid "Page Sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:805
+msgid "Select page sidebar"
+msgstr ""
+
+#: admin/theme-options-config.php:826
+msgid "Page comment visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:827
+msgid "Show or hide page comment globally"
+msgstr ""
+
+#: admin/theme-options-config.php:841
+msgid "Event Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:847
+msgid "Event start date prefix"
+msgstr ""
+
+#: admin/theme-options-config.php:848
+msgid "Change event start date prefix, default is: Its Beginning!"
+msgstr ""
+
+#: admin/theme-options-config.php:849
+msgid "Its Beginning!"
+msgstr ""
+
+#: admin/theme-options-config.php:855
+msgid "Event date counting"
+msgstr ""
+
+#: admin/theme-options-config.php:856
+msgid "Show or hide event counter from event single page"
+msgstr ""
+
+#: admin/theme-options-config.php:865
+msgid "Event map visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:866
+msgid "Show or hide event map from event single page"
+msgstr ""
+
+#: admin/theme-options-config.php:880
+msgid "Reformation Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:885
+msgid "Reformation navigation visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:886
+msgid ""
+"You can show or hide reformation navigation bar from single reformation page"
+msgstr ""
+
+#: admin/theme-options-config.php:896
+msgid "All Reformation page link"
+msgstr ""
+
+#: admin/theme-options-config.php:897
+msgid "Select reformation page to linking with all reformation page"
+msgstr ""
+
+#: admin/theme-options-config.php:905
+msgid "Reformation share button visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:906
+msgid ""
+"You can show or hide reformation share button from single reformation page"
+msgstr ""
+
+#: admin/theme-options-config.php:915
+msgid "Related reformation visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:916
+msgid "You can show or hide related reformation from single reformation page"
+msgstr ""
+
+#: admin/theme-options-config.php:930
+msgid "Issue Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:935
+msgid "Issue post limit"
+msgstr ""
+
+#: admin/theme-options-config.php:936 admin/theme-options-config.php:943
+msgid "Enter post number that would you like to show per page"
+msgstr ""
+
+#: admin/theme-options-config.php:942
+msgid "Issue post limit in category"
+msgstr ""
+
+#: admin/theme-options-config.php:955
+msgid "Donate Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:960
+msgid "PayPal Email"
+msgstr ""
+
+#: admin/theme-options-config.php:961
+msgid "Enter PayPal email address"
+msgstr ""
+
+#: admin/theme-options-config.php:966 template-parts/paypal-donation.php:59
+msgid "Amount"
+msgstr ""
+
+#: admin/theme-options-config.php:967
+msgid "The default amount for a donation (Optional)"
+msgstr ""
+
+#: admin/theme-options-config.php:972
+msgid "Purpose"
+msgstr ""
+
+#: admin/theme-options-config.php:973
+msgid "The default purpose for a donation (Optional)"
+msgstr ""
+
+#: admin/theme-options-config.php:978
+msgid "Donate form title"
+msgstr ""
+
+#: admin/theme-options-config.php:979
+msgid "Default reference for a donation (Optional)"
+msgstr ""
+
+#: admin/theme-options-config.php:980
+msgid "How much would you like to donate?"
+msgstr ""
+
+#: admin/theme-options-config.php:985
+msgid "Donate form submit button text"
+msgstr ""
+
+#: admin/theme-options-config.php:986
+msgid "Change form submit button text"
+msgstr ""
+
+#: admin/theme-options-config.php:987
+msgid "Donate Now"
+msgstr ""
+
+#: admin/theme-options-config.php:998
+msgid "Preloader Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:1003
+msgid "Page Preloader"
+msgstr ""
+
+#: admin/theme-options-config.php:1004
+msgid "You can enable or disable page preloader from here."
+msgstr ""
+
+#: admin/theme-options-config.php:1006
+msgid "Disable"
+msgstr ""
+
+#: admin/theme-options-config.php:1014
+msgid "Preloader background color"
+msgstr ""
+
+#: admin/theme-options-config.php:1015
+msgid "Pick color for preloader background (default: #ffffff)."
+msgstr ""
+
+#: admin/theme-options-config.php:1024
+msgid "Animation file"
+msgstr ""
+
+#: admin/theme-options-config.php:1025
+msgid "Upload loader gif animation file"
+msgstr ""
+
+#: admin/theme-options-config.php:1036
+msgid "Footer Settings"
+msgstr ""
+
+#: admin/theme-options-config.php:1043
+msgid "Footer styles"
+msgstr ""
+
+#: admin/theme-options-config.php:1044
+msgid "Select Footer Style."
+msgstr ""
+
+#: admin/theme-options-config.php:1047
+msgid "Footer multipage"
+msgstr ""
+
+#: admin/theme-options-config.php:1051
+msgid "Footer onepage"
+msgstr ""
+
+#: admin/theme-options-config.php:1061
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: admin/theme-options-config.php:1062
+msgid "Write footer copyright text here."
+msgstr ""
+
+#: admin/theme-options-config.php:1068
+msgid "Social icon visibility"
+msgstr ""
+
+#: admin/theme-options-config.php:1069
+msgid "Shor or hide social icon from footer"
+msgstr ""
+
+#: admin/theme-options-config.php:1078
+msgid "Social intro title"
+msgstr ""
+
+#: admin/theme-options-config.php:1079
+msgid "Enter social intro title here"
+msgstr ""
+
+#: admin/theme-options-config.php:1080
+msgid "We are social, Follow us in social media"
+msgstr ""
+
+#: admin/theme-options-config.php:1086 inc/metabox.php:333
+msgid "Facebook Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1087
+msgid "Enter facebook page or profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1094 inc/metabox.php:339
+msgid "Twitter Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1095
+msgid "Enter twitter link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1102 inc/metabox.php:345
+msgid "Google Plus Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1103
+msgid "Enter google plus page or profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1110 inc/metabox.php:363
+msgid "Youtube Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1111
+msgid "Enter youtube chanel link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1117
+msgid "Pinterest Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1118
+msgid "Enter pinterest link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1125 inc/metabox.php:357
+msgid "Flickr Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1126
+msgid "Enter flicker link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1132 inc/metabox.php:351
+msgid "Linkedin Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1133
+msgid "Enter linkedin profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1139
+msgid "Vimeo Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1140
+msgid "Enter vimeo chanel link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1146
+msgid "Instagram Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1147
+msgid "Enter instagram page or profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1153
+msgid "Dribbble Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1154
+msgid "Enter dribbble profile link. Leave blank to hide icon."
+msgstr ""
+
+#: admin/theme-options-config.php:1160
+msgid "Behance Link"
+msgstr ""
+
+#: admin/theme-options-config.php:1161
+msgid "Enter behance profile link. Leave blank to hide icon."
+msgstr ""
+
+#: comments.php:13
+msgid "One comment"
+msgstr ""
+
+#: comments.php:32
+msgid "Comment navigation"
+msgstr ""
+
+#: comments.php:34
+msgid "Older Comments"
+msgstr ""
+
+#: comments.php:35
+msgid "Newer Comments"
+msgstr ""
+
+#: comments.php:41
+msgid "Comments are closed."
+msgstr ""
+
+#: footer-multipage.php:42 footer-onepage.php:45
+#, php-format
+msgid "Copyright &copy; %1$s %2$s. All Rights Reserved. Designed by %3$s."
+msgstr ""
+
+#: footer-multipage.php:43 footer-onepage.php:46
+msgid "Nominee"
+msgstr ""
+
+#: footer-multipage.php:44 footer-onepage.php:47
+msgid "Trendy Theme"
+msgstr ""
+
+#: functions.php:94
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:151
+msgid "Blog Sidebar"
+msgstr ""
+
+#: functions.php:153
+msgid "Appears in the blog sidebar."
+msgstr ""
+
+#: functions.php:161
+msgid "Page Sidebar Area"
+msgstr ""
+
+#: functions.php:163
+msgid "Appears in the Page sidebar."
+msgstr ""
+
+#: functions.php:171
+msgid "Issue Sidebar Area"
+msgstr ""
+
+#: functions.php:173
+msgid "Appears in the Issues page sidebar."
+msgstr ""
+
+#: functions.php:181
+msgid "Footer Sidebar Area"
+msgstr ""
+
+#: functions.php:183
+msgid "Appears in the footer"
+msgstr ""
+
+#: functions.php:207
+msgid "on"
+msgstr ""
+
+#: functions.php:281
+msgid "Days"
+msgstr ""
+
+#: functions.php:282
+msgid "Hour"
+msgstr ""
+
+#: functions.php:283
+msgid "Minutes"
+msgstr ""
+
+#: functions.php:284
+msgid "Second"
+msgstr ""
+
+#: header-default.php:106 header-transparent.php:66
+msgid "Donate"
+msgstr ""
+
+#: inc/extras.php:122
+msgid "Facebook Profile URL"
+msgstr ""
+
+#: inc/extras.php:123
+msgid "Twitter Profile URL"
+msgstr ""
+
+#: inc/extras.php:124
+msgid "Google Profile URL"
+msgstr ""
+
+#: inc/extras.php:125
+msgid "Linkedin Profile URL"
+msgstr ""
+
+#: inc/extras.php:126
+msgid "Instagram Profile URL"
+msgstr ""
+
+#: inc/metabox.php:28
+msgid "Post Quote Settings"
+msgstr ""
+
+#: inc/metabox.php:46
+msgid "Qoute Text"
+msgstr ""
+
+#: inc/metabox.php:49
+msgid "Write Your Qoute Here"
+msgstr ""
+
+#: inc/metabox.php:56
+msgid "Qoute Author/Company"
+msgstr ""
+
+#: inc/metabox.php:59
+msgid "Write Qoute Author or Company name"
+msgstr ""
+
+#: inc/metabox.php:66
+msgid "Author/Company URL"
+msgstr ""
+
+#: inc/metabox.php:69
+msgid "Write Qoute Author or Company URL"
+msgstr ""
+
+#: inc/metabox.php:83
+msgid "Post Link Settings"
+msgstr ""
+
+#: inc/metabox.php:90
+msgid "Link text"
+msgstr ""
+
+#: inc/metabox.php:92
+msgid "Write Your Link Text, leave blank to show only url"
+msgstr ""
+
+#: inc/metabox.php:98
+msgid "Link URL*"
+msgstr ""
+
+#: inc/metabox.php:100
+msgid "Write Your Link, e.g: http://yourlink.com"
+msgstr ""
+
+#: inc/metabox.php:106
+msgid "Link title"
+msgstr ""
+
+#: inc/metabox.php:108
+msgid "Write link title, appear as link title attribute"
+msgstr ""
+
+#: inc/metabox.php:114
+msgid "Link target"
+msgstr ""
+
+#: inc/metabox.php:118
+msgid "Self"
+msgstr ""
+
+#: inc/metabox.php:119
+msgid "New Window"
+msgstr ""
+
+#: inc/metabox.php:132
+msgid "Post Audio Settings"
+msgstr ""
+
+#: inc/metabox.php:139
+msgid "Featured Audio (.mp3)"
+msgstr ""
+
+#: inc/metabox.php:141
+msgid "Upload Audio like: your-file-name.mp3"
+msgstr ""
+
+#: inc/metabox.php:147
+msgid "Featured Audio (.ogg)"
+msgstr ""
+
+#: inc/metabox.php:149
+msgid "Upload Audio like: your-file-name.ogg"
+msgstr ""
+
+#: inc/metabox.php:155
+msgid "Featured Audio (.wav)"
+msgstr ""
+
+#: inc/metabox.php:157
+msgid "Upload Audio like: your-file-name.wav"
+msgstr ""
+
+#: inc/metabox.php:163
+msgid "Embed Audio"
+msgstr ""
+
+#: inc/metabox.php:165
+msgid ""
+"Input URL for sounds, audios from Youtube, Soundcloud and all supported "
+"sites by WordPress, Supported list: http://codex.wordpress.org/Embeds"
+msgstr ""
+
+#: inc/metabox.php:178
+msgid "Post Video Settings"
+msgstr ""
+
+#: inc/metabox.php:185
+msgid "Featured Video (.mp4)"
+msgstr ""
+
+#: inc/metabox.php:187
+msgid "Upload Video like: your-file-name.mp4"
+msgstr ""
+
+#: inc/metabox.php:193
+msgid "Featured Video (.webm)"
+msgstr ""
+
+#: inc/metabox.php:195
+msgid "Upload Video like: your-file-name.webm"
+msgstr ""
+
+#: inc/metabox.php:201
+msgid "Featured Video (.ogv)"
+msgstr ""
+
+#: inc/metabox.php:203
+msgid "Upload Video like: your-file-name.ogv"
+msgstr ""
+
+#: inc/metabox.php:209
+msgid "Embed Video"
+msgstr ""
+
+#: inc/metabox.php:211
+msgid "Enter embed code here."
+msgstr ""
+
+#: inc/metabox.php:225
+msgid "Post Gallery Settings"
+msgstr ""
+
+#: inc/metabox.php:232
+msgid "Upload image from media library"
+msgstr ""
+
+#: inc/metabox.php:253
+msgid "Upload page header background"
+msgstr ""
+
+#: inc/metabox.php:257
+msgid "Dimension: 1920px x 450px"
+msgstr ""
+
+#: inc/metabox.php:269
+msgid "Story Settings"
+msgstr ""
+
+#: inc/metabox.php:276
+msgid "Story year"
+msgstr ""
+
+#: inc/metabox.php:278
+msgid "Enter story year"
+msgstr ""
+
+#: inc/metabox.php:292
+msgid "Member Settings"
+msgstr ""
+
+#: inc/metabox.php:296
+msgid "Member Designation"
+msgstr ""
+
+#: inc/metabox.php:298
+msgid "Enter member designation"
+msgstr ""
+
+#: inc/metabox.php:303
+msgid "Educational Qualification"
+msgstr ""
+
+#: inc/metabox.php:305
+msgid "Enter educational qualification"
+msgstr ""
+
+#: inc/metabox.php:313
+msgid "Address"
+msgstr ""
+
+#: inc/metabox.php:315
+msgid "Enter member address"
+msgstr ""
+
+#: inc/metabox.php:329
+msgid "Member Social Settings"
+msgstr ""
+
+#: inc/metabox.php:335
+msgid "Enter facebook page or profile link"
+msgstr ""
+
+#: inc/metabox.php:341
+msgid "Enter twitter profile link"
+msgstr ""
+
+#: inc/metabox.php:347
+msgid "Enter google plus profile or page link"
+msgstr ""
+
+#: inc/metabox.php:353
+msgid "Enter linkedin profile link"
+msgstr ""
+
+#: inc/metabox.php:359
+msgid "Enter flickr profile link"
+msgstr ""
+
+#: inc/metabox.php:365
+msgid "Enter youtube channel link"
+msgstr ""
+
+#: inc/metabox.php:384
+msgid "Event Date"
+msgstr ""
+
+#: inc/metabox.php:386
+msgid "Pick your event date"
+msgstr ""
+
+#: inc/metabox.php:391
+msgid "Event start time"
+msgstr ""
+
+#: inc/metabox.php:394
+msgid "Select start time"
+msgstr ""
+
+#: inc/metabox.php:396 inc/metabox.php:502
+msgid "12:15 AM"
+msgstr ""
+
+#: inc/metabox.php:397 inc/metabox.php:503
+msgid "12:30 AM"
+msgstr ""
+
+#: inc/metabox.php:398 inc/metabox.php:504
+msgid "12:45 AM"
+msgstr ""
+
+#: inc/metabox.php:399 inc/metabox.php:505
+msgid "01:00 AM"
+msgstr ""
+
+#: inc/metabox.php:400 inc/metabox.php:506
+msgid "01:15 AM"
+msgstr ""
+
+#: inc/metabox.php:401 inc/metabox.php:507
+msgid "01:30 AM"
+msgstr ""
+
+#: inc/metabox.php:402 inc/metabox.php:508
+msgid "01:45 AM"
+msgstr ""
+
+#: inc/metabox.php:403 inc/metabox.php:509
+msgid "02:00 AM"
+msgstr ""
+
+#: inc/metabox.php:404 inc/metabox.php:510
+msgid "02:15 AM"
+msgstr ""
+
+#: inc/metabox.php:405 inc/metabox.php:511
+msgid "02:30 AM"
+msgstr ""
+
+#: inc/metabox.php:406 inc/metabox.php:512
+msgid "02:45 AM"
+msgstr ""
+
+#: inc/metabox.php:407 inc/metabox.php:513
+msgid "03:00 AM"
+msgstr ""
+
+#: inc/metabox.php:408 inc/metabox.php:514
+msgid "03:15 AM"
+msgstr ""
+
+#: inc/metabox.php:409 inc/metabox.php:515
+msgid "03:30 AM"
+msgstr ""
+
+#: inc/metabox.php:410 inc/metabox.php:516
+msgid "03:45 AM"
+msgstr ""
+
+#: inc/metabox.php:411 inc/metabox.php:517
+msgid "04:00 AM"
+msgstr ""
+
+#: inc/metabox.php:412 inc/metabox.php:518
+msgid "04:15 AM"
+msgstr ""
+
+#: inc/metabox.php:413 inc/metabox.php:519
+msgid "04:30 AM"
+msgstr ""
+
+#: inc/metabox.php:414 inc/metabox.php:520
+msgid "04:45 AM"
+msgstr ""
+
+#: inc/metabox.php:415 inc/metabox.php:521
+msgid "05:00 AM"
+msgstr ""
+
+#: inc/metabox.php:416 inc/metabox.php:522
+msgid "05:15 AM"
+msgstr ""
+
+#: inc/metabox.php:417 inc/metabox.php:523
+msgid "05:30 AM"
+msgstr ""
+
+#: inc/metabox.php:418 inc/metabox.php:524
+msgid "05:45 AM"
+msgstr ""
+
+#: inc/metabox.php:419 inc/metabox.php:525
+msgid "06:00 AM"
+msgstr ""
+
+#: inc/metabox.php:420 inc/metabox.php:526
+msgid "06:15 AM"
+msgstr ""
+
+#: inc/metabox.php:421 inc/metabox.php:527
+msgid "06:30 AM"
+msgstr ""
+
+#: inc/metabox.php:422 inc/metabox.php:528
+msgid "06:45 AM"
+msgstr ""
+
+#: inc/metabox.php:423 inc/metabox.php:529
+msgid "07:00 AM"
+msgstr ""
+
+#: inc/metabox.php:424 inc/metabox.php:530
+msgid "07:15 AM"
+msgstr ""
+
+#: inc/metabox.php:425 inc/metabox.php:531
+msgid "07:30 AM"
+msgstr ""
+
+#: inc/metabox.php:426 inc/metabox.php:532
+msgid "07:45 AM"
+msgstr ""
+
+#: inc/metabox.php:427 inc/metabox.php:533
+msgid "08:00 AM"
+msgstr ""
+
+#: inc/metabox.php:428 inc/metabox.php:534
+msgid "08:15 AM"
+msgstr ""
+
+#: inc/metabox.php:429 inc/metabox.php:535
+msgid "08:30 AM"
+msgstr ""
+
+#: inc/metabox.php:430 inc/metabox.php:536
+msgid "08:45 AM"
+msgstr ""
+
+#: inc/metabox.php:431 inc/metabox.php:537
+msgid "09:00 AM"
+msgstr ""
+
+#: inc/metabox.php:432 inc/metabox.php:538
+msgid "09:15 AM"
+msgstr ""
+
+#: inc/metabox.php:433 inc/metabox.php:539
+msgid "09:30 AM"
+msgstr ""
+
+#: inc/metabox.php:434 inc/metabox.php:540
+msgid "09:45 AM"
+msgstr ""
+
+#: inc/metabox.php:435 inc/metabox.php:541
+msgid "10:00 AM"
+msgstr ""
+
+#: inc/metabox.php:436 inc/metabox.php:542
+msgid "10:15 AM"
+msgstr ""
+
+#: inc/metabox.php:437 inc/metabox.php:543
+msgid "10:30 AM"
+msgstr ""
+
+#: inc/metabox.php:438 inc/metabox.php:544
+msgid "10:45 AM"
+msgstr ""
+
+#: inc/metabox.php:439 inc/metabox.php:545
+msgid "11:00 AM"
+msgstr ""
+
+#: inc/metabox.php:440 inc/metabox.php:546
+msgid "11:15 AM"
+msgstr ""
+
+#: inc/metabox.php:441 inc/metabox.php:547
+msgid "11:30 AM"
+msgstr ""
+
+#: inc/metabox.php:442 inc/metabox.php:548
+msgid "11:45 AM"
+msgstr ""
+
+#: inc/metabox.php:443 inc/metabox.php:549
+msgid "12:00 PM"
+msgstr ""
+
+#: inc/metabox.php:444 inc/metabox.php:550
+msgid "12:15 PM"
+msgstr ""
+
+#: inc/metabox.php:445 inc/metabox.php:551
+msgid "12:30 PM"
+msgstr ""
+
+#: inc/metabox.php:446 inc/metabox.php:552
+msgid "12:45 PM"
+msgstr ""
+
+#: inc/metabox.php:447 inc/metabox.php:553
+msgid "01:00 PM"
+msgstr ""
+
+#: inc/metabox.php:448 inc/metabox.php:554
+msgid "01:15 PM"
+msgstr ""
+
+#: inc/metabox.php:449 inc/metabox.php:555
+msgid "01:30 PM"
+msgstr ""
+
+#: inc/metabox.php:450 inc/metabox.php:556
+msgid "01:45 PM"
+msgstr ""
+
+#: inc/metabox.php:451 inc/metabox.php:557
+msgid "02:00 PM"
+msgstr ""
+
+#: inc/metabox.php:452 inc/metabox.php:558
+msgid "02:15 PM"
+msgstr ""
+
+#: inc/metabox.php:453 inc/metabox.php:559
+msgid "02:30 PM"
+msgstr ""
+
+#: inc/metabox.php:454 inc/metabox.php:560
+msgid "02:45 PM"
+msgstr ""
+
+#: inc/metabox.php:455 inc/metabox.php:561
+msgid "03:00 PM"
+msgstr ""
+
+#: inc/metabox.php:456 inc/metabox.php:562
+msgid "03:15 PM"
+msgstr ""
+
+#: inc/metabox.php:457 inc/metabox.php:563
+msgid "03:30 PM"
+msgstr ""
+
+#: inc/metabox.php:458 inc/metabox.php:564
+msgid "03:45 PM"
+msgstr ""
+
+#: inc/metabox.php:459 inc/metabox.php:565
+msgid "04:00 PM"
+msgstr ""
+
+#: inc/metabox.php:460 inc/metabox.php:566
+msgid "04:15 PM"
+msgstr ""
+
+#: inc/metabox.php:461 inc/metabox.php:567
+msgid "04:30 PM"
+msgstr ""
+
+#: inc/metabox.php:462 inc/metabox.php:568
+msgid "04:45 PM"
+msgstr ""
+
+#: inc/metabox.php:463 inc/metabox.php:569
+msgid "05:00 PM"
+msgstr ""
+
+#: inc/metabox.php:464 inc/metabox.php:570
+msgid "05:15 PM"
+msgstr ""
+
+#: inc/metabox.php:465 inc/metabox.php:571
+msgid "05:30 PM"
+msgstr ""
+
+#: inc/metabox.php:466 inc/metabox.php:572
+msgid "05:45 PM"
+msgstr ""
+
+#: inc/metabox.php:467 inc/metabox.php:573
+msgid "06:00 PM"
+msgstr ""
+
+#: inc/metabox.php:468 inc/metabox.php:574
+msgid "06:15 PM"
+msgstr ""
+
+#: inc/metabox.php:469 inc/metabox.php:575
+msgid "06:30 PM"
+msgstr ""
+
+#: inc/metabox.php:470 inc/metabox.php:576
+msgid "06:45 PM"
+msgstr ""
+
+#: inc/metabox.php:471 inc/metabox.php:577
+msgid "07:00 PM"
+msgstr ""
+
+#: inc/metabox.php:472 inc/metabox.php:578
+msgid "07:15 PM"
+msgstr ""
+
+#: inc/metabox.php:473 inc/metabox.php:579
+msgid "07:30 PM"
+msgstr ""
+
+#: inc/metabox.php:474 inc/metabox.php:580
+msgid "07:45 PM"
+msgstr ""
+
+#: inc/metabox.php:475 inc/metabox.php:581
+msgid "08:00 PM"
+msgstr ""
+
+#: inc/metabox.php:476 inc/metabox.php:582
+msgid "08:15 PM"
+msgstr ""
+
+#: inc/metabox.php:477 inc/metabox.php:583
+msgid "08:30 PM"
+msgstr ""
+
+#: inc/metabox.php:478 inc/metabox.php:584
+msgid "08:45 PM"
+msgstr ""
+
+#: inc/metabox.php:479 inc/metabox.php:585
+msgid "09:00 PM"
+msgstr ""
+
+#: inc/metabox.php:480 inc/metabox.php:586
+msgid "09:15 PM"
+msgstr ""
+
+#: inc/metabox.php:481 inc/metabox.php:587
+msgid "09:30 PM"
+msgstr ""
+
+#: inc/metabox.php:482 inc/metabox.php:588
+msgid "09:45 PM"
+msgstr ""
+
+#: inc/metabox.php:483 inc/metabox.php:589
+msgid "10:00 PM"
+msgstr ""
+
+#: inc/metabox.php:484 inc/metabox.php:590
+msgid "10:15 PM"
+msgstr ""
+
+#: inc/metabox.php:485 inc/metabox.php:591
+msgid "10:30 PM"
+msgstr ""
+
+#: inc/metabox.php:486 inc/metabox.php:592
+msgid "10:45 PM"
+msgstr ""
+
+#: inc/metabox.php:487 inc/metabox.php:593
+msgid "11:00 PM"
+msgstr ""
+
+#: inc/metabox.php:488 inc/metabox.php:594
+msgid "11:15 PM"
+msgstr ""
+
+#: inc/metabox.php:489 inc/metabox.php:595
+msgid "11:30 PM"
+msgstr ""
+
+#: inc/metabox.php:490 inc/metabox.php:596
+msgid "11:45 PM"
+msgstr ""
+
+#: inc/metabox.php:497
+msgid "Event end time"
+msgstr ""
+
+#: inc/metabox.php:603
+msgid "Event Location"
+msgstr ""
+
+#: inc/metabox.php:605
+msgid "Enter event location, separated by commas (for ex. city, state)"
+msgstr ""
+
+#: inc/metabox.php:610
+msgid "Location Map"
+msgstr ""
+
+#: inc/template-tags.php:29
+msgid "Prev"
+msgstr ""
+
+#: inc/template-tags.php:38 inc/template-tags.php:96 inc/template-tags.php:131
+msgid "Next"
+msgstr ""
+
+#: inc/template-tags.php:69
+msgid "Newer Posts"
+msgstr ""
+
+#: inc/template-tags.php:95 inc/template-tags.php:130
+msgid "Prev."
+msgstr ""
+
+#: inc/template-tags.php:161
+msgid "Next page"
+msgstr ""
+
+#: inc/template-tags.php:162
+msgid "Previous page"
+msgstr ""
+
+#: inc/template-tags.php:244 template-parts/content-audio.php:87
+#: template-parts/content-chat.php:70 template-parts/content-gallery.php:83
+#: template-parts/content-link.php:72 template-parts/content-quote.php:72
+#: template-parts/content-search.php:48 template-parts/content-video.php:86
+#: template-parts/content.php:67
+msgid ", "
+msgstr ""
+
+#: inc/template-tags.php:252
+msgid "0"
+msgstr ""
+
+#: inc/template-tags.php:253
+msgid "1"
+msgstr ""
+
+#: inc/template-tags.php:254
+msgid "%"
+msgstr ""
+
+#: inc/template-tags.php:255
+msgid "Comments are Closed"
+msgstr ""
+
+#: inc/template-tags.php:267 inc/template-tags.php:292
+msgid "Edit Post"
+msgstr ""
+
+#: inc/template-tags.php:366
+msgid ""
+"This post is password protected. To view it please enter your password below:"
+msgstr ""
+
+#: inc/template-tags.php:388
+msgid "Home"
+msgstr ""
+
+#: inc/template-tags.php:392
+msgid "Posts Tagged "
+msgstr ""
+
+#: inc/template-tags.php:394 inc/template-tags.php:396
+#: inc/template-tags.php:398
+msgid "Posts made in"
+msgstr ""
+
+#: inc/template-tags.php:400
+msgid "Search results for"
+msgstr ""
+
+#: inc/template-tags.php:432
+msgid "Posts by: "
+msgstr ""
+
+#: inc/template-tags.php:436
+msgid "Blog"
+msgstr ""
+
+#: inc/template-tags.php:456 inc/template-tags.php:459
+#: inc/template-tags.php:462
+#, php-format
+msgid "Archive of: %s"
+msgstr ""
+
+#: inc/template-tags.php:467
+msgid "404 Not Found"
+msgstr ""
+
+#: inc/template-tags.php:471
+#, php-format
+msgid "Search result for: \"%s\""
+msgstr ""
+
+#: inc/template-tags.php:475
+#, php-format
+msgid "Category: %s"
+msgstr ""
+
+#: inc/template-tags.php:479
+#, php-format
+msgid "Tag: %s"
+msgstr ""
+
+#: inc/template-tags.php:483
+#, php-format
+msgid "Posts of: %s"
+msgstr ""
+
+#: inc/template-tags.php:487 inc/template-tags.php:491
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: inc/template-tags.php:673
+#, php-format
+msgid "Required fields are marked %s"
+msgstr ""
+
+#: inc/template-tags.php:679
+msgid "Comment"
+msgstr ""
+
+#: inc/template-tags.php:686
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: inc/template-tags.php:687
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: inc/template-tags.php:688
+msgid "Your email address will not be published."
+msgstr ""
+
+#: inc/template-tags.php:689
+#, php-format
+msgid ""
+"You may use these <abbr title=\"HyperText Markup Language\">HTML</abbr> tags "
+"and attributes: %s"
+msgstr ""
+
+#: inc/template-tags.php:692
+msgid "Leave a Reply"
+msgstr ""
+
+#: inc/template-tags.php:693
+#, php-format
+msgid "Leave a Reply to %s"
+msgstr ""
+
+#: inc/template-tags.php:694
+msgid "Cancel reply"
+msgstr ""
+
+#: inc/template-tags.php:695
+msgid "Submit Comment"
+msgstr ""
+
+#: inc/template-tags.php:769
+msgid "Pingback:"
+msgstr ""
+
+#: inc/template-tags.php:769
+msgid "(Edit)"
+msgstr ""
+
+#: inc/template-tags.php:791
+msgid "By"
+msgstr ""
+
+#: inc/template-tags.php:796
+msgid "Edit"
+msgstr ""
+
+#: inc/template-tags.php:803
+msgid "Reply"
+msgstr ""
+
+#: inc/template-tags.php:814
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: inc/tt-mobile-navwalker.php:223 inc/tt-navwalker.php:232
+msgid "Add a menu"
+msgstr ""
+
+#: page-templates/issue-left-sidebar.php:42
+#: page-templates/issue-no-sidebar.php:43
+#: page-templates/issue-right-sidebar.php:43 single-tt-issue.php:15
+#: taxonomy-tt-issue-cat.php:45
+msgid "In"
+msgstr ""
+
+#: page-templates/issue-left-sidebar.php:49
+#: page-templates/issue-no-sidebar.php:50
+#: page-templates/issue-right-sidebar.php:50 single-tt-issue.php:22
+#: taxonomy-tt-issue-cat.php:52
+#, php-format
+msgid "View all posts in %s"
+msgstr ""
+
+#: page-templates/issue-left-sidebar.php:58
+#: page-templates/issue-no-sidebar.php:59
+#: page-templates/issue-right-sidebar.php:59 taxonomy-tt-issue-cat.php:61
+#: template-parts/content-audio.php:69 template-parts/content-chat.php:52
+#: template-parts/content-gallery.php:65 template-parts/content-link.php:54
+#: template-parts/content-page.php:8 template-parts/content-quote.php:54
+#: template-parts/content-search.php:30 template-parts/content-video.php:68
+#: template-parts/content.php:49
+msgid "Read More"
+msgstr ""
+
+#: page-templates/issue-left-sidebar.php:71
+#: page-templates/issue-no-sidebar.php:72
+#: page-templates/issue-right-sidebar.php:72 taxonomy-tt-issue-cat.php:74
+msgid "Issue not found !"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:331
+msgid "Install Required Plugins"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:332
+msgid "Install Plugins"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:333
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:334
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:335
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:337
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:347
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:352
+#, php-format
+msgid "There is an update available for: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:357
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:362
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:367
+msgid "Begin installing plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:372
+msgid "Begin updating plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:377
+msgid "Begin activating plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:381
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:382
+msgid "Return to the dashboard"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:383
+#: required-plugins/class-tgm-plugin-activation.php:3169
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:384
+#: required-plugins/class-tgm-plugin-activation.php:2972
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:385
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:386
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:387
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:388
+msgid "Dismiss this notice"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:389
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:390
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:594
+msgid "Update Required"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:711
+msgid "Set the parent_slug config variable instead."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:904
+#: required-plugins/class-tgm-plugin-activation.php:3583
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1011
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1011
+#: required-plugins/class-tgm-plugin-activation.php:1014
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1014
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:1198
+#: required-plugins/class-tgm-plugin-activation.php:2968
+msgid "and"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2015
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2301
+msgid "Required"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2304
+msgid "Recommended"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2320
+msgid "WordPress Repository"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2323
+msgid "External Source"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2326
+msgid "Pre-Packaged"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2343
+msgid "Not Installed"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2347
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2349
+msgid "Active"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2355
+msgid "Required Update not Available"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2358
+msgid "Requires Update"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2361
+msgid "Update recommended"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2369
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2414
+#, php-format
+msgid "All <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2417
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2420
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2423
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2505
+msgid "unknown"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2513
+msgid "Installed version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2521
+msgid "Minimum required version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2533
+msgid "Available version:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2556
+#, php-format
+msgid ""
+"No plugins to install, update or activate. <a href=\"%1$s\">Return to the "
+"Dashboard</a>"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2570
+msgid "Plugin"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2571
+msgid "Source"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2572
+msgid "Type"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2576
+msgid "Version"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2577
+msgid "Status"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2625
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2629
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2634
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2704
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2737
+msgid "Install"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2743
+msgid "Update"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2746
+msgid "Activate"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2777
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2779
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2820
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2822
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2928
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:2954
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3168
+msgid "Plugin activation failed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3507
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3509
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3510
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3514
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3515
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3515
+#: required-plugins/class-tgm-plugin-activation.php:3521
+msgid "Show Details"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3515
+#: required-plugins/class-tgm-plugin-activation.php:3521
+msgid "Hide Details"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3516
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3517
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3520
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3521
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3522
+msgid "All installations have been completed."
+msgstr ""
+
+#: required-plugins/class-tgm-plugin-activation.php:3523
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: single-tt-event.php:76
+msgid "This event is passed"
+msgstr ""
+
+#: single-tt-member.php:125
+msgid "More Stuff"
+msgstr ""
+
+#: single-tt-member.php:200 visual-composer/shortcodes/tt_event_speaker.php:96
+#: visual-composer/shortcodes/tt_member.php:97
+#: visual-composer/shortcodes/tt_member_carousel.php:97
+msgid "Biography"
+msgstr ""
+
+#: single-tt-member.php:214 visual-composer/shortcodes/tt_member.php:111
+#: visual-composer/shortcodes/tt_member_carousel.php:109
+msgid "Member not found !"
+msgstr ""
+
+#: template-parts/content-audio.php:75 template-parts/content-chat.php:58
+#: template-parts/content-gallery.php:71 template-parts/content-link.php:60
+#: template-parts/content-page.php:10 template-parts/content-quote.php:60
+#: template-parts/content-search.php:36 template-parts/content-video.php:74
+#: template-parts/content.php:55
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content-audio.php:90 template-parts/content-chat.php:73
+#: template-parts/content-gallery.php:86 template-parts/content-link.php:75
+#: template-parts/content-quote.php:75 template-parts/content-search.php:51
+#: template-parts/content-video.php:89 template-parts/content.php:70
+#, php-format
+msgid "%1$s"
+msgstr ""
+
+#: template-parts/content-none.php:7
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:14
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:18
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:23
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/news-ticker.php:2
+msgid "Press :"
+msgstr ""
+
+#: template-parts/news-ticker.php:25
+#: visual-composer/shortcodes/tt_post_category.php:61
+msgid "Post not found !"
+msgstr ""
+
+#: template-parts/paypal-donation.php:27
+#: visual-composer/shortcodes/tt_donation_form.php:42
+msgid "First Name"
+msgstr ""
+
+#: template-parts/paypal-donation.php:31
+#: visual-composer/shortcodes/tt_donation_form.php:46
+msgid "Last Name"
+msgstr ""
+
+#: template-parts/paypal-donation.php:35
+#: visual-composer/shortcodes/tt_donation_form.php:50
+msgid "Address line 1"
+msgstr ""
+
+#: template-parts/paypal-donation.php:39
+#: visual-composer/shortcodes/tt_donation_form.php:54
+msgid "Address line 2"
+msgstr ""
+
+#: template-parts/paypal-donation.php:43
+#: visual-composer/shortcodes/tt_donation_form.php:58
+msgid "Email"
+msgstr ""
+
+#: template-parts/paypal-donation.php:47
+#: visual-composer/shortcodes/tt_donation_form.php:62
+msgid "City"
+msgstr ""
+
+#: template-parts/paypal-donation.php:51
+#: visual-composer/shortcodes/tt_donation_form.php:66
+msgid "State"
+msgstr ""
+
+#: template-parts/paypal-donation.php:55
+#: visual-composer/shortcodes/tt_donation_form.php:70
+msgid "Zip"
+msgstr ""
+
+#: template-parts/post-carousel.php:58
+msgid "No post found !"
+msgstr ""
+
+#: template-parts/post-share.php:11
+msgid "Share on Facebook!"
+msgstr ""
+
+#: template-parts/post-share.php:18
+#, php-format
+msgid "Reading: %s"
+msgstr ""
+
+#: template-parts/post-share.php:18
+msgid "Share on Twitter!"
+msgstr ""
+
+#: template-parts/post-share.php:25
+msgid "Share on Google+!"
+msgstr ""
+
+#: template-parts/post-share.php:32
+msgid "Share on Linkedin!"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:19
+msgid "Content Width"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:22
+msgid "Fixed Width"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:23
+msgid "Full Width"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:25
+msgid "Select content width"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:32
+msgid "Overlay Color"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:35
+msgid "-- Select --"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:36
+#: visual-composer/vc_extend/tt-archivement.php:44
+#: visual-composer/vc_extend/tt-icon-block.php:23
+#: visual-composer/vc_extend/tt-icon-block.php:167
+#: visual-composer/vc_extend/tt-latest-posts.php:64
+#: visual-composer/vc_extend/tt-reformation.php:65
+#: visual-composer/vc_extend/tt-spotlight-block.php:71
+msgid "Yes"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:37
+#: visual-composer/vc_extend/tt-archivement.php:45
+#: visual-composer/vc_extend/tt-icon-block.php:24
+#: visual-composer/vc_extend/tt-icon-block.php:166
+#: visual-composer/vc_extend/tt-latest-posts.php:65
+#: visual-composer/vc_extend/tt-reformation.php:66
+#: visual-composer/vc_extend/tt-spotlight-block.php:72
+msgid "No"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:39
+msgid "If you want to apply overlay color on background image then select yes"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:45
+#: visual-composer/vc_extend/tt-archivement.php:21
+#: visual-composer/vc_extend/tt-archivement.php:111
+#: visual-composer/vc_extend/tt-biography.php:213
+#: visual-composer/vc_extend/tt-client-carousel.php:56
+#: visual-composer/vc_extend/tt-count-up.php:23
+#: visual-composer/vc_extend/tt-count-up.php:77
+#: visual-composer/vc_extend/tt-donation-form.php:18
+#: visual-composer/vc_extend/tt-donation-modal.php:35
+#: visual-composer/vc_extend/tt-event-schedule.php:64
+#: visual-composer/vc_extend/tt-event-speaker.php:69
+#: visual-composer/vc_extend/tt-featured-event.php:49
+#: visual-composer/vc_extend/tt-gallery.php:76
+#: visual-composer/vc_extend/tt-google-map.php:41
+#: visual-composer/vc_extend/tt-home-banner.php:41
+#: visual-composer/vc_extend/tt-home-slider.php:46
+#: visual-composer/vc_extend/tt-home-slider.php:198
+#: visual-composer/vc_extend/tt-icon-block.php:189
+#: visual-composer/vc_extend/tt-latest-posts.php:97
+#: visual-composer/vc_extend/tt-member-carousel.php:66
+#: visual-composer/vc_extend/tt-member.php:66
+#: visual-composer/vc_extend/tt-newsletter.php:18
+#: visual-composer/vc_extend/tt-popup.php:40
+#: visual-composer/vc_extend/tt-post-category.php:90
+#: visual-composer/vc_extend/tt-reformation.php:110
+#: visual-composer/vc_extend/tt-section-title.php:153
+#: visual-composer/vc_extend/tt-social-count-plus.php:19
+#: visual-composer/vc_extend/tt-social-links.php:23
+#: visual-composer/vc_extend/tt-social-links.php:83
+#: visual-composer/vc_extend/tt-spotlight-block.php:117
+#: visual-composer/vc_extend/tt-story.php:38
+#: visual-composer/vc_extend/tt-story.php:87
+#: visual-composer/vc_extend/tt-testimonial.php:21
+#: visual-composer/vc_extend/tt-testimonial.php:108
+#: visual-composer/vc_extend/tt-text-rotator.php:62
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:43
+#: visual-composer/vc_extend/tt-twitter-feed.php:35
+#: visual-composer/vc_extend/tt-upcoming-event.php:104
+msgid "Extra class name"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:47
+msgid ""
+"Style particular content element differently - add a class name and refer to "
+"it in custom CSS."
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:57
+msgid "Classic"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:58
+msgid "Ultra Classic"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:59
+msgid "Modern"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:60
+msgid "Flat"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:61
+msgid "Outline"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:63
+#: visual-composer/vc_extend/tt-icon-block.php:31
+msgid "Style"
+msgstr ""
+
+#: visual-composer/params/vc_custom_params.php:64
+msgid "Select tabs display style."
+msgstr ""
+
+#: visual-composer/shortcodes/tt_donation_form.php:19
+msgid "$500"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_donation_form.php:22
+msgid "$200"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_donation_form.php:25
+msgid "$100"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_donation_form.php:28
+msgid "$50"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_donation_form.php:31
+msgid "or, enter your amount"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_event_speaker.php:108
+msgid "Speaker not found !"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_featured_event.php:69
+#: visual-composer/shortcodes/tt_upcoming_event.php:75
+msgid "Event not found !"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_latest_post.php:81
+msgid "Sorry, no posts matched your criteria."
+msgstr ""
+
+#: visual-composer/shortcodes/tt_post_category.php:66
+#: visual-composer/shortcodes/tt_twitter_feed_spokesman.php:17
+msgid "View All"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_reformation.php:35
+msgid "All"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_reformation.php:106
+msgid "Sorry, reformation not found !"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_spotlight_block.php:33
+msgid "Learn more"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_story.php:50
+#: visual-composer/vc_extend/tt-spotlight-block.php:83
+msgid "Learn More"
+msgstr ""
+
+#: visual-composer/shortcodes/tt_story.php:62
+msgid "Story not found !"
+msgstr ""
+
+#: visual-composer/templates/ability-section.php:8
+msgid "Ability Section"
+msgstr ""
+
+#: visual-composer/templates/about-section.php:8
+msgid "About Section"
+msgstr ""
+
+#: visual-composer/templates/address-section.php:8
+msgid "Address Section"
+msgstr ""
+
+#: visual-composer/templates/archivement-section.php:8
+msgid "Archivement Section"
+msgstr ""
+
+#: visual-composer/templates/campaign-section.php:8
+msgid "Campaign Section"
+msgstr ""
+
+#: visual-composer/templates/contact-section.php:8
+msgid "Contact Section"
+msgstr ""
+
+#: visual-composer/templates/counting-section.php:8
+msgid "Counting Section"
+msgstr ""
+
+#: visual-composer/templates/donation-section.php:8
+msgid "Donation Section"
+msgstr ""
+
+#: visual-composer/templates/event-single-page.php:8
+msgid "Single Event Page"
+msgstr ""
+
+#: visual-composer/templates/header-image-background.php:8
+msgid "Header Image Background"
+msgstr ""
+
+#: visual-composer/templates/header-parallax.php:8
+msgid "Header Parallax"
+msgstr ""
+
+#: visual-composer/templates/header-slider.php:8
+msgid "Header Slider"
+msgstr ""
+
+#: visual-composer/templates/header-text-rotator.php:8
+msgid "Header Text Rotator"
+msgstr ""
+
+#: visual-composer/templates/header-video-background.php:8
+msgid "Header Video Background"
+msgstr ""
+
+#: visual-composer/templates/home-onepage.php:8
+msgid "Home - OnePage"
+msgstr ""
+
+#: visual-composer/templates/mission-section.php:8
+msgid "Mission Section"
+msgstr ""
+
+#: visual-composer/templates/newsletter-section.php:8
+msgid "Newsletter Section"
+msgstr ""
+
+#: visual-composer/templates/press-section.php:8
+msgid "Press Section"
+msgstr ""
+
+#: visual-composer/templates/reformation-page.php:8
+msgid "Reformation Page"
+msgstr ""
+
+#: visual-composer/templates/reformation-section.php:8
+msgid "Reformation Section"
+msgstr ""
+
+#: visual-composer/templates/spotlight-section.php:8
+msgid "Spotlight Section"
+msgstr ""
+
+#: visual-composer/templates/story-section.php:8
+msgid "story Section"
+msgstr ""
+
+#: visual-composer/templates/team-section.php:8
+msgid "Team Section"
+msgstr ""
+
+#: visual-composer/templates/testimonial-section.php:8
+msgid "Testimonial Section"
+msgstr ""
+
+#: visual-composer/templates/twitter-section.php:8
+msgid "Twitter Section"
+msgstr ""
+
+#: visual-composer/templates/upcoming-event.php:8
+msgid "Upcoming event page"
+msgstr ""
+
+#: visual-composer/templates/volunteer-section.php:8
+msgid "Volunteer Section"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:10
+msgid "TT Achivement"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:13
+msgid "Show off archivement"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:17
+#: visual-composer/vc_extend/tt-biography.php:13
+#: visual-composer/vc_extend/tt-client-carousel.php:13
+#: visual-composer/vc_extend/tt-count-up.php:18
+#: visual-composer/vc_extend/tt-donation-form.php:13
+#: visual-composer/vc_extend/tt-donation-modal.php:13
+#: visual-composer/vc_extend/tt-event-schedule.php:13
+#: visual-composer/vc_extend/tt-event-speaker.php:29
+#: visual-composer/vc_extend/tt-featured-event.php:27
+#: visual-composer/vc_extend/tt-gallery.php:13
+#: visual-composer/vc_extend/tt-google-map.php:13
+#: visual-composer/vc_extend/tt-home-banner.php:13
+#: visual-composer/vc_extend/tt-home-slider.php:41
+#: visual-composer/vc_extend/tt-icon-block.php:13
+#: visual-composer/vc_extend/tt-member-carousel.php:13
+#: visual-composer/vc_extend/tt-member.php:13
+#: visual-composer/vc_extend/tt-newsletter.php:13
+#: visual-composer/vc_extend/tt-popup.php:13
+#: visual-composer/vc_extend/tt-post-category.php:21
+#: visual-composer/vc_extend/tt-reformation.php:13
+#: visual-composer/vc_extend/tt-section-title.php:13
+#: visual-composer/vc_extend/tt-social-count-plus.php:13
+#: visual-composer/vc_extend/tt-social-links.php:18
+#: visual-composer/vc_extend/tt-spotlight-block.php:13
+#: visual-composer/vc_extend/tt-story.php:34
+#: visual-composer/vc_extend/tt-testimonial.php:17
+#: visual-composer/vc_extend/tt-text-rotator.php:13
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:13
+#: visual-composer/vc_extend/tt-twitter-feed.php:13
+#: visual-composer/vc_extend/tt-upcoming-event.php:13
+msgid "TT Elements"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:23
+#: visual-composer/vc_extend/tt-archivement.php:113
+#: visual-composer/vc_extend/tt-biography.php:215
+#: visual-composer/vc_extend/tt-client-carousel.php:58
+#: visual-composer/vc_extend/tt-count-up.php:25
+#: visual-composer/vc_extend/tt-count-up.php:79
+#: visual-composer/vc_extend/tt-donation-form.php:20
+#: visual-composer/vc_extend/tt-donation-modal.php:37
+#: visual-composer/vc_extend/tt-event-schedule.php:66
+#: visual-composer/vc_extend/tt-event-speaker.php:72
+#: visual-composer/vc_extend/tt-featured-event.php:51
+#: visual-composer/vc_extend/tt-gallery.php:78
+#: visual-composer/vc_extend/tt-google-map.php:43
+#: visual-composer/vc_extend/tt-home-banner.php:43
+#: visual-composer/vc_extend/tt-home-slider.php:48
+#: visual-composer/vc_extend/tt-home-slider.php:200
+#: visual-composer/vc_extend/tt-icon-block.php:191
+#: visual-composer/vc_extend/tt-latest-posts.php:100
+#: visual-composer/vc_extend/tt-member-carousel.php:69
+#: visual-composer/vc_extend/tt-member.php:69
+#: visual-composer/vc_extend/tt-newsletter.php:21
+#: visual-composer/vc_extend/tt-popup.php:42
+#: visual-composer/vc_extend/tt-post-category.php:92
+#: visual-composer/vc_extend/tt-reformation.php:112
+#: visual-composer/vc_extend/tt-section-title.php:155
+#: visual-composer/vc_extend/tt-social-count-plus.php:22
+#: visual-composer/vc_extend/tt-social-links.php:25
+#: visual-composer/vc_extend/tt-social-links.php:85
+#: visual-composer/vc_extend/tt-spotlight-block.php:120
+#: visual-composer/vc_extend/tt-story.php:40
+#: visual-composer/vc_extend/tt-story.php:89
+#: visual-composer/vc_extend/tt-testimonial.php:23
+#: visual-composer/vc_extend/tt-testimonial.php:110
+#: visual-composer/vc_extend/tt-text-rotator.php:64
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:46
+#: visual-composer/vc_extend/tt-twitter-feed.php:38
+#: visual-composer/vc_extend/tt-upcoming-event.php:106
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:30
+msgid "Achivement item"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:40
+#: visual-composer/vc_extend/tt-icon-block.php:19
+msgid "Show icon ?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:43
+#: visual-composer/vc_extend/tt-icon-block.php:22
+#: visual-composer/vc_extend/tt-icon-block.php:51
+msgid "select option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:47
+#: visual-composer/vc_extend/tt-icon-block.php:26
+msgid "If you do not like to show icon then select no"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:52
+msgid "Icon option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:56
+#: visual-composer/vc_extend/tt-event-speaker.php:59
+#: visual-composer/vc_extend/tt-latest-posts.php:63
+#: visual-composer/vc_extend/tt-member-carousel.php:43
+#: visual-composer/vc_extend/tt-member-carousel.php:56
+#: visual-composer/vc_extend/tt-member.php:43
+#: visual-composer/vc_extend/tt-member.php:56
+#: visual-composer/vc_extend/tt-section-title.php:95
+#: visual-composer/vc_extend/tt-spotlight-block.php:70
+#: visual-composer/vc_extend/tt-testimonial.php:44
+msgid "Select an option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:57
+#: visual-composer/vc_extend/tt-archivement.php:70
+msgid "Thumb icon"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:58
+msgid "Font icon"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:61
+msgid "Select an option to use icon"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:72
+#: visual-composer/vc_extend/tt-testimonial.php:56
+msgid "Select images from media library, dimension: 100x100"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:81
+msgid "Font Icon"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:86
+#: visual-composer/vc_extend/tt-count-up.php:47
+#: visual-composer/vc_extend/tt-icon-block.php:82
+msgid "Flaticon list. Pickup your choice."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:96
+#: visual-composer/vc_extend/tt-icon-block.php:129
+#: visual-composer/vc_extend/tt-section-title.php:19
+#: visual-composer/vc_extend/tt-spotlight-block.php:39
+msgid "Title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:99
+msgid "Enter archivement name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:104
+msgid "Archivement details"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-archivement.php:106
+msgid "Enter description of archivement"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:10
+msgid "TT President Biography"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:14
+msgid "Displays Biography"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:18
+msgid "Leader photo"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:20
+msgid "Upload photo from media library"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:25
+msgid "Party Leader Name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:28
+msgid "Enter leader/head of party member name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:33
+#: visual-composer/vc_extend/tt-biography.php:183
+msgid "Designation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:36
+msgid "Enter leader/head of party member designation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:41
+msgid "Biography details"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:43
+msgid "Enter details of biography"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:48
+msgid "Sign"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:50
+msgid "Upload scan copy of sign from media library"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:55
+msgid "Biography info"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:57
+#: visual-composer/vc_extend/tt-biography.php:83
+msgid "Enter biography info (click toggle row to input data)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:62
+msgid "Info label"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:65
+msgid "Enter info label"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:69
+msgid "Info value"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:72
+msgid "Enter info value"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:81
+msgid "Social Info"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:88
+#: visual-composer/vc_extend/tt-icon-block.php:52
+#: visual-composer/vc_extend/tt-icon-block.php:63
+msgid "Fontawesome"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:94
+msgid "Fontawesome icon lists. Pickup your choice."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:100
+#: visual-composer/vc_extend/tt-icon-block.php:173
+#: visual-composer/vc_extend/tt-latest-posts.php:86
+#: visual-composer/vc_extend/tt-social-links.php:76
+msgid "Link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:103
+msgid "Enter social profile/page link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:112
+#: visual-composer/vc_extend/tt-biography.php:160
+msgid "Title Label"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:114
+msgid "Enter title of education"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:116
+msgid "Education"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:121
+msgid "Education info"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:123
+msgid "Enter education info (click toggle row to input data)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:128
+msgid "Exam or subject name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:131
+msgid "Enter exam or subject name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:135
+msgid "School or university name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:137
+msgid "Enter studied school or university name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:141
+msgid "Academic Year"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:144
+msgid "Enter exam academic year, e.g: (1992-1995)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:148
+#: visual-composer/vc_extend/tt-biography.php:196
+#: visual-composer/vc_extend/tt-spotlight-block.php:59
+msgid "Short description"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:150
+msgid "Enter short description about education"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:162
+msgid "Enter title of career"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:164
+msgid "Political Career"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:169
+msgid "Career info"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:171
+msgid "Enter career info (click toggle row to input data)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:176
+msgid "Career title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:179
+msgid "Enter career title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:185
+msgid "Enter career designation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:189
+msgid "Career period"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:192
+msgid "Enter career period, e.g: (1992-1995)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:198
+msgid "Enter short description about career"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:206
+#: visual-composer/vc_extend/tt-client-carousel.php:49
+#: visual-composer/vc_extend/tt-donation-form.php:25
+#: visual-composer/vc_extend/tt-donation-modal.php:28
+#: visual-composer/vc_extend/tt-event-schedule.php:57
+#: visual-composer/vc_extend/tt-featured-event.php:42
+#: visual-composer/vc_extend/tt-gallery.php:69
+#: visual-composer/vc_extend/tt-home-slider.php:191
+#: visual-composer/vc_extend/tt-icon-block.php:183
+#: visual-composer/vc_extend/tt-popup.php:33
+#: visual-composer/vc_extend/tt-post-category.php:83
+#: visual-composer/vc_extend/tt-section-title.php:146
+#: visual-composer/vc_extend/tt-upcoming-event.php:97
+msgid "Css"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-biography.php:208
+#: visual-composer/vc_extend/tt-client-carousel.php:51
+#: visual-composer/vc_extend/tt-donation-form.php:27
+#: visual-composer/vc_extend/tt-donation-modal.php:30
+#: visual-composer/vc_extend/tt-event-schedule.php:59
+#: visual-composer/vc_extend/tt-featured-event.php:44
+#: visual-composer/vc_extend/tt-gallery.php:71
+#: visual-composer/vc_extend/tt-home-slider.php:193
+#: visual-composer/vc_extend/tt-icon-block.php:185
+#: visual-composer/vc_extend/tt-popup.php:35
+#: visual-composer/vc_extend/tt-post-category.php:85
+#: visual-composer/vc_extend/tt-section-title.php:148
+#: visual-composer/vc_extend/tt-upcoming-event.php:99
+msgid "Design options"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:10
+msgid "Client carousel"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:14
+msgid "Show off client logo with carousel"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:19
+#: visual-composer/vc_extend/tt-gallery.php:32
+msgid "Images"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:21
+#: visual-composer/vc_extend/tt-gallery.php:34
+#: visual-composer/vc_extend/tt-gallery.php:55
+msgid "Select images from media library."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:26
+msgid "On click action"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:29
+msgid "Do nothing"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:30
+msgid "Open custom link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:33
+msgid "Define action for onclick event if needed."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:38
+msgid "Custom links"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-client-carousel.php:40
+msgid "Enter links for each logo here. Divide links with linebreaks (Enter)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:10
+msgid "TT Counting"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:15
+msgid "Display Counting"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:33
+msgid "Single counting"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:42
+#: visual-composer/vc_extend/tt-social-links.php:42
+msgid "Select Icon"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:53
+msgid "Counted Number"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:56
+msgid "Put your counted number"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:61
+#: visual-composer/vc_extend/tt-spotlight-block.php:47
+msgid "Subtitle"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:64
+msgid "Enter subtitle"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:69
+msgid "Grid Class"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-count-up.php:71
+msgid "Enter bootstrap grid class"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-donation-form.php:10
+msgid "TT Donation Form"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-donation-form.php:14
+msgid "PayPal donation form"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-donation-modal.php:10
+msgid "TT Donation Modal"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-donation-modal.php:14
+msgid "PayPal donation button to show donate form with modal"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-donation-modal.php:19
+#: visual-composer/vc_extend/tt-reformation.php:87
+#: visual-composer/vc_extend/tt-spotlight-block.php:81
+msgid "Button text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-donation-modal.php:22
+msgid "Donate Today!"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-donation-modal.php:23
+msgid "Change Button Text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:10
+msgid "Event Schedule"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:14
+msgid "Show off event agenda and schedule with speaker"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:19
+msgid "Speaker Name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:22
+msgid "Enter speaker name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:27
+msgid "Speaker photo"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:29
+msgid ""
+"Select speaker photo from media library, dimansion: width 115px, height 115px"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:34
+msgid "Subject of Speech"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:37
+msgid "Enter subject of speech"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:42
+msgid "Desciption about speech"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:44
+msgid "Enter short description about speech"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:49
+msgid "Speech time"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-schedule.php:52
+msgid "Enter speech of time, e.g: 10:00AM - 11:00AM"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-speaker.php:26
+#: visual-composer/vc_extend/tt-event-speaker.php:35
+msgid "Speaker"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-speaker.php:30
+msgid "Show off event speaker"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-speaker.php:39
+msgid "Select a speaker"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-speaker.php:44
+#: visual-composer/vc_extend/tt-member-carousel.php:28
+#: visual-composer/vc_extend/tt-member.php:28
+msgid "Biography option visibility"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-speaker.php:51
+#: visual-composer/vc_extend/tt-member-carousel.php:35
+#: visual-composer/vc_extend/tt-member.php:35
+msgid "If do not want to show bio option then select hidden"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-speaker.php:56
+msgid "Speaker designation visibility"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-event-speaker.php:64
+#: visual-composer/vc_extend/tt-member-carousel.php:61
+#: visual-composer/vc_extend/tt-member.php:61
+msgid "If do not want to show member designation option then select hidden"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-event.php:24
+msgid "Featured Event"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-event.php:28
+msgid "Show only one event as featured or upcomming event"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-event.php:33
+msgid "Events"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-featured-event.php:37
+msgid "Select a event"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:10
+msgid "TT Gallery"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:14
+msgid "Displays gallery with image or video"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:19
+msgid "Gallery type"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:22
+#: visual-composer/vc_extend/tt-gallery.php:27
+msgid "Select gallery type"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:23
+msgid "Image Gallery"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:24
+msgid "Video Gallery"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:43
+msgid "Video content"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:45
+msgid "Enter video content"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:53
+msgid "Video Cover"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:60
+msgid "Embed iframe"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-gallery.php:62
+msgid "Give your emded iframe code here, recommended size is: 1140x640."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-google-map.php:10
+msgid "TT Google map"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-google-map.php:14
+msgid "Custom google map"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-google-map.php:19
+msgid "Address latitude"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-google-map.php:22
+msgid ""
+"Enter address latitude number, If you unable to find latitude and longitude "
+"of your address. Please visit http://www.latlong.net/convert-address-to-lat-"
+"long.html you can easily generate."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-google-map.php:26
+msgid "Address longitude"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-google-map.php:29
+msgid "Enter address longitude number"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-google-map.php:34
+msgid "Map marker"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-google-map.php:36
+msgid "Upload map marker from media library"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:10
+msgid "Home Banner"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:14
+msgid "Home page top banner text with bg image, video and parallax"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:19
+#: visual-composer/vc_extend/tt-home-slider.php:86
+#: visual-composer/vc_extend/tt-text-rotator.php:19
+msgid "Intro title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:23
+#: visual-composer/vc_extend/tt-home-slider.php:89
+#: visual-composer/vc_extend/tt-text-rotator.php:22
+msgid "Enter intro title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:28
+#: visual-composer/vc_extend/tt-section-title.php:27
+msgid "Title alignment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:31
+#: visual-composer/vc_extend/tt-home-banner.php:36
+#: visual-composer/vc_extend/tt-section-title.php:30
+#: visual-composer/vc_extend/tt-section-title.php:35
+msgid "Select title alignment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:32
+#: visual-composer/vc_extend/tt-home-slider.php:76
+#: visual-composer/vc_extend/tt-icon-block.php:96
+#: visual-composer/vc_extend/tt-section-title.php:31
+msgid "Left"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:33
+#: visual-composer/vc_extend/tt-home-slider.php:77
+#: visual-composer/vc_extend/tt-section-title.php:32
+msgid "Center"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-banner.php:34
+#: visual-composer/vc_extend/tt-home-slider.php:78
+#: visual-composer/vc_extend/tt-icon-block.php:98
+#: visual-composer/vc_extend/tt-section-title.php:33
+msgid "Right"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:10
+msgid "Select animation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:11
+msgid "fadeIn"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:12
+msgid "fadeInDown"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:13
+msgid "fadeInDownBig"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:14
+msgid "fadeInLeft"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:15
+msgid "fadeInLeftBig"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:16
+msgid "fadeInRight"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:17
+msgid "fadeInRightBig"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:18
+msgid "fadeInUp"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:19
+msgid "fadeInUpBig"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:24
+msgid "Select delay option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:25
+msgid "Delay 300ms"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:26
+msgid "Delay 600ms"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:27
+msgid "Delay 1200ms"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:28
+msgid "Delay 1500ms"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:29
+msgid "Delay 1800ms"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:34
+msgid "Home Slider"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:37
+msgid "Slider for home page, but you can use it any where in the page"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:56
+msgid "Slide"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:65
+#: visual-composer/vc_extend/tt-spotlight-block.php:32
+#: visual-composer/vc_extend/tt-testimonial.php:54
+msgid "Image"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:67
+msgid "Select images from media library, dimension: min 1700x900"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:72
+msgid "Content alignment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:75
+#: visual-composer/vc_extend/tt-home-slider.php:81
+msgid "Select content alignment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:90
+#: visual-composer/vc_extend/tt-home-slider.php:99
+#: visual-composer/vc_extend/tt-home-slider.php:109
+#: visual-composer/vc_extend/tt-home-slider.php:119
+msgid "Intro Title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:95
+#: visual-composer/vc_extend/tt-home-slider.php:143
+msgid "Font size"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:98
+msgid "Enter intro font size in px, e.g: 24px"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:104
+msgid "Intro title animation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:108
+msgid "Select animation for intro title, e.g: fadeInDown"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:114
+#: visual-composer/vc_extend/tt-home-slider.php:152
+#: visual-composer/vc_extend/tt-home-slider.php:181
+msgid "Animation delay"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:118
+msgid "Select animation delay for intro title, e.g: Delay 300ms"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:124
+msgid "Title (Part one)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:127
+msgid "Enter banner title part one"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:128
+#: visual-composer/vc_extend/tt-home-slider.php:138
+#: visual-composer/vc_extend/tt-home-slider.php:147
+#: visual-composer/vc_extend/tt-home-slider.php:157
+#: visual-composer/vc_extend/tt-home-slider.php:166
+#: visual-composer/vc_extend/tt-home-slider.php:176
+#: visual-composer/vc_extend/tt-home-slider.php:186
+msgid "Large title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:133
+msgid "Title (Part one) animation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:137
+msgid "Select animation for title part1, e.g: fadeInUp"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:146
+msgid "Enter title font size in px, e.g: 60px"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:156
+msgid "Select animation delay for title part1, e.g: Delay 1200ms"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:162
+msgid "Title (Part two)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:165
+msgid "Enter banner title part two"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:171
+msgid "Title (Part two) animation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:175
+msgid "Select animation for title part2, e.g: fadeInUp"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-home-slider.php:185
+msgid "Select animation delay for title part2, e.g: Delay 1500ms"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:10
+msgid "Icon Block"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:14
+msgid "Show off text with icon"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:34
+msgid "Select style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:35
+msgid "Simple style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:36
+msgid "With effect"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:39
+msgid "Select an icon style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:48
+msgid "Select icon type ?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:53
+#: visual-composer/vc_extend/tt-icon-block.php:77
+msgid "Flaticon"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:55
+msgid "There are two icon types fontawesome and flaticons, choose your type"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:68
+msgid "Fontawesome list. Pickup your choice."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:92
+msgid "Icon position"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:95
+msgid "Select alginment"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:97
+msgid "Top center"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:100
+msgid "Change icon alignment using this option."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:108
+#: visual-composer/vc_extend/tt-social-links.php:54
+msgid "Icon color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:111
+#: visual-composer/vc_extend/tt-icon-block.php:139
+#: visual-composer/vc_extend/tt-section-title.php:43
+#: visual-composer/vc_extend/tt-section-title.php:73
+#: visual-composer/vc_extend/tt-section-title.php:123
+#: visual-composer/vc_extend/tt-social-links.php:57
+#: visual-composer/vc_extend/tt-testimonial.php:89
+msgid "Default color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:112
+#: visual-composer/vc_extend/tt-icon-block.php:140
+#: visual-composer/vc_extend/tt-section-title.php:44
+#: visual-composer/vc_extend/tt-section-title.php:51
+#: visual-composer/vc_extend/tt-section-title.php:74
+#: visual-composer/vc_extend/tt-section-title.php:81
+#: visual-composer/vc_extend/tt-section-title.php:124
+#: visual-composer/vc_extend/tt-section-title.php:135
+#: visual-composer/vc_extend/tt-social-links.php:58
+#: visual-composer/vc_extend/tt-testimonial.php:90
+#: visual-composer/vc_extend/tt-testimonial.php:97
+msgid "Custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:114
+#: visual-composer/vc_extend/tt-social-links.php:60
+msgid "If you change default icon color then select custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:119
+#: visual-composer/vc_extend/tt-icon-block.php:147
+#: visual-composer/vc_extend/tt-social-links.php:65
+msgid "Select color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:121
+#: visual-composer/vc_extend/tt-social-links.php:67
+msgid "change icon color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:132
+#: visual-composer/vc_extend/tt-section-title.php:22
+#: visual-composer/vc_extend/tt-spotlight-block.php:42
+msgid "Enter title here"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:136
+msgid "Title color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:142
+#: visual-composer/vc_extend/tt-section-title.php:46
+msgid "If you change default title color then select custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:149
+msgid "change title color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:157
+msgid "Text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:159
+msgid "Enter content here."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:163
+msgid "Set custom link ?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:169
+msgid ""
+"If you want to set custom link then select yes, the link will appear on title"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-icon-block.php:175
+msgid "Enter link or select page as link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:10
+msgid "Latest Blog Post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:13
+msgid "Content"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:14
+msgid "Latest blog post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:19
+#: visual-composer/vc_extend/tt-reformation.php:31
+msgid "Post Limit"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:23
+msgid "Enter number of post to show"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:28
+msgid "Select gid column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:37
+#: visual-composer/vc_extend/tt-upcoming-event.php:86
+msgid "Select grid column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:42
+#: visual-composer/vc_extend/tt-reformation.php:40
+#: visual-composer/vc_extend/tt-story.php:66
+msgid "Word Limit"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:46
+msgid "How many word would you like to show ?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:51
+msgid "Change readmore text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:55
+msgid "You can change readmore text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:60
+msgid "Show all press release button?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:68
+msgid "You can show or hide all press release button"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:73
+#: visual-composer/vc_extend/tt-reformation.php:90
+#: visual-composer/vc_extend/tt-spotlight-block.php:85
+msgid "Change button text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:77
+msgid "You can change button text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-latest-posts.php:88
+msgid "Enter link or select a page as link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:10
+msgid "Members Carousel"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:14
+msgid "Show off member with carousel"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:19
+#: visual-composer/vc_extend/tt-member.php:19
+msgid "Member Limit"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:23
+#: visual-composer/vc_extend/tt-member.php:23
+msgid "Enter member post number to display member, -1 for no limit"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:40
+#: visual-composer/vc_extend/tt-member.php:40
+msgid "Member Order"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:44
+#: visual-composer/vc_extend/tt-member.php:44
+msgid "ASC"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:45
+#: visual-composer/vc_extend/tt-member.php:45
+msgid "DESC"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:48
+#: visual-composer/vc_extend/tt-member.php:48
+msgid "You can change default order, Default is DESC"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member-carousel.php:53
+#: visual-composer/vc_extend/tt-member.php:53
+msgid "Member designation visibility"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member.php:10
+msgid "Members"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-member.php:14
+msgid "Show off member"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-newsletter.php:10
+msgid "TT Newsletter"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-newsletter.php:14
+msgid "Newsletter subscribe form"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popup.php:10
+msgid "TT Popup"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popup.php:14
+msgid "Showing youtube video or vimeo video with popup"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popup.php:18
+msgid "Cover Image"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popup.php:20
+msgid "Upload cover image from media library"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popup.php:25
+msgid "Enter URL"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-popup.php:28
+msgid "Enter youtube, vimeo or map url"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:10
+msgid "Select a post category"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:18
+msgid "TT Post Category"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:22
+msgid "Show off category post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:30
+msgid "Select category to show category post"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:35
+msgid "Featured image visibility"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:38
+#: visual-composer/vc_extend/tt-post-category.php:51
+#: visual-composer/vc_extend/tt-post-category.php:73
+msgid "Select visibility option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:43
+msgid "If do not like to show featured image then select hidden to hide image"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:48
+msgid "Category name visibility"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:56
+msgid ""
+"If do not like to show default category name then select hidden to hide "
+"category name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:61
+msgid "Post limit"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:63
+msgid "Enter post number to show"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:70
+msgid "View All link visibility"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-post-category.php:78
+msgid "If do not like to show view all link then select hidden to hide link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:10
+msgid "TT Reformation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:14
+msgid "To showing reformation with grid view"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:18
+msgid "Filter visibility "
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:21
+#: visual-composer/vc_extend/tt-reformation.php:77
+msgid "Select option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:26
+msgid "If you do not like to show filter then select hidden"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:35
+msgid "Put the number of posts to show, -1 for no limit"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:44
+msgid "Set your desire word limit, default is 10"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:49
+msgid "Grid column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:52
+msgid "Select column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:53
+msgid "2 Columns"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:54
+msgid "3 Columns"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:55
+msgid "4 Columns"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:57
+msgid "Select post grid column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:62
+msgid "Grid padding"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:69
+msgid "Grid padding will appear between item"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:74
+msgid "More reformation button"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:82
+msgid "You can show or hide more reformation button from here"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:99
+#: visual-composer/vc_extend/tt-spotlight-block.php:94
+msgid "Button link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-reformation.php:101
+msgid "Select existing page or put url of all reformation page"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:10
+msgid "Section Title Style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:14
+msgid "To customize section title style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:40
+msgid "Title color option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:53
+msgid "Change title color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:62
+msgid "Sub title description"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:65
+msgid "Description will appear on after title bottom separator"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:70
+msgid "Description color option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:76
+msgid "If you change default description text color then select custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:83
+msgid "Change description text color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:92
+msgid "Separator show/hide"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:99
+msgid "If you want to hide section separator then select hide"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:104
+msgid "Separator position"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:107
+msgid "Select separator position"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:108
+msgid "Between the title and description"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:109
+msgid "Bottom of the description"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:111
+msgid "You can change separator postion from here"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:120
+msgid "Separator color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:126
+msgid "If you change default separator color then select custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-section-title.php:137
+msgid "change border color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-social-count-plus.php:10
+msgid "Social Count Plus"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-social-count-plus.php:14
+msgid "Show off social counter"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-social-links.php:10
+msgid "TT Social Links"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-social-links.php:15
+msgid "Display social share links"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-social-links.php:33
+msgid "TT Social Link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-social-links.php:48
+msgid "Fontawesome icon list, Pickup your choice."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-social-links.php:78
+msgid "Enter social profile/page url"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:10
+msgid "Spotlight Block"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:14
+msgid "Show off spotlight block"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:18
+msgid "Spotlight style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:22
+msgid "Select an style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:23
+msgid "Simple Style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:24
+msgid "Card Style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:27
+#: visual-composer/vc_extend/tt-spotlight-block.php:76
+msgid "If you want to show button then select yes"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:34
+msgid ""
+"Select image form media library, upload min 360x250 size image for better "
+"view."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:50
+msgid "Enter subtitle here"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:61
+msgid "Enter features short description"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:66
+msgid "Show button ?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:96
+msgid "Enter custom link or select existing page as link"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:105
+msgid "Button class"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-spotlight-block.php:108
+msgid "Use button class field to style particularly"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:17
+msgid "Select story"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:27
+msgid "TT Story timeline"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:30
+msgid "Show off story with timeline style"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:47
+msgid "Story"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:57
+msgid "Stories"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:61
+msgid "Select a story to show"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:70
+msgid "Enter your desire nunber of content word"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:75
+msgid "Timeline content position"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:78
+msgid "Normal (left position)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:79
+msgid "Inverted (right position)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-story.php:82
+msgid "Select timeline position, default position is normal (left position)"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:10
+msgid "Testimonial Carousel"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:13
+msgid "Show off testimonial"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:30
+msgid "Testimonial item"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:40
+msgid "Use photo?"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:45
+msgid "No use default quote icon"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:46
+msgid "Yes want to use photo"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:49
+msgid "If you want to use photo then select yes"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:65
+msgid "Quote"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:67
+msgid "Enter testimonial quote"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:71
+msgid "Name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:74
+msgid "Enter name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:78
+msgid "Organization"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:81
+msgid "Enter Organization name"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:86
+msgid "Text color option"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:92
+msgid "If you change default text color then select custom color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-testimonial.php:99
+msgid "Change text color"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:10
+msgid "Text Rotator"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:14
+msgid "Show off text rotator effect in your page"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:27
+msgid "Rotator text"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:30
+msgid ""
+"Enter rotator text, separate text with \"|\", e.g: Creating a country  | for "
+"every citizen | leading people | to better quality life"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:35
+msgid "Animation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:39
+msgid "select animation"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:40
+msgid "dissolve"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:41
+msgid "fade"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:42
+msgid "flip"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:43
+msgid "flipUp"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:44
+msgid "flipCube"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:45
+msgid "flipCubeUp"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:46
+msgid "spin"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:48
+msgid ""
+"You can pick the way it animates when rotating through words, default: "
+"dissolve"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:53
+msgid "Animation speed"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-text-rotator.php:57
+msgid "How many milliseconds until the next word show."
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:10
+msgid "TT Spokesman Tweet"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:14
+#: visual-composer/vc_extend/tt-twitter-feed.php:14
+msgid "Show off latest twitter feed"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:19
+msgid "Twitter Username"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:22
+msgid "Enter twitter username"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:27
+#: visual-composer/vc_extend/tt-twitter-feed.php:19
+msgid "Twitter ID"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:30
+#: visual-composer/vc_extend/tt-twitter-feed.php:22
+msgid ""
+"Enter twitter ID, e.g: 613424231099953152, get instruction from http://blog."
+"topdevs.net/2013/06/19/where-to-find-twitter-widget-id"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:35
+#: visual-composer/vc_extend/tt-twitter-feed.php:27
+msgid "Max tweet number"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed-spokesman.php:38
+#: visual-composer/vc_extend/tt-twitter-feed.php:30
+msgid "Enter number of twitter that you want to show"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-twitter-feed.php:10
+msgid "TT Twitter Feed"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:10
+msgid "Upcoming Event"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:14
+msgid "Display upcoming event"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:19
+msgid "Event Limit"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:23
+msgid "Events show at most 6 posts, you can change the value"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:28
+msgid "From"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:31
+#: visual-composer/vc_extend/tt-upcoming-event.php:54
+msgid "Select month"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:32
+#: visual-composer/vc_extend/tt-upcoming-event.php:55
+msgid "January"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:33
+#: visual-composer/vc_extend/tt-upcoming-event.php:56
+msgid "February"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:34
+#: visual-composer/vc_extend/tt-upcoming-event.php:57
+msgid "March"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:35
+#: visual-composer/vc_extend/tt-upcoming-event.php:58
+msgid "April"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:36
+#: visual-composer/vc_extend/tt-upcoming-event.php:59
+msgid "May"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:37
+#: visual-composer/vc_extend/tt-upcoming-event.php:60
+msgid "June"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:38
+#: visual-composer/vc_extend/tt-upcoming-event.php:61
+msgid "July"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:39
+#: visual-composer/vc_extend/tt-upcoming-event.php:62
+msgid "August"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:40
+#: visual-composer/vc_extend/tt-upcoming-event.php:63
+msgid "September"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:41
+#: visual-composer/vc_extend/tt-upcoming-event.php:64
+msgid "October"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:42
+#: visual-composer/vc_extend/tt-upcoming-event.php:65
+msgid "November"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:43
+#: visual-composer/vc_extend/tt-upcoming-event.php:66
+msgid "December"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:46
+msgid "Start month to show upcoming event"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:51
+msgid "To"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:69
+msgid "End month to show upcoming event"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:74
+msgid "Year"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:78
+msgid "Enter event year"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:83
+msgid "Grid Column"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:87
+msgid "2 columns"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:88
+msgid "3 columns"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:89
+msgid "4 columns"
+msgstr ""
+
+#: visual-composer/vc_extend/tt-upcoming-event.php:92
+msgid "Select upcoming month to show upcoming event "
+msgstr ""

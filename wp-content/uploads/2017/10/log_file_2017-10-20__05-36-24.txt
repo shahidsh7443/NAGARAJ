@@ -1,0 +1,486 @@
+
+---Downloaded files---
+The import files for: Multipage Demo were successfully downloaded!
+Initial max execution time = 30
+Files info:
+Site URL = http://localhost/razorbee/nagaraj
+Data file = /Applications/XAMPP/xamppfiles/htdocs/razorbee/nagaraj/wp-content/uploads/2017/10/demo-content-import-file_2017-10-20__05-36-24.xml
+Widget file = /Applications/XAMPP/xamppfiles/htdocs/razorbee/nagaraj/wp-content/uploads/2017/10/demo-widgets-import-file_2017-10-20__05-36-24.json
+Customizer file = not defined!
+Redux files:
+nominee_theme_option -> /Applications/XAMPP/xamppfiles/htdocs/razorbee/nagaraj/wp-content/uploads/2017/10/demo-redux-import-file_0-2017-10-20__05-36-24.json 
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "client-logo-4" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Maniasto" (Media)
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "page-header-political" (Media)
+
+
+------
+New AJAX call!
+
+
+------
+New AJAX call!
+[ERROR] Failed to import "Preview" (Media)
+[ERROR] Failed to import "meet-candidate-bg" (Media)
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Imported
+Nominee Recent Comments - Recent Comment - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+MailChimp Sign-Up Form - Subscribe Newsletter - Imported
+
+Page Sidebar Area : 
+
+Search - No Title - Imported
+Nominee Latest Posts - Latest Posts - Imported
+MailChimp Sign-Up Form - Subscribe Newsletter - Imported
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Imported
+MailChimp Sign-Up Form - Subscribe Newsletter - Imported
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Imported
+Custom Menu - Quick Links - Imported
+Nominee Latest Posts - Latest Posts - Imported
+Nominee Flickr Photo Widget - Flickr - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Widget already exists
+Nominee Recent Comments - Recent Comment - Widget already exists
+Categories - Categories - Widget already exists
+Tag Cloud - Tags - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Page Sidebar Area : 
+
+Search - No Title - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Widget already exists
+MailChimp Sign-Up Form - Subscribe Newsletter - Widget already exists
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Widget already exists
+Custom Menu - Quick Links - Widget already exists
+Nominee Latest Posts - Latest Posts - Widget already exists
+Nominee Flickr Photo Widget - Flickr - Widget already exists
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!

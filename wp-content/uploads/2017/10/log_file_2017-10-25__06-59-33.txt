@@ -1,0 +1,48 @@
+
+---Downloaded files---
+The import files for: Onepage were successfully downloaded!
+Initial max execution time = 180
+Files info:
+Site URL = http://localhost/razorbee/nagaraj
+Data file = /Applications/XAMPP/xamppfiles/htdocs/razorbee/nagaraj/wp-content/uploads/2017/10/demo-content-import-file_2017-10-25__06-59-33.xml
+Widget file = /Applications/XAMPP/xamppfiles/htdocs/razorbee/nagaraj/wp-content/uploads/2017/10/demo-widgets-import-file_2017-10-25__06-59-33.json
+Customizer file = not defined!
+Redux files:
+nominee_theme_option -> /Applications/XAMPP/xamppfiles/htdocs/razorbee/nagaraj/wp-content/uploads/2017/10/demo-redux-import-file_0-2017-10-25__06-59-33.json 
+
+
+---Importing widgets---
+Blog Sidebar : 
+
+Search - No Title - Widget already exists
+Nominee Popular Posts - No Title - Imported
+Nominee Recent Comments - Recent Comment - Imported
+Categories - Categories - Imported
+Tag Cloud - Tags - Imported
+MailChimp Sign-Up Form - Subscribe Newsletter - Imported
+
+Page Sidebar Area : 
+
+Search - No Title - Imported
+Nominee Latest Posts - Latest Posts - Imported
+MailChimp Sign-Up Form - Subscribe Newsletter - Imported
+
+Issue Sidebar Area : 
+
+Custom Menu - Categories - Imported
+MailChimp Sign-Up Form - Subscribe Newsletter - Imported
+
+Footer Sidebar Area : 
+
+Visual Editor - About - Imported
+Custom Menu - Quick Links - Imported
+Nominee Latest Posts - Latest Posts - Imported
+Nominee Flickr Photo Widget - Flickr - Imported
+
+
+
+---Importing Redux settings---
+Redux settings import for: nominee_theme_option finished successfully!
+
+---pt-ocdi/after_import---
+

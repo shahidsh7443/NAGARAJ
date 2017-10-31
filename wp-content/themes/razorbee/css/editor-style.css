@@ -1,0 +1,185 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    font-size: 14px;
+    line-height: 28px;
+    font-weight: 400;
+    color: #414141;
+    background-color: #fff;
+    overflow-x: hidden;
+    -webkit-text-size-adjust: 100%;
+    -webkit-overflow-scrolling: touch;
+    -webkit-font-smoothing: antialiased !important;
+}
+
+
+/* LINK STYLE =-=-=-=-=-=-= */
+a {
+    color: #ef4836;
+}
+a,
+a > * {
+    outline: none;
+    cursor: pointer;
+    text-decoration: none;
+}
+a:focus{
+  color: #ef4836;
+}
+a:hover {
+    color: #c03a2b;
+}
+a:focus,
+a:hover {
+    outline: none;
+    text-decoration: none;
+}
+
+
+/* HEADING STYLE =-=-=-=-=-=-= */
+
+h1, h2, h3, h4, h5, h6{
+    font-family: 'Roboto Slab', serif;
+    color: #2f2f2f;
+    font-weight: 700;
+    margin: 0 0 15px;
+}
+h1 {
+    font-size: 36px;
+}
+h2 {
+    font-size: 32px;
+}
+h3 {
+    font-size: 22px;
+}
+h4 {
+    font-size: 18px;
+}
+h5 {
+    font-size: 16px;
+}
+h6 {
+    font-size: 14px;
+}
+
+
+/* DEFINITION LISTS =-=-=-=-=-=-= */
+
+dl dd{
+    margin-bottom: 10px;
+}
+
+/* PRE =-=-=-=-=-=-= */
+pre{
+    border: 1px solid #ECECEC;
+}
+
+/* CODE =-=-=-=-=-=-= */
+code{
+    color: #888888;
+}
+
+
+
+/* WORDPRESS CORE =-=-=-=-=-=-= */
+.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.aligncenter,
+div.aligncenter {
+    display: block;
+    margin: 5px auto 5px auto;
+}
+
+.alignright {
+    float:right;
+    margin: 5px 0 20px 20px;
+}
+
+.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignright {
+    float: right;
+    margin: 5px 0 20px 20px;
+}
+
+a img.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+a img.alignleft {
+    float: left;
+    margin: 5px 20px 20px 0;
+}
+
+a img.aligncenter {
+    display: block;
+    margin-left: auto;
+    margin-right: auto
+}
+
+.wp-caption {
+    background: #fff;
+    border: 1px solid #f0f0f0;
+    max-width: 96%; /* Image does not overflow the content area */
+    padding: 3px;
+    text-align: center;
+}
+
+.wp-caption figcaption{
+    padding: 5px 0 0;
+}
+
+
+.wp-caption.alignnone {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignleft {
+    margin: 5px 20px 20px 0;
+}
+
+.wp-caption.alignright {
+    margin: 5px 0 20px 20px;
+}
+
+.wp-caption img {
+    border: 0 none;
+    height: auto;
+    margin: 0;
+    max-width: 98.5%;
+    padding: 0;
+    width: auto;
+}
+
+.wp-caption p.wp-caption-text {
+    font-size: 11px;
+    line-height: 17px;
+    margin: 0;
+    padding: 0 4px 5px;
+}
+
+
+/* BLOCKQUOTE =-=-=-=-=-=-= */
+blockquote{
+    position: relative;
+    margin: 0;
+    padding: 15px 10px 15px 60px;
+    border: 0;
+    font-size: 16px;
+    font-style: italic;
+}
+
+blockquote::before{
+    position: absolute;
+    left: 10px;
+    top: 10px;
+    content: "\f10d";
+    font-family: fontawesome;
+    font-size: 30px;
+    color: #bbb;
+}

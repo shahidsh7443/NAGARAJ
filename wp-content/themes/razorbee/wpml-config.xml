@@ -1,0 +1,39 @@
+<wpml-config>
+    <custom-types>
+        <custom-type translate="1">wpcf7_contact_form</custom-type>
+        <custom-type translate="1">tt-reformation</custom-type>
+        <custom-type translate="1">tt-issue</custom-type>
+        <custom-type translate="1">tt-event</custom-type>
+        <custom-type translate="1">tt-story</custom-type>
+        <custom-type translate="1">tt-member</custom-type>
+        <custom-type translate="1">vc_grid_item</custom-type>
+    </custom-types>
+    <taxonomies>
+       <taxonomy translate="1">tt-reformation-cat</taxonomy>
+       <taxonomy translate="1">tt-issue-cat</taxonomy>
+    </taxonomies>
+    <custom-fields>
+        <custom-field action="translate">nominee_qoute</custom-field>
+        <custom-field action="translate">nominee_qoute_author</custom-field>
+        <custom-field action="translate">nominee_link_text</custom-field>
+        <custom-field action="translate">nominee_link_title</custom-field>
+        <custom-field action="translate">nominee_story_year</custom-field>
+        <custom-field action="copy">nominee_event_date</custom-field>
+        <custom-field action="translate">nominee_member_designaion</custom-field>
+        <custom-field action="translate">nominee_educational_qualification</custom-field>
+        <custom-field action="translate">nominee_member_address</custom-field>
+        <custom-field action="copy">tt_post_views_count</custom-field>
+    </custom-fields>
+    <admin-texts>
+        <key name="nominee_theme_option">
+            <key name="header-contact"/>
+            <key name="text-logo"/>
+            <key name="blog-title"/>
+            <key name="donate-purpose"/>
+            <key name="donate-modal-title"/>
+            <key name="submit-button-text"/>
+            <key name="footer-text"/>
+            <key name="social-intro-title"/>
+        </key>
+    </admin-texts>
+</wpml-config>

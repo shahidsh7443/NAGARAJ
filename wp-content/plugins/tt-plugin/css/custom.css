@@ -1,0 +1,8 @@
+.icon-settings .select2-container{
+	width: 100% !important;
+}
+
+.redux-message,
+.rs-update-notice-wrap{
+	display: none !important;
+}
