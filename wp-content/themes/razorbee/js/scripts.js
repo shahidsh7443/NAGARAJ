@@ -714,7 +714,7 @@ if (this.hash=="achivement"){
     _top=120;
   }
   else if (this.hash=="#why_naga") {
-    _top=130;
+    _top=105;
   }
   else if (this.hash=="#blogs") {
     _top=160;
