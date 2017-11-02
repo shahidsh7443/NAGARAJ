@@ -28,7 +28,7 @@ $rurl=is_home()?"":site_url();
  <img class="visible-xs" style="height:40px;width:auto;display:block;float:right;padding-top:5px;" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="<?php echo site_url()?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg"  alt="Nagaraja Rao"/>
 
                <div class="hidden-xs" style="padding-right:125px;margin-top: -17px;height: 0px;" >
-<h4 style="color:#f0f8ff;line-height:25px !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-size:12pt !important;">Candidate for Second Vice Presedent</br>2018-2019, Toastmasters Intl.</p></h4>
+<h4 style="color:#f0f8ff;line-height:25px !important;font-family: 'newsgoth_btbold' !important;font-size:15pt !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-size:12pt !important;font-family: 'latoregular'!important;">Candidate for Second Vice Presedent</br>2018-2019, Toastmasters Intl.</p></h4>
 </div>
 
 </div>

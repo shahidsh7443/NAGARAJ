@@ -664,7 +664,7 @@ background: 	rgba(0, 0, 0, 0.4);
 			}
 }
 body.home{
-	background: url("../../../uploads/2015/12/body_bg.jpg") no-repeat center center fixed;
+	background-color: #dfcb5b;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
