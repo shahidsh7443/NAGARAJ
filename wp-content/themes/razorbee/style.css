@@ -333,6 +333,25 @@ a img.aligncenter {
 .no-padding {
   padding: 0;
 }
+.vc_custom_1508957318250 .btn
+{
+  width:100%;
+  padding: 12px 15px;
+  border-radius: 5px;
+}
+.vc_custom_1508963073921 .tt-overlay
+{
+opacity:0.8 !important;
+background-color: rgb(0,0,0);
+}
+.vc_custom_1508957318250 .carousel
+{
+  margin-top: -60px;
+}
+.vc_custom_1510217033977 .tt-overlay
+{
+	opacity:0.5 !important;
+}
 .tt-overlay {
     background-color: rgba(0, 0, 0, 0.7);
     position: absolute !important;
@@ -340,6 +359,7 @@ a img.aligncenter {
     top: 0;
     right: 0;
     bottom: 0;
+    opacity: 0.8;
 }
 .overflow-hidden{
     overflow: hidden;
@@ -528,6 +548,7 @@ span.separator span{
 
 .title-description{
     padding-top: 25px;
+    color: black;
 }
 
 /* =-=-=-=-=-=-= BUTTON STYLE =-=-=-=-=-=-= */
@@ -3049,6 +3070,8 @@ display: block;
 }
 .biography-info-wrapper .bio-details{
     margin-top: 30px;
+    color:black;
+    font-size:16px;
 }
 .biography-info-wrapper .bio-info{
     margin: 40px 0;
@@ -5979,6 +6002,7 @@ margin-bottom: 90px !important;
     background-repeat: no-repeat;
     margin-top: 24%!important;
 }
+
 .tt-overlay {
     height: 100%;
 }

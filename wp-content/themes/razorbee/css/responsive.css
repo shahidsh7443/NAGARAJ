@@ -93,7 +93,6 @@
 	.twitter-feed .tt-overlay {
 	  padding: 50px 20px;
 	}
-
 	/*reformation-section*/
 	#filter li button {
 	  padding: 6px 10px;
@@ -600,17 +599,21 @@
 
 }
 .navbar-fixed-top .container-fluid h4{
-		font-size: 18px;
-    line-height: 34px;
-		padding-top: 10px;
- 	transition: all .3s;
+	font-size: 25px;
+	line-height: 30px !important;
+	padding-top: 14px;
+	transition: all .3s;
+	margin-right: 10px;
 
 }
 .navbar-fixed-top.sticky .container-fluid h4{
 	font-size: 14px;
     line-height: 20px;
- 	transition: all .3s;
-
+    transition: all .3s;
+    font-size: 19px !important;
+    line-height: 22px !important;
+    padding-top: 15px;
+    margin-right: -14px;
 }
 
 .navbar-fixed-top .navbar-brand img{
@@ -664,7 +667,7 @@ background: 	rgba(0, 0, 0, 0.4);
 			}
 }
 body.home{
-	background-color: #dfcb5b;
+	background: url(../../../uploads/2015/12/nagaraga_bg.jpg) no-repeat center center fixed;
 	-webkit-background-size: cover;
 	-moz-background-size: cover;
 	-o-background-size: cover;
