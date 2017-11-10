@@ -56,7 +56,7 @@ $rurl=is_home()?"":site_url();
 <div class="container-fluid">
 	<div class="row">
     	<div class="col-lg-4 col-sm-4 col-xs-3">
-        	<p style="font-size:20px;color:#ecde35;padding-top:10px;padding-bottom:5px;"><u><a href="disclaimer.html" style="color:#ecde35;">Disclaimer.</a></u> </p>
+        	<p style="font-size:20px;color:#ecde35;padding-top:10px;padding-bottom:5px;"><u><a href="<?php echo $rurl?>/index.php/disclaimer/ " style="color:#ecde35;">Disclaimer.</a></u> </p>
         </div>
     	<div class="col-lg-4 col-sm-4 col-xs-6">
         </div>
