@@ -335,9 +335,11 @@ a img.aligncenter {
 }
 .vc_custom_1508957318250 .btn
 {
-  width:100%;
+  width:400px;
   padding: 12px 15px;
   border-radius: 5px;
+  margin-left: 25%;
+  margin-top: 5px;
 }
 .vc_custom_1508963073921 .tt-overlay
 {
@@ -1674,6 +1676,14 @@ display: block;
     .tt-effect figcaption .content p {
       font-size: 11px;
       line-height: 20px;
+    }
+    .vc_custom_1508957318250 .btn
+    {
+      width:300px;
+      padding: 12px 15px;
+      border-radius: 5px;
+      margin-left: 25%;
+      margin-top: 5px;
     }
 }
 

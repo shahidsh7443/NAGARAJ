@@ -72,7 +72,7 @@ $rurl=is_home()?"":site_url();
 if (is_front_page()){?>
 <li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3324  has-menu-child  scroll"><a title="Home" href="<?php echo $rurl ?>/#home" style="font-size:16px;font-weight:bold;color:black !important;">Home</a></li>
 <?php }else{?>
-  <li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3324  has-menu-child  scroll"><a title="Home" href="<?php echo $rurl ?>" style="font-size:16px;font-weight:bold;color:black; !important">Home</a></li>
+  <li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3324  has-menu-child  scroll"><a title="Home" href="<?php echo $rurl ?>" style="font-size:16px;font-weight:bold;color:black !important;">Home</a></li>
 
 <?php }?>
 <li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3325   has-menu-child scroll"><a title="About" href="<?php echo $rurl?>/#about" style="font-size:16px;font-weight:bold;color:black;">About</a></li>
