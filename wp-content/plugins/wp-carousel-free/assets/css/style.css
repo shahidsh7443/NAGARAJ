@@ -1,0 +1,90 @@
+div.wordpress-carousel-free-section {
+    display: none;
+    margin-right: -20px;
+}
+
+div.wordpress-carousel-free-section.slick-initialized {
+    display: block;
+}
+
+div.wordpress-carousel-free-section .single_wcf_item:focus {
+    outline: none;
+}
+
+div.wordpress-carousel-free-section .single_wcf_item {
+    margin: 0 10px;
+    display: inline-block;
+    vertical-align: middle;
+    float: none;
+}
+
+div.wordpress-carousel-free-section .single_wcf_item img {
+    margin: 0 auto;
+    display: block;
+}
+
+div.wordpress-carousel-free-section .slick-prev {
+    left: 0;
+    text-align: left;
+}
+
+div.wordpress-carousel-free-section .slick-next {
+    right: 0;
+    text-align: right;
+}
+
+div.wordpress-carousel-free-section .slick-prev,
+div.wordpress-carousel-free-section .slick-next {
+    position: absolute;
+    z-index: 22;
+    top: 50%;
+    width: 14px;
+    height: 30px;
+    font-size: 30px;
+    -webkit-transition: ease all 0.3s;
+    -moz-transition: ease all 0.3s;
+    -ms-transition: ease all 0.3s;
+    -o-transition: ease all 0.3s;
+    transition: ease all 0.3s;
+    line-height: 30px;
+    margin-top: -15px;
+    cursor: pointer;
+    opacity: .5;
+}
+
+div.wordpress-carousel-free-section .slick-prev:hover,
+div.wordpress-carousel-free-section .slick-next:hover {
+    opacity: 1;
+}
+
+/* Dots */
+div.wordpress-carousel-free-section ul.slick-dots {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    text-align: center;
+    margin-top: 22px;
+}
+
+div.wordpress-carousel-free-section ul.slick-dots li {
+    display: inline;
+}
+
+div.wordpress-carousel-free-section ul.slick-dots li button {
+    border: 0 solid;
+    overflow: hidden;
+    width: 12px;
+    height: 12px;
+    border-radius: 50%;
+    text-indent: -999px;
+    background-color: #cccccc;
+    margin: 3px;
+}
+
+div.wordpress-carousel-free-section ul.slick-dots li button:focus {
+    outline: none;
+}
+
+div.wordpress-carousel-free-section ul.slick-dots li.slick-active button {
+    background-color: #666;
+}

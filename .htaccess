@@ -1,17 +1,12 @@
 
 # BEGIN WordPress
-
-
 <IfModule mod_rewrite.c>
-
 RewriteEngine On
 RewriteBase /razorbee/nagaraj/
 RewriteRule ^index\.php$ - [L]
 RewriteCond %{REQUEST_FILENAME} !-f
 RewriteCond %{REQUEST_FILENAME} !-d
 RewriteRule . /razorbee/nagaraj/index.php [L]
-
-
 </IfModule>
 
 # END WordPress
