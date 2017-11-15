@@ -1682,7 +1682,7 @@ display: block;
       width:300px;
       padding: 12px 15px;
       border-radius: 5px;
-      margin-left: 25%;
+      margin-left: 50%;
       margin-top: 5px;
     }
 }
@@ -5908,8 +5908,46 @@ section{
   width: 100% !important;
   overflow: hidden !important;
 }
+.vc_custom_1510749995297 .vc_single_image-wrapper img
+{
+  height: 555px !important;
+}
+/*Remove this if required*/
+#home_intro2_img  .AboutImg
+{
+  margin-top: -40px !important;
+}
+/*Remove this if required*/
+#home_intro2_img  .vc_column_container
+{
+  margin-top: 50px !important;
+}
+#why_naga .biography-info-wrapper
+{
+  margin-top: 20px !important;
+}
 @media screen and (max-width:480px)
 {
+  .carousel-slider .carousel-slider__item img {
+    margin-right: 40px !important;
+    max-width: 90% !important;
+}
+  .vc_custom_1510749995297 .vc_single_image-wrapper img
+  {
+    height: auto !important;
+  }
+  #home_intro2_img  .AboutImg .vc_single_image-wrapper img
+  {
+    margin-top: 80px !important;
+  }
+  #home_intro2_img  .vc_column-inner
+  {
+    margin-top: -60px !important;
+  }
+  #about  .title-description
+  {
+    margin-top: -100px !important;
+  }
 .slides-container img
 {
   display: block !important;
@@ -6032,6 +6070,7 @@ margin-bottom: 90px !important;
 {
   font-size: 35px !important;
   font-weight: bolder!important;
+  margin-top: -65px !important;
 }
 #why_naga .bio-details p
 {
