@@ -20,8 +20,8 @@ $rurl=is_home()?"":site_url();
                     <div class="row" style="color: #a9b2b1;">
 	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-4" style="display:inline-block;float:left;">
                          <a href="<?php echo $rurl?>" title="Nagaraja Rao">
-                                 <img class="hidden-xs" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraja_logo_1.jpg" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraja_logo_1.jpg" alt="Nagaraja Rao">
-                               <img style="height:40px;width:auto;padding-top:5px;" class="visible-xs" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraja_logo_1.jpg" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraja_logo_1.jpg" alt="Nagaraja Rao">
+                                 <img class="hidden-xs" src="<?php echo $rurl?>/wp-content/uploads/2015/12/NGR-Logo1.png" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/NGR-Logo1.png" alt="Nagaraja Rao">
+                               <img style="height:40px;width:auto;padding-top:5px;" class="visible-xs" src="<?php echo $rurl?>/wp-content/uploads/2015/12/NGR-Logo1.png" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/NGR-Logo1.png" alt="Nagaraja Rao">
 </a>
              </div>
              <div class="col-lg-9 col-md-9 col-sm-9  col-xs-8 text-right"  >

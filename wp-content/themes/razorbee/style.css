@@ -5865,10 +5865,44 @@ ul.comment-list > li.bypostauthor > .comment {
   display: block !important;
   margin-top: 143px !important;
 }
+.slides-container .slider44 img
+{
+  display: block !important;
+  margin-top: 30px !important;
+  height:840px !important;
+}
+.slides-container .slider2 img
+{
+  display: block !important;
+  margin-top: 300px !important;
+  height:1820px !important;
+}
+.slides-container .slide5 img
+{
+  display: block !important;
+  margin-top: 80px !important;
+  height:900px !important;
+}
 .intro .container span
 {
   font-size: 30px !important;
   line-height: 20px !important;
+}
+.intro .container .intro-sub
+{
+  color: #d6c252 !important;
+}
+.slides-container .slide5 .intro{
+  margin-left: 680px !important;
+}
+.slides-container .slide5 .intro span{
+  color: #772432!important;
+}
+.slides-container .slide5 .container
+{
+background: rgba(255,255,255,0.4) !important;
+height: 100px !important;
+padding-top: 22px !important;
 }
 section{
   width: 100% !important;
@@ -5884,6 +5918,39 @@ section{
   top: -13px !important;
   height: auto !important;
   width: 100% !important;
+}
+.slides-container .slide5 img
+{
+  display: block !important;
+  margin-top: 80px !important;
+  height:270px !important;
+}
+.slides-container .slide5 .intro{
+  margin-left: 180px !important;
+}
+.slides-container .slide5 .container
+{
+height: 55px !important;
+padding-top: 15px !important;
+}
+.slides-container .slider44 img
+{
+  display: block !important;
+  margin-top: 60px !important;
+  height:275px !important;
+}
+.slides-container .slider2 img
+{
+  display: block !important;
+  margin-top: -10px !important;
+  height:600px !important;
+}
+
+.intro .container .intro-sub
+{
+  font-size: 15px !important;
+  line-height: 2px !important;
+  color: #d6c252  !important;
 }
 .intro .container span
 {
@@ -5905,7 +5972,7 @@ height: 50px !important;
 margin-bottom: 90px !important;
 }
 .slides-container li.slider44 .intro{
-  margin-top: 0px !important;
+  margin-top: 35px !important;
 }
 .slides-container li.slider2 .intro
 {
@@ -5922,8 +5989,8 @@ margin-bottom: 90px !important;
     margin-top: 115px !important;
 }
 .slides-container li.slider2 .intro {
-    margin-top: 150px !important;
-    padding-top: 20px !important;
+    margin-top: 170px !important;
+    padding-top: 15px !important;
 }
 .home_intro1 .section-intro h2 span{
   display: inline !important;
