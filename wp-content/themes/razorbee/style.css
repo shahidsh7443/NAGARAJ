@@ -105,7 +105,6 @@ body {
     width: 100%;
     height: 100%;
 }
-
 /* =-=-=-=-=-=-= LINK STYLE =-=-=-=-=-=-= */
 a {
     color: #ef4836;
@@ -550,7 +549,7 @@ span.separator span{
 
 .title-description{
     padding-top: 25px;
-    color: black;
+    color: #333;
 }
 
 /* =-=-=-=-=-=-= BUTTON STYLE =-=-=-=-=-=-= */
@@ -3080,7 +3079,7 @@ display: block;
 }
 .biography-info-wrapper .bio-details{
     margin-top: 30px;
-    color:black;
+    color:#333;
     font-size:16px;
 }
 .biography-info-wrapper .bio-info{
@@ -5868,19 +5867,19 @@ ul.comment-list > li.bypostauthor > .comment {
 .slides-container .slider44 img
 {
   display: block !important;
-  margin-top: 30px !important;
+  margin-top: 40px !important;
   height:840px !important;
 }
 .slides-container .slider2 img
 {
   display: block !important;
-  margin-top: 300px !important;
+  margin-top: 320px !important;
   height:1820px !important;
 }
 .slides-container .slide5 img
 {
   display: block !important;
-  margin-top: 80px !important;
+  margin-top: 100px !important;
   height:900px !important;
 }
 .intro .container span
@@ -6075,17 +6074,17 @@ margin-bottom: 90px !important;
 #why_naga .bio-details p
 {
   font-size: 16px !important;
-  color:black !important;
+  color:#333 !important;
 }
 #achievements .title-description p
 {
   font-size: 16px !important;
-  color:black !important;
+  color:#333 !important;
 }
 .home_intro1 .title-description p
 {
   font-size: 16px !important;
-  color:black !important;
+  color:#333 !important;
 }
 #testimonials .section-intro h2 span{
   display: inline !important;
@@ -6108,7 +6107,7 @@ margin-bottom: 90px !important;
 .career_history .title-description p
 {
   font-size: 16px !important;
-  color:black !important;
+  color:#333 !important;
   text-align: center!important;
 }
 .page-header-section{
