@@ -3049,9 +3049,6 @@ display: block;
 }
 
 /*Leader biography*/
-.leader-basic-info{
-    border-bottom: 1px solid #eaeaea;
-}
 @media(min-width: 1400px){
     .leader-image{
         max-height: 800px;
@@ -5927,6 +5924,20 @@ section{
 }
 @media screen and (max-width:480px)
 {
+  #why_naga .achievementrow
+  {
+    margin-top: -90px;
+    padding-left: 30px !important;
+  }
+  #why_naga .col
+  {
+    margin-right: 50px !important;
+  }
+  #why_naga .col1
+  {
+   padding-left: 80px !important;
+     margin-right: 90px !important;
+  }
   .carousel-slider .carousel-slider__item img {
     margin-right: 40px !important;
     max-width: 90% !important;
@@ -6199,5 +6210,14 @@ margin-bottom: 90px !important;
 .navbar-collapse li.menu-item-3384 a
 {
   color:white!important;
+}
+#why_naga .achievementrow
+{
+  margin-top: -75px !important;
+  padding-left: 30px !important;
+}
+#why_naga .col
+{
+  margin-right: -55px !important;
 }
 }
