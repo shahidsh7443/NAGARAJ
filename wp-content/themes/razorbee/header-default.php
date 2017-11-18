@@ -8,7 +8,7 @@ $rurl=is_home()?"":site_url();
 
      if (nominee_option('header-top-visibility', false, true)) : ?>
       <style>
-      @media screen and (max-width:768px){
+      @media screen and (max-width:480px){
         .navbar
         {
           height: 40px;
@@ -28,7 +28,7 @@ $rurl=is_home()?"":site_url();
                <img style="display:block;float:right" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" alt="Nagaraja Rao" class="hidden-xs">
  <img class="visible-xs" style="height:40px;width:auto;display:block;float:right;padding-top:5px;" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="<?php echo site_url()?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg"  alt="Nagaraja Rao"/>
 
-               <div class="hidden-xs" style="padding-right:125px;margin-top: -17px;height: 0px;" >
+               <div class="hidden-xs status" style="padding-right:125px;margin-top: -17px;height: 0px;" >
 <h4 style="color:#f0f8ff;font-family: 'newsgoth_btbold' !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-size:12pt !important;font-family: 'latoregular'!important;">Candidate for Second Vice Presedent</br>2018-2019, Toastmasters Intl.</p></h4>
 </div>
 

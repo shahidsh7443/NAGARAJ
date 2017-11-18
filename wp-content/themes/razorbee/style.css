@@ -6141,7 +6141,7 @@ margin-bottom: 90px !important;
   margin-top: 220px !important;
 }
 }
-@media screen and (min-width:480px) and (max-width:1024px)
+@media screen and (min-width:770px) and (max-width:1024px)
 {
   .page-header-section{
       margin-top: 14%!important;
@@ -6189,23 +6189,27 @@ margin-bottom: 90px !important;
       margin-left: 20px;
   }
   .slides-container li.slider2 .intro {
-      margin-top: 210px !important;
+      margin-top: 280px !important;
       padding-top: 20px !important;
   }
   .slides-container li.slider2 img
   {
-    margin-top: 140px !important;
-    height: 460px !important;
+    margin-top: -200px !important;
+    height: auto !important;
   }
   .slides-container li.slider1 img
   {
-    margin-top: 140px !important;
-    height: 460px !important;
+    margin-top: 250px !important;
+    height: auto !important;
   }
 .slides-container li.slider44 img
 {
-  margin-top: 140px !important;
-  height: 460px !important;
+  margin-top: 0px !important;
+  height: auto !important;
+}
+.slides-container li.slide5 img {
+    margin-top: 50px !important;
+    height: auto !important;
 }
 .navbar-collapse li.menu-item-3384 a
 {
@@ -6219,5 +6223,162 @@ margin-bottom: 90px !important;
 #why_naga .col
 {
   margin-right: -55px !important;
+}
+#about .title-description
+{
+  margin-top: -85px !important;
+  padding-left: 30px !important;
+}
+#home_intro2_img  .wpb_single_image img {
+    height: auto !important;
+    margin-top: 125px !important;
+}
+#why_naga .vc_custom_1508961718079 h2
+{
+  margin-top: 50px !important;
+}
+#why_naga .biography-info-wrapper {
+    margin-top: -85px !important;
+        margin-left: -22px !important;
+}
+.vc_custom_1510749995297 .vc_single_image-wrapper img {
+    height: auto!important;
+}
+.vc_custom_1508957318250 .btn {
+    margin-left: 18%;
+}
+.slides-container .slide5 .intro {
+    margin-left: 471px !important;
+}
+}
+@media screen and (min-width:480px) and (max-width:769px)
+{
+  .page-header-section{
+      margin-top: 14%!important;
+  }
+  .slides-container img
+  {
+    display: block !important;
+    margin-top: 115px !important;
+    left: 0 !important;
+    top: 0px !important;
+    height: auto !important;
+    width: 100% !important;
+  }
+
+  .intro .container span
+  {
+    font-size: 15px !important;
+    line-height: 5px !important;
+  }
+  .slides-container .container span
+  {
+    font-size: 20px !important;
+    line-height: 15px !important;
+  }
+  .intro .container
+  {
+  height: 50px !important;
+  margin-bottom: 110px !important;
+  }
+  .slides-container li.slider44 .intro{
+    margin-top: 265px !important;
+  }
+  .tt-slider {
+      height: 570px!important;
+  }
+  .slides-container  .slider44 .intro
+  {
+    top: 260px !important;
+  }
+  .header-default .slides-container .intro {
+      margin-top: 115px !important;
+  }
+  .header-default .slides-container .slider1 .intro {
+    margin-top: 100px !important;
+      margin-left: 20px;
+  }
+  .slides-container li.slider2 .intro {
+      margin-top: 280px !important;
+      padding-top: 20px !important;
+  }
+  .slides-container li.slider2 img
+  {
+    margin-top: -140px !important;
+    height: auto !important;
+  }
+  .slides-container li.slider1 img {
+    margin-top: 215px !important;
+    height: 440px!important;
+    width: 930px !important;
+    left: -75px !important;
+}
+.slides-container li.slider44 img
+{
+  margin-top: 58px !important;
+  height: auto !important;
+}
+.slides-container li.slide5 img {
+    margin-top: 57px !important;
+    height: auto !important;
+}
+.navbar-collapse li.menu-item-3384 a
+{
+  color:white!important;
+}
+#why_naga .achievementrow
+{
+  margin-top: -75px !important;
+  padding-left: 30px !important;
+}
+#why_naga .col
+{
+  margin-right: -55px !important;
+}
+#about .title-description
+{
+  margin-top: -85px !important;
+  padding-left: 30px !important;
+}
+#home_intro2_img  .wpb_single_image img {
+    height: auto !important;
+    margin-top: 125px !important;
+}
+#why_naga .vc_custom_1508961718079 h2
+{
+  margin-top: 50px !important;
+}
+#why_naga .biography-info-wrapper {
+    margin-top: -85px !important;
+        margin-left: -22px !important;
+}
+.vc_custom_1510749995297 .vc_single_image-wrapper img {
+    height: auto!important;
+}
+.vc_custom_1508957318250 .btn {
+    margin-left: 18%;
+}
+.slides-container .slide5 .intro {
+    margin-left: 400px !important;
+}
+.main-menu .donate-button {
+    margin: 12px 0 0 20px;
+}
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    padding-top: 10px;
+}
+.navbar-fixed-top .container-fluid img {
+    padding: 2px 0 2px 0;
+}
+.navbar-fixed-top .container-fluid h4 {
+    font-size: 25px;
+    line-height: 25px !important;
+    padding-top: 22px;
+    transition: all .3s;
+    margin-right: 20px;
+}
+.navbar .status
+{
+  padding-right: 110px !important;
 }
 }
