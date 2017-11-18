@@ -5927,8 +5927,11 @@ section{
   #why_naga .achievementrow
   {
     margin-top: -90px;
-    padding-left: 30px !important;
+    padding-left: 10px !important;
   }
+  #why_naga .vc_custom_1508961718079 {
+    padding-top: 50px !important;
+}
   #why_naga .col
   {
     margin-right: 50px !important;
@@ -5973,13 +5976,15 @@ section{
   margin-top: 80px !important;
   height:270px !important;
 }
-.slides-container .slide5 .intro{
-  margin-left: 180px !important;
+.header-default .slides-container .slide5 .intro{
+  margin-left: 80px !important;
+  margin-top: 40px !important;
 }
 .slides-container .slide5 .container
 {
 height: 55px !important;
 padding-top: 15px !important;
+width: 70%;
 }
 .slides-container .slider44 img
 {
@@ -6078,7 +6083,7 @@ margin-bottom: 90px !important;
 }
 #why_naga .leader-name h2
 {
-  font-size: 35px !important;
+  font-size: 24px !important;
   font-weight: bolder!important;
   margin-top: -65px !important;
 }

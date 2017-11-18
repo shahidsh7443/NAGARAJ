@@ -23,13 +23,14 @@ define('WP_MEMORY_LIMIT', '5000M');
 
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
-/*define('DB_NAME', 'nagaraja');
+define('DB_NAME', 'nagaraja');
 define('DB_USER', 'root');
-define('DB_PASSWORD', '');*/
+define('DB_PASSWORD', '');
+/*
 define('DB_NAME', '_nagaraja');
 define('DB_USER', '_razorbee');
 define('DB_PASSWORD', '_razorbee@projects');
-
+*/
 
 /** MySQL hostname */
 define('DB_HOST', 'localhost');
@@ -39,8 +40,8 @@ define('DB_CHARSET', 'utf8mb4');
 
 /** The Database Collate type. Don't change this if in doubt. */
 define('DB_COLLATE', '');
-define('WP_HOME','http://localhost/razorbee/nagaraj');
-define('WP_SITEURL','http://localhost/razorbee/nagaraj');
+define('WP_HOME','http://192.168.0.109/razorbee/nagaraj');
+define('WP_SITEURL','http://192.168.0.109/razorbee/nagaraj');
 
 /**#@+
  * Authentication Unique Keys and Salts.

@@ -153,7 +153,7 @@ if (this.hash=="achivement"){
 
     /* ======= superslides ======= */
     $('#slides').superslides({
-        play: 5000,
+        play: 70000,
         animation: 'fade'
     });
 
