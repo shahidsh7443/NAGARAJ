@@ -29,7 +29,7 @@ $rurl=is_home()?"":site_url();
  <img class="visible-xs" style="height:40px;width:auto;display:block;float:right;padding-top:5px;" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="<?php echo site_url()?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg"  alt="Nagaraja Rao"/>
 
                <div class="hidden-xs status" style="padding-right:125px;margin-top: -17px;height: 0px;" >
-<h4 style="color:#f0f8ff;font-family: 'newsgoth_btbold' !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-size:12pt !important;font-family: 'latoregular'!important;">Candidate for Second Vice Presedent</br>2018-2019, Toastmasters Intl.</p></h4>
+<h4 style="color:#f0f8ff;font-family: 'newsgoth_btbold' !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-size:12pt !important;font-family: 'latoregular'!important;">Candidate for Second Vice President</br>2018-2019, Toastmasters Intl.</p></h4>
 </div>
 
 </div>
@@ -54,11 +54,10 @@ $rurl=is_home()?"":site_url();
                     <span class="icon-bar"></span>
                 </button>
                 <div class="hidden-lg hidden-md hidden-sm" style="display:block;padding:0px;height:auto;">
-                <p style="color:Black;font-size:9px;line-height:15px;padding-top:10px;padding-left:10px;"><b>Nagaraja Rao, DTM </b></br style="line-height:10px;">Candidate for Second Vice Presedent</br style="line-height:10px;">2018-2019, Toastmasters Intl.</b></p>
+                <p style="color:Black;font-size:9px;line-height:15px;padding-top:10px;padding-left:10px;"><b>Nagaraja Rao, DTM </b></br style="line-height:10px;">Candidate for Second Vice President</br style="line-height:10px;">2018-2019, Toastmasters Intl.</b></p>
 </div>
 <!-- .navbar-brand -->
             </div> <!-- .navbar-header -->
-
             <div class="hidden-xs" style="display:block;">
                 <div class="main-menu">
                                             <div class="donate-button pull-right">

@@ -5965,10 +5965,10 @@ section{
 {
   display: block !important;
   margin-top: 126px !important;
-  left: 0 !important;
+  left: -30px !important;
   top: -13px !important;
-  height: auto !important;
-  width: 100% !important;
+  height: 220px !important;
+  width: 117% !important;
 }
 .slides-container .slide5 img
 {
@@ -6039,7 +6039,7 @@ margin-bottom: 90px !important;
   top: 275px !important;
 }
 .header-default .slides-container .intro {
-    margin-top: 115px !important;
+    margin-top: 155px !important;
 }
 .slides-container li.slider2 .intro {
     margin-top: 170px !important;
