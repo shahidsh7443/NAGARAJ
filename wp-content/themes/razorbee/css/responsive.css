@@ -587,7 +587,7 @@
 }
 .navbar-fixed-top .container-fluid img{
 	height: auto;
-  width: 110px;
+  width: 121px;
  	transition: all .3s;
 
 }
@@ -595,6 +595,7 @@
 	height: auto;
     padding-top: 30px;
     width: 260px;
+		margin-left: -10px;
 }
 .navbar-fixed-top.sticky .container-fluid img{
 	height: 60px;
@@ -614,7 +615,7 @@
 	line-height: 30px !important;
 	padding-top: 14px;
 	transition: all .3s;
-	margin-right: -15px;
+	margin-right: -10px;
 
 }
 .navbar-fixed-top.sticky .container-fluid h4{
@@ -624,7 +625,7 @@
     font-size: 19px !important;
     line-height: 22px !important;
     padding-top: 15px;
-    margin-right: -14px;
+    margin-right: -45px;
 }
 
 .navbar-fixed-top .navbar-brand img{
