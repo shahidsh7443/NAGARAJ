@@ -87,7 +87,7 @@ Tags:           two-columns, three-columns, left-sidebar, right-sidebar, custom-
 /* =-=-=-=-=-=-= GENERAL =-=-=-=-=-=-= */
 
 body{
-    font-family: 'Open Sans', sans-serif;
+  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
     font-size: 14px;
     line-height: 26px;
     font-weight: 400;
@@ -337,8 +337,10 @@ a img.aligncenter {
   width:400px;
   padding: 12px 15px;
   border-radius: 5px;
-  margin-left: 25%;
-  margin-top: 5px;
+  margin-left: 19%;
+  margin-top:10px;
+  border: 3px solid #004165;
+  background: rgba(255,255,255,0.1)
 }
 .vc_custom_1508963073921 .tt-overlay
 {
@@ -548,7 +550,7 @@ span.separator span{
 }
 
 .title-description{
-    padding-top: 25px;
+    padding-top: 50px;
     color: #333;
 }
 
@@ -692,7 +694,14 @@ span.separator span{
 {
   font-size: 30px !important;
 }
-
+#about .home_intro1 .vc_column-inner
+{
+  margin-top: -135px;
+}
+#about .home_intro2 .vc_column-inner
+{
+  margin-top: -80px;
+}
 @media (max-width : 767px) {
     .page-header-section{
         text-align: center;
@@ -726,7 +735,34 @@ span.separator span{
 .sticky.navbar .nav>li {
     padding: 0 12px;
 }
-
+#why_naga .why_naga .biography-info-wrapper .leader-name
+{
+  margin-top: -65px;
+}
+#why_naga .why_naga .biography-info-wrapper
+{
+  background: rgba(255, 255, 255, 0.9);
+  padding-bottom: 5px;
+}
+#why_naga .why_naga .biography-info-wrapper .bio-info
+{
+  display: none;
+}
+{
+  margin-top: -65px;
+}
+.navbar-fixed-top .container-fluid .lg2 {
+  height: auto !important;
+  width: 100px !important;
+  margin-top: 5px;
+  transition: all .3s !important;
+}
+.navbar-fixed-top.sticky .container-fluid .lg2 {
+  height: auto !important;
+  width: 60px !important;
+  margin-top: 5px;
+  transition: all .3s !important;
+}
 @media(min-width:768px) {
     .navbar-nav li.has-mega-menu{
         position: static;
@@ -3078,6 +3114,11 @@ display: block;
     margin-top: 30px;
     color:#333;
     font-size:16px;
+    padding-bottom: 20px;
+}
+#why_naga .vc_custom_1510679095204
+{
+  padding-top: 20px;
 }
 .biography-info-wrapper .bio-info{
     margin: 40px 0;
@@ -5870,8 +5911,8 @@ ul.comment-list > li.bypostauthor > .comment {
 .slides-container .slider2 img
 {
   display: block !important;
-  margin-top: 320px !important;
-  height:1820px !important;
+  margin-top: 340px !important;
+  height:1900px !important;
 }
 .slides-container .slide5 img
 {
@@ -5906,7 +5947,7 @@ section{
 }
 .vc_custom_1510749995297 .vc_single_image-wrapper img
 {
-  height: 555px !important;
+  height: auto !important;
 }
 /*Remove this if required*/
 #home_intro2_img  .AboutImg
@@ -5920,14 +5961,21 @@ section{
 }
 #why_naga .biography-info-wrapper
 {
-  margin-top: 20px !important;
+  margin-top: -20px !important;
 }
 @media screen and (max-width:480px)
 {
+  #contact .vc_custom_1511881734000
+  {
+    height: 450px;
+  }
+  #why_naga .biography-info-wrapper {
+    margin-top: 10px !important;
+}
   #why_naga .achievementrow
   {
-    margin-top: -90px;
-    padding-left: 10px !important;
+    margin-top: -20px;
+    padding-left: 25px !important;
   }
   #why_naga .vc_custom_1508961718079 {
     padding-top: 50px !important;
@@ -5959,8 +6007,21 @@ section{
   }
   #about  .title-description
   {
-    margin-top: -100px !important;
+    margin-top: -25px !important;
   }
+  #about .home_intro1 .vc_column-inner {
+    margin-top: -55px;
+}
+.home_intro1 .section-intro {
+    margin-top: -100px;
+}
+.home_intro2 .section-intro {
+    margin-top: -105px;
+}
+.home_intro2 .vc_column-inner .title-description {
+    padding-left: 0px !important;
+    padding-bottom: 25px !important;
+}
 .slides-container img
 {
   display: block !important;
@@ -5974,7 +6035,7 @@ section{
 {
   display: block !important;
   margin-top: 80px !important;
-  height:270px !important;
+  height:310px !important;
 }
 .header-default .slides-container .slide5 .intro{
   margin-left: 80px !important;
@@ -5990,13 +6051,13 @@ width: 70%;
 {
   display: block !important;
   margin-top: 60px !important;
-  height:275px !important;
+  height:315px !important;
 }
 .slides-container .slider2 img
 {
   display: block !important;
-  margin-top: -10px !important;
-  height:600px !important;
+  margin-top: -20px !important;
+  height:670px !important;
 }
 
 .intro .container .intro-sub
@@ -6199,7 +6260,7 @@ margin-bottom: 90px !important;
   }
   .slides-container li.slider2 img
   {
-    margin-top: -200px !important;
+    margin-top: -150px !important;
     height: auto !important;
   }
   .slides-container li.slider1 img
@@ -6209,12 +6270,25 @@ margin-bottom: 90px !important;
   }
 .slides-container li.slider44 img
 {
-  margin-top: 0px !important;
+  margin-top: 35px !important;
   height: auto !important;
 }
 .slides-container li.slide5 img {
-    margin-top: 50px !important;
+    margin-top: 60px !important;
     height: auto !important;
+}
+.navbar-fixed-top .container-fluid h4 {
+    padding-top: 25px !important;
+}
+.navbar-fixed-top.sticky .container-fluid h4{
+    padding-top: 15px !important;
+}
+.navbar-fixed-top .container-fluid .img1 {
+    margin-left: -55px !important;
+}
+.navbar-fixed-top.sticky .container-fluid .img1
+{
+  margin-left: -100px !important;
 }
 .navbar-collapse li.menu-item-3384 a
 {
@@ -6222,7 +6296,7 @@ margin-bottom: 90px !important;
 }
 #why_naga .achievementrow
 {
-  margin-top: -75px !important;
+  margin-top: -10px !important;
   padding-left: 30px !important;
 }
 #why_naga .col
@@ -6231,7 +6305,7 @@ margin-bottom: 90px !important;
 }
 #about .title-description
 {
-  margin-top: -85px !important;
+  margin-top: 0px !important;
   padding-left: 30px !important;
 }
 #home_intro2_img  .wpb_single_image img {
@@ -6243,7 +6317,7 @@ margin-bottom: 90px !important;
   margin-top: 50px !important;
 }
 #why_naga .biography-info-wrapper {
-    margin-top: -85px !important;
+    margin-top: -25px !important;
         margin-left: -22px !important;
 }
 .vc_custom_1510749995297 .vc_single_image-wrapper img {
@@ -6338,12 +6412,20 @@ margin-bottom: 90px !important;
 }
 #why_naga .col
 {
-  margin-right: -55px !important;
+  margin-right: 50px !important;
+margin-top: 65px;
 }
+.vc_custom_1508957318250 .btn {
+    width: 315px;
+  }
+  #why_naga .vc_custom_1510679095204 .achievementrow .imgs
+  {
+    width: 155px !important;
+  }
 #about .title-description
 {
-  margin-top: -85px !important;
-  padding-left: 30px !important;
+  margin-top: -50px !important;
+  padding-left: 0px !important;
 }
 #home_intro2_img  .wpb_single_image img {
     height: auto !important;
@@ -6353,15 +6435,32 @@ margin-bottom: 90px !important;
 {
   margin-top: 50px !important;
 }
+#why_naga .why_naga .leader-basic-info .row .col-lg-5
+{
+  width: 100%;
+}
+#why_naga .why_naga .leader-basic-info .row .col-lg-6
+{
+  width: 100%;
+}
 #why_naga .biography-info-wrapper {
-    margin-top: -85px !important;
+    margin-top: 5px !important;
         margin-left: -22px !important;
+}
+#why_naga .why_naga .biography-info-wrapper .leader-name {
+    padding-left: 20px;
+}
+#why_naga .why_naga .biography-info-wrapper .bio-details {
+    padding-left: 20px;
 }
 .vc_custom_1510749995297 .vc_single_image-wrapper img {
     height: auto!important;
 }
+#why_naga .why_naga .biography-info-wrapper .leader-name {
+    margin-top: -30px;
+}
 .vc_custom_1508957318250 .btn {
-    margin-left: 18%;
+    margin-left: 100%;
 }
 .slides-container .slide5 .intro {
     margin-left: 400px !important;
@@ -6375,12 +6474,56 @@ margin-bottom: 90px !important;
 .navbar-fixed-top .container-fluid img {
     padding: 2px 0 2px 0;
 }
+.navbar-fixed-top .container-fluid .lg2 {
+  height: auto !important;
+  width: 80px !important;
+  margin-top: 0px;
+  transition: all .3s !important;
+}
+.navbar-fixed-top.sticky .container-fluid .lg2 {
+    width: 62px !important;
+    margin-top: 0px;
+}
+#about .home_intro1 .vc_column-inner {
+    margin-top: -20px;
+}
+.navbar-fixed-top.sticky .container-fluid .img4 {
+    height: 55px !important;
+    width: auto;
+    transition: all .3s;
+}
+.navbar-fixed-top.sticky .container-fluid .img1 {
+    height: 50px !important;
+    padding-top: 20px !important;
+    margin-left: -90px !important;
+    margin-top: -5px;
+}
+.navbar-fixed-top .container-fluid img {
+    margin-left: -25px !important;
+}
+
+#contact .vc_custom_1511880987685 {
+    height: 790px;
+}
 .navbar-fixed-top .container-fluid h4 {
     font-size: 25px;
     line-height: 25px !important;
     padding-top: 22px;
     transition: all .3s;
     margin-right: 20px;
+}
+.navbar-fixed-top .sticky .container-fluid img {
+    margin-left: 0px;
+}
+.navbar-fixed-top .container-fluid .img1 {
+    width: 200px !important;
+    margin-left: -75px !important;
+    margin-top: -8px;
+}
+.navbar-fixed-top .container-fluid .img4 {
+    height: auto;
+    width: 90px;
+    transition: all .3s;
 }
 .navbar .status
 {

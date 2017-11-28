@@ -15,21 +15,27 @@ $rurl=is_home()?"":site_url();
         }
         }
         </style>
-        <nav class="navbar navbar-default">
+        <nav class="navbar navbar-default" style="background-color:white !important;padding-bottom: 5px;padding-top: 5px;">
             <div class="container-fluid" >
-                    <div class="row" style="color: #a9b2b1;">
-	<div class="col-lg-3 col-md-3 col-sm-3 col-xs-4" style="display:inline-block;float:left;">
-                         <a href="<?php echo $rurl?>" title="Nagaraja Rao">
-                                 <img class="hidden-xs" src="<?php echo $rurl?>/wp-content/uploads/2015/12/NGR-Logo1.png" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/NGR-Logo1.png" alt="Nagaraja Rao">
-                               <img style="height:45px;width:auto;padding-top:5px;" class="visible-xs" src="<?php echo $rurl?>/wp-content/uploads/2015/12/NGR-Logo1.png" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/NGR-Logo1.png" alt="Nagaraja Rao">
+              <div class="row" style="color: #a9b2b1;">
+<div class="col-lg-1 col-md-2 col-sm-2 col-xs-2" style="display:inline-block;float:left;">
+                   <a href="http://localhost/razorbee/nagaraj" title="Nagaraja Rao">
+                           <img class="hidden-xs img4" src="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/NGr.png" data-at2x="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/NGr.png" alt="Nagaraja Rao">
+                         <img style="height: 53px;width:auto;padding-top:5px;margin-left: -20px;margin-top: -8px;" class="visible-xs" src="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/NGr.png" data-at2x="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/NGr.png" alt="Nagaraja Rao" width="62" height="50">
 </a>
-             </div>
-             <div class="col-lg-9 col-md-9 col-sm-9  col-xs-8 text-right"  >
-               <img style="display:block;float:right" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" alt="Nagaraja Rao" class="hidden-xs">
- <img class="visible-xs" style="height:40px;width:auto;display:block;float:right;padding-top:5px;" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="<?php echo site_url()?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg"  alt="Nagaraja Rao"/>
+       </div>
+       <div class="col-lg-2 col-md-3 col-sm-4 col-xs-5" style="display:inline-block;float:left;">
+                              <a href="http://localhost/razorbee/nagaraj" title="Nagaraja Rao">
+                                      <img class="hidden-xs img1" src="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/trplogo.png" data-at2x="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/trplogo.png" alt="Nagaraja Rao">
+                                    <img style="height: 35px;width:auto;padding-top: 10px;margin-left: -30px;margin-top: 0px;" class="visible-xs" src="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/trplogo.png" data-at2x="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/trplogo.png" alt="Nagaraja Rao">
+     </a>
+                  </div>
+       <div class="col-lg-9 col-md-7 col-sm-6  col-xs-5 text-right">
+         <img class="lg2 hidden-xs" style="display:block;float:right" src="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/nagaraj_logo2.jpg" alt="Nagaraja Rao" class="hidden-xs">
+<img class="visible-xs" style="height: 50px;width:auto;display:block;float:right;padding-top: 5px;margin-top: -8px;margin-left:5px;" src="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/nagaraj_logo2.jpg" alt="Nagaraja Rao" width="55" height="50">
 
-               <div class="hidden-xs status" style="padding-right:125px;margin-top: -17px;height: 0px;" >
-<h4 style="color:#f0f8ff;font-family: 'newsgoth_btbold' !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-size:12pt !important;font-family: 'latoregular'!important;">Candidate for Second Vice President</br>2018-2019, Toastmasters Intl.</p></h4>
+         <div class="hidden-xs hidden-sm status" style="padding-right:125px;margin-top: -17px;height: 0px;">
+<h4 style="color:#004165;font-family: 'newsgoth_btbold' !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-size:12pt !important;font-family: 'latoregular'!important;">Candidate for Second Vice President<br>2018-2019, Toastmasters Intl.</p></h4>
 </div>
 
 </div>
@@ -60,7 +66,7 @@ $rurl=is_home()?"":site_url();
             </div> <!-- .navbar-header -->
             <div class="hidden-xs" style="display:block;">
                 <div class="main-menu">
-                                            <div class="donate-button pull-right">
+                                            <div class="donate-button pull-right hidden-md hidden-sm">
                                                             <a href="<?php echo $rurl?>/index.php/coming-soon/">Appointment </a>
                                                     </div>
 <div class="collapse navbar-collapse">
@@ -83,7 +89,10 @@ if (is_front_page()){?>
 <li id="menu-item-3329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3329  has-menu-child scroll"><a title="Resources" href="<?php echo $rurl?>/#resources" style="font-size:16px;font-weight:bold;color:black;">Resources</a></li>
 
 <li id="menu-item-3332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3332  has-menu-child scroll"><a title="Contact" href="<?php echo $rurl?>/#contact" style="font-size:16px;font-weight:bold;color:black;">Contact</a></li>
-
+<li id="menu-item-3339" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3334  has-menu-child scroll donate-button pull-right hidden-lg" style="
+    position: relative;
+    margin-top: -2px;
+"><a href="<?php echo $rurl?>/index.php/coming-soon/">Appointment </a></li>
 
 </ul>
 
