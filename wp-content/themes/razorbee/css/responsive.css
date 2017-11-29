@@ -671,6 +671,7 @@ background: 	rgba(0, 0, 0, 0.4);
 .home_intro2 .vc_column-inner .title-description {
     padding-left: 10px;
 		padding-bottom: 25px;
+		padding-top: 0px;
 }
 @media (max-width: 767px){
 			.navbar-fixed-top .navbar-brand img {

@@ -702,6 +702,14 @@ span.separator span{
 {
   margin-top: -80px;
 }
+#about .home_intro1 .section-intro h2
+{
+  font-weight: 700;
+}
+#about .home_intro1 .section-intro h3
+{
+color:#ef4836;
+}
 @media (max-width : 767px) {
     .page-header-section{
         text-align: center;
@@ -6528,5 +6536,15 @@ margin-top: 65px;
 .navbar .status
 {
   padding-right: 110px !important;
+}
+}
+@media only screen and (min-width:360px) and (max-width:479px)
+{
+  #why_naga .achievementrow {
+    margin-top: -20px;
+    padding-left: 5px !important;
+}
+.vc_custom_1508957318250 .btn {
+    margin-left: 25% !important;
 }
 }
