@@ -5973,6 +5973,15 @@ section{
 }
 @media screen and (max-width:480px)
 {
+  #contact .row .wpb_column  .addresscol .address{
+    padding-top: 20px !important;
+  }
+  #about .row .vc_col-sm-12 .section-intro h2
+  {
+    font-size: 32px;
+    line-height: 52px;
+    font-weight: 700;
+  }
   #contact .vc_custom_1511881734000
   {
     height: 450px;
@@ -6017,6 +6026,9 @@ section{
   {
     margin-top: -25px !important;
   }
+  #about .home_intro2 .title-description {
+    margin-top: 25px !important;
+}
   #about .home_intro1 .vc_column-inner {
     margin-top: -55px;
 }
@@ -6120,8 +6132,8 @@ margin-bottom: 90px !important;
 }
 .home_intro1 .section-intro h2
 {
-  font-size: 35px !important;
-  font-weight: bolder!important;
+  font-size: 32px !important;
+padding-bottom: 10px;
 }
 .home_intro2 .section-intro h2 span{
   display: inline !important;
@@ -6152,7 +6164,7 @@ margin-bottom: 90px !important;
 }
 #why_naga .leader-name h2
 {
-  font-size: 24px !important;
+  font-size: 28px !important;
   font-weight: bolder!important;
   margin-top: -65px !important;
 }
@@ -6183,11 +6195,6 @@ margin-bottom: 90px !important;
 .vc_row .section-intro h2 span{
   display: inline !important;
   font-size: 35px !important;
-}
-.vc_row  .section-intro h2
-{
-  font-size: 35px !important;
-  font-weight: bolder!important;
 }
 .career_history .title-description p
 {
@@ -6546,5 +6553,14 @@ margin-top: 65px;
 }
 .vc_custom_1508957318250 .btn {
     margin-left: 25% !important;
+}
+.home_intro1 .section-intro h2 {
+    font-size: 26px !important;
+    padding-bottom: 10px;
+}
+#why_naga .leader-name h2 {
+    font-size: 24px !important;
+    font-weight: bolder!important;
+    margin-top: -65px !important;
 }
 }

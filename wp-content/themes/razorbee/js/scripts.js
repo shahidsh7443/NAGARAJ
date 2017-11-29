@@ -711,7 +711,7 @@ if (this.hash=="achivement"){
     _top = 60;
   }
   else if (this.hash=="#about") {
-    _top=120;
+    _top=90;
   }
   else if (this.hash=="#why_naga") {
     _top=105;
