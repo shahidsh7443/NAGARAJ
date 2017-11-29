@@ -6538,10 +6538,10 @@ margin-top: 65px;
   padding-right: 110px !important;
 }
 }
-@media only screen and (min-width:360px) and (max-width:479px)
+@media only screen and (min-width:360px) and (max-width:413px)
 {
   #why_naga .achievementrow {
-    margin-top: -20px;
+    margin-top: -20px !important;
     padding-left: 5px !important;
 }
 .vc_custom_1508957318250 .btn {
