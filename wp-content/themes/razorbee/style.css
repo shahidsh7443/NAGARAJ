@@ -751,6 +751,23 @@ color:#ef4836;
 {
   background: rgba(255, 255, 255, 0.9);
   padding-bottom: 5px;
+  padding-right: 15px;
+}
+.vc_custom_1508602436465
+{
+  display:none;
+}
+.vc_custom_1508960289375 #career_history .vc_custom_1508963203993 .section-intro .title-description
+{
+  font-size: 16px;
+}
+.vc_custom_1508960289375 #career_history .vc_custom_1508963203993
+{
+  background-color: rgba(255,255,255,0.9);
+}
+.vc_custom_1508960289375 #career_history .vc_custom_1508963203993 .story-wrapper
+{
+  color:black;
 }
 #why_naga .why_naga .biography-info-wrapper .bio-info
 {
@@ -5710,9 +5727,17 @@ ul.comment-list > li.bypostauthor > .comment {
     padding-left: 15px;
     padding-right: 15px;
 }
-.container-fullwidth .vc_column_container>.vc_column-inner{
+#why_naga .container-fullwidth .vc_column_container>.vc_column-inner{
+    padding-left: 0px;
+    padding-right: 15px;
+}
+.vc_custom_1452704999463 .container-fullwidth .vc_column_container>.vc_column-inner{
     padding-left: 0;
     padding-right: 0;
+}
+#why_naga .why_naga  .leader-basic-info .biography-info-wrapper  .bio-details .r1 .col-xs-12
+{
+  text-align: justify;
 }
 .vc_btn3.vc_btn3-size-md{
     font-weight: 600;
@@ -5973,6 +5998,15 @@ section{
 }
 @media screen and (max-width:480px)
 {
+  #why_naga .wpb_wrapper .leader-basic-info .row .col-lg-5
+  {
+    padding-left: 0px;
+    padding-right: 0px;
+  }
+  #why_naga .why_naga .biography-info-wrapper {
+    background: rgba(255, 255, 255, 0.3);
+    padding-right: 0px;
+}
   #contact .row .wpb_column  .addresscol .address{
     padding-top: 20px !important;
   }
@@ -6076,8 +6110,8 @@ width: 70%;
 .slides-container .slider2 img
 {
   display: block !important;
-  margin-top: -20px !important;
-  height:670px !important;
+  margin-top: -40px !important;
+  height:auto !important;
 }
 
 .intro .container .intro-sub
@@ -6164,7 +6198,7 @@ padding-bottom: 10px;
 }
 #why_naga .leader-name h2
 {
-  font-size: 28px !important;
+  font-size: 27px !important;
   font-weight: bolder!important;
   margin-top: -65px !important;
 }
@@ -6224,6 +6258,50 @@ padding-bottom: 10px;
 }
 @media screen and (min-width:770px) and (max-width:1024px)
 {
+  #about .row .aboutng
+  {
+    width: 75%;
+    margin-left: 12.5%;
+}
+#why_naga .leader-image img {
+    width: 60%;
+    margin-left: 20.5%;
+}
+#why_naga .why_naga .leader-basic-info .row .col-lg-5
+{
+  width: 100%;
+}
+#why_naga .why_naga .leader-basic-info .row .col-lg-6
+{
+  width: 100%;
+  padding-left: 75px;
+}
+ #why_naga .biography-info-wrapper .leader-name h3 {
+    font-size: 21px;
+    color: #ef4836;
+    margin-top: 10px;
+}
+#about .home_intro1 .section-intro h2 {
+    font-weight: 700;
+  margin-left: 27%;
+}
+.home_intro2 .section-intro {
+    margin-top: -100px !important;
+}
+#why_naga .biography-info-wrapper .leader-name h2 {
+    font-weight: 700;
+    margin-left: 21.5%;
+}
+#about .home_intro1 .section-intro h3 {
+    color: #ef4836;
+    font-size: 20px;
+    margin-top: 5px;
+}
+#about .row .home_intro1
+{
+  width: 100%;
+  margin-top: 75px;
+}
   .page-header-section{
       margin-top: 14%!important;
   }
@@ -6332,14 +6410,14 @@ padding-bottom: 10px;
   margin-top: 50px !important;
 }
 #why_naga .biography-info-wrapper {
-    margin-top: -25px !important;
+    margin-top: 10px !important;
         margin-left: -22px !important;
 }
 .vc_custom_1510749995297 .vc_single_image-wrapper img {
     height: auto!important;
 }
 .vc_custom_1508957318250 .btn {
-    margin-left: 18%;
+    margin-left: 36%;
 }
 .slides-container .slide5 .intro {
     margin-left: 471px !important;
@@ -6347,6 +6425,13 @@ padding-bottom: 10px;
 }
 @media screen and (min-width:480px) and (max-width:769px)
 {
+  #why_naga .wpb_wrapper .leader-basic-info .row .col-lg-5 {
+    padding-left: 0px;
+    padding-right: 0px;
+}
+#about .home_intro2 .section-intro {
+    margin-top: -35px;
+}
   .page-header-section{
       margin-top: 14%!important;
   }
@@ -6562,5 +6647,20 @@ margin-top: 65px;
     font-size: 24px !important;
     font-weight: bolder!important;
     margin-top: -65px !important;
+}
+.slides-container .slider44 img {
+    display: block !important;
+    margin-top: 60px !important;
+    height: auto !important;
+}
+.slides-container .slide5 img {
+    display: block !important;
+    margin-top: 80px !important;
+    height: auto !important;
+}
+.slides-container .slider2 img {
+    display: block !important;
+    margin-top: -20px !important;
+    height: auto!important;
 }
 }
