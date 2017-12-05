@@ -766,6 +766,34 @@ color:#ef4836;
   background: rgba(255, 255, 255, 0.9);
   padding-bottom: 5px;
   padding-right: 15px;
+  height:585px;
+}
+#why_naga .colwhy .row
+{
+  background: rgba(255, 255, 255, 0.9);
+    width: 101%;
+  font-size: 16px;
+      color: black;
+      margin-top: 0px;
+      padding-top: 15px;
+      text-align: justify;
+}
+#why_naga .colwhy .row button{
+
+    width: 400px;
+    padding: 12px 15px;
+    border-radius: 5px;
+    margin-left: 34%;
+    margin-top: 10px;
+    border: 3px solid #004165;
+    background: rgba(255,255,255,0.1);
+}
+.vc_custom_1508960289375 .row{
+  width: 101%;
+}
+#why_naga .why_naga .leader-basic-info .row .col-md-7
+{
+  width:58%;
 }
 .vc_custom_1508602436465
 {
@@ -5754,6 +5782,7 @@ ul.comment-list > li.bypostauthor > .comment {
 #why_naga .why_naga  .leader-basic-info .biography-info-wrapper  .bio-details .r1 .col-xs-12
 {
   text-align: justify;
+  color: black;
 }
 .vc_btn3.vc_btn3-size-md{
     font-weight: 600;
@@ -6023,6 +6052,25 @@ section{
 }
 @media screen and (max-width:480px)
 {
+  .vc_custom_1508960289375 .row {
+    width: 108%;
+}
+  #why_naga .why_naga .leader-basic-info .biography-info-wrapper .bio-details .r1  {
+    text-align: justify;
+    width: 215%;
+    margin-left: -30px;
+}
+#why_naga .colwhy .row {
+    width: 109%;
+}
+#why_naga .colwhy .row button {
+    width: 330px;
+}
+#why_naga .why_naga .leader-basic-info .row .col-md-7 .biography-info-wrapper .leader-name
+{
+  width: 200%;
+  margin-left: -15px;
+}
   #contact .vc_row .vc_custom_1512471494245
   {
     height: 475px;
@@ -6053,8 +6101,8 @@ section{
 
   #why_naga .wpb_wrapper .leader-basic-info .row .col-lg-5
   {
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
   }
   #why_naga .why_naga .biography-info-wrapper {
     background: rgba(255, 255, 255, 0.3);
@@ -6309,6 +6357,26 @@ padding-bottom: 10px;
 }
 @media screen and (min-width:770px) and (max-width:1024px)
 {
+  #achievements .row .c1 .thumbnail {
+    min-height: 335px;
+}
+  #why_naga .why_naga .leader-basic-info .biography-info-wrapper .bio-details .r1  {
+    width: 108%;
+  margin-left: -50px;
+}
+#why_naga .why_naga .biography-info-wrapper .leader-name {
+    margin-top: -65px;
+    width: 105%;
+    margin-left: -35px;
+}
+  #why_naga .colwhy .row {
+    margin-top: -145px;
+    width: 100%;
+margin-left: 10px;
+}
+#why_naga .colwhy .row button {
+    margin-top: 35px;
+}
   #about .row .aboutng
   {
     width: 75%;
@@ -6456,7 +6524,8 @@ padding-bottom: 10px;
 #why_naga .achievementrow
 {
   margin-top: -10px !important;
-  padding-left: 30px !important;
+  padding-left: 0px !important;
+  width: 113%;
 }
 #why_naga .col
 {
@@ -6492,6 +6561,22 @@ padding-bottom: 10px;
 }
 @media screen and (min-width:480px) and (max-width:769px)
 {
+  #achievements .row .c1 .thumbnail {
+    min-height: 455px;
+}
+#achievements .row .c2 .thumbnail {
+    min-height: 346px;
+}
+  #why_naga .colwhy .row button {
+    margin-left: 80%;
+}
+  #why_naga .why_naga .leader-basic-info .biography-info-wrapper .bio-details .r1  {
+    margin-left: -35px;
+    width: 110%;
+}
+#why_naga .colwhy .row {
+width: 105%;
+}
   .slides-container .slide5 .intro span{
     color: #772432  !important;
     text-transform: inherit;
@@ -6502,8 +6587,8 @@ padding-bottom: 10px;
       padding-top: 5px;
   }
   #why_naga .wpb_wrapper .leader-basic-info .row .col-lg-5 {
-    padding-left: 0px;
-    padding-right: 0px;
+    padding-left: 15px;
+    padding-right: 15px;
 }
 #about .home_intro2 .section-intro {
     margin-top: -35px;
@@ -6591,7 +6676,7 @@ padding-bottom: 10px;
 #why_naga .achievementrow
 {
   margin-top: -75px !important;
-  padding-left: 30px !important;
+  padding-left: 65px !important;
 }
 #why_naga .col
 {
@@ -6760,5 +6845,18 @@ margin-top: 65px;
 #contact .vc_row .vc_custom_1512471494245 {
     height: 420px;
     background-repeat: round;
+}
+#why_naga .colwhy .row button {
+    width: 285px;
+}
+.vc_custom_1508960289375 .row {
+    width: 109%;
+}
+#why_naga .why_naga .leader-basic-info .row .col-md-7 .biography-info-wrapper .leader-name h3 {
+    font-size: 18px;
+}
+#about .home_intro1 .section-intro h3 {
+    color: #ef4836;
+    font-size: 18px;
 }
 }
