@@ -589,43 +589,43 @@
 	height: auto;
   width: 121px;
  	transition: all .3s;
+	margin-left: -25px;
 
 }
 .navbar-fixed-top .container-fluid .img1{
 	height: auto;
-    padding-top: 30px;
+    padding-top: 25px;
     width: 260px;
-		margin-left: -10px;
+		margin-left: -35px;
 }
 .navbar-fixed-top.sticky .container-fluid img{
 	height: 60px;
  	width: auto;
  	transition: all .3s;
+	margin-left: -15px;
 
 }
 .navbar-fixed-top.sticky .container-fluid .img1{
 	height: auto;
 	    padding-top: 20px;
 	    width: 200px;
-	    margin-left: -45px;
+	    margin-left: -60px;
 }
 
 .navbar-fixed-top .container-fluid h4{
 	font-size: 25px;
-	line-height: 30px !important;
-	padding-top: 14px;
+	line-height: 30px;
+	padding-top: 16px;
 	transition: all .3s;
 	margin-right: -10px;
 
 }
 .navbar-fixed-top.sticky .container-fluid h4{
-	font-size: 14px;
-    line-height: 20px;
     transition: all .3s;
     font-size: 19px !important;
-    line-height: 22px !important;
+    line-height: 22px;
     padding-top: 15px;
-    margin-right: -45px;
+    margin-right: -40px;
 }
 
 .navbar-fixed-top .navbar-brand img{
