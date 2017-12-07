@@ -27,7 +27,7 @@ $rurl=is_home()?"":site_url();
        <div class="col-lg-2 col-md-3 col-sm-4 col-xs-5" style="display:inline-block;float:left;">
                               <a href="<?php echo $rurl?>" title="Nagaraja Rao">
                                       <img class="hidden-xs img1" src="<?php echo $rurl?>/wp-content/uploads/2015/12/trplogo.png" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/trplogo.png" alt="Nagaraja Rao">
-                                    <img style="height: 35px;width:auto;padding-top: 10px;margin-left: -30px;margin-top: 0px;" class="visible-xs" src="<?php echo $rurl?>/wp-content/uploads/2015/12/trplogo.png" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/trplogo.png" alt="Nagaraja Rao">
+                                    <img style="height: 35px;width:auto;padding-top: 10px;margin-top: 0px;" class="visible-xs trp" src="<?php echo $rurl?>/wp-content/uploads/2015/12/trplogo.png" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/trplogo.png" alt="Nagaraja Rao">
      </a>
                   </div>
        <div class="col-lg-9 col-md-7 col-sm-6  col-xs-5 text-right" style="padding-right:8px;">

@@ -624,6 +624,10 @@ span.separator span{
 .form-group {
   margin-bottom: 30px;
 }
+#resources .vc_custom_1508661447201 .rescol
+{
+  margin-left: 105px;
+}
 #contact  .addresscol .vc_column-inner .address .wpb_wrapper
 {
   color: black;
@@ -4372,7 +4376,7 @@ div.wpcf7-response-output {
     margin-bottom: 0;
 }
 .widget img{
-    max-width: 100%;
+    min-width: 100%;
 }
 .widget > ul,
 .widget .menu{
@@ -6052,6 +6056,13 @@ section{
 }
 @media screen and (max-width:480px)
 {
+  #resources .vc_custom_1508661447201 .rescol
+  {
+    margin-left: 0px;
+  }
+  .navbar-fixed-top .container-fluid .trp {
+    margin-left: -35px !important;
+}
   .vc_custom_1508960289375 .row {
     width: 108%;
 }
@@ -6075,6 +6086,7 @@ section{
   {
     height: 475px;
     background-repeat: round;
+    margin-left: 1.5% !important;
   }
   .slides-container .slide5 .intro .delay-4 {
     margin-left: 27%;
@@ -6199,6 +6211,7 @@ height: 80px !important;
 padding-top: 15px !important;
 width: 70%;
 margin-bottom: 0px !important;
+margin-top: 30px;
 }
 .slides-container .slider44 img
 {
@@ -6239,7 +6252,7 @@ height: 50px !important;
 margin-bottom: 90px !important;
 }
 .slides-container li.slider44 .intro{
-  margin-top: 35px !important;
+  margin-top: 65px !important;
 }
 .slides-container li.slider2 .intro
 {
@@ -6370,8 +6383,8 @@ padding-bottom: 10px;
     margin-left: -35px;
 }
   #why_naga .colwhy .row {
-    margin-top: -145px;
-    width: 100%;
+    margin-top: -10px;
+    width: 98.9%;
 margin-left: 10px;
 }
 #why_naga .colwhy .row button {
@@ -6547,6 +6560,7 @@ margin-left: 10px;
 #why_naga .biography-info-wrapper {
     margin-top: 10px !important;
         margin-left: -22px !important;
+        height: 419px !important;
 }
 .vc_custom_1510749995297 .vc_single_image-wrapper img {
     height: auto!important;
@@ -6561,6 +6575,12 @@ margin-left: 10px;
 }
 @media screen and (min-width:480px) and (max-width:769px)
 {
+  #resources .vc_custom_1508661447201 .rescol {
+    margin-left: 65px;
+}
+  .navbar-fixed-top .container-fluid .trp {
+    margin-left: -95px !important;
+}
   #achievements .row .c1 .thumbnail {
     min-height: 455px;
 }
@@ -6651,7 +6671,7 @@ width: 105%;
   }
   .slides-container li.slider2 img
   {
-    margin-top: -140px !important;
+    margin-top: -105px !important;
     height: auto !important;
   }
   .slides-container li.slider1 img {
@@ -6662,11 +6682,11 @@ width: 105%;
 }
 .slides-container li.slider44 img
 {
-  margin-top: 58px !important;
+  margin-top: 104px !important;
   height: auto !important;
 }
 .slides-container li.slide5 img {
-    margin-top: 57px !important;
+    margin-top: 108px !important;
     height: auto !important;
 }
 .navbar-collapse li.menu-item-3384 a
@@ -6676,7 +6696,7 @@ width: 105%;
 #why_naga .achievementrow
 {
   margin-top: -75px !important;
-  padding-left: 65px !important;
+  padding-left: 85px !important;
 }
 #why_naga .col
 {
@@ -6709,11 +6729,13 @@ margin-top: 65px;
 }
 #why_naga .why_naga .leader-basic-info .row .col-lg-6
 {
-  width: 100%;
+  width: 103%;
 }
 #why_naga .biography-info-wrapper {
     margin-top: 5px !important;
         margin-left: -22px !important;
+            padding-right: 35px !important;
+            padding-left: 20px;
 }
 #why_naga .why_naga .biography-info-wrapper .leader-name {
     padding-left: 20px;
@@ -6806,6 +6828,7 @@ margin-top: 65px;
   .slides-container .slide5 .container {
     width: 135%;
     margin-left: 19%;
+    margin-top: 30px;
 }
   #why_naga .achievementrow {
     margin-top: -20px !important;
@@ -6825,12 +6848,12 @@ margin-top: 65px;
 }
 .slides-container .slider44 img {
     display: block !important;
-    margin-top: 60px !important;
+    margin-top: 80px !important;
     height: auto !important;
 }
 .slides-container .slide5 img {
     display: block !important;
-    margin-top: 80px !important;
+    margin-top: 85px !important;
     height: auto !important;
 }
 .slides-container .slider2 img {
@@ -6845,6 +6868,7 @@ margin-top: 65px;
 #contact .vc_row .vc_custom_1512471494245 {
     height: 420px;
     background-repeat: round;
+    margin-left: -7% !important;
 }
 #why_naga .colwhy .row button {
     width: 285px;
@@ -6858,5 +6882,30 @@ margin-top: 65px;
 #about .home_intro1 .section-intro h3 {
     color: #ef4836;
     font-size: 18px;
+}
+.navbar-fixed-top .container-fluid .trp {
+    margin-left: -25px !important;
+}
+}
+/*@media screen and (min-width:1025px) and (max-width:1366px)
+{
+  .slides-container .slide5 img {
+    display: block !important;
+    margin-top: 76px !important;
+    height: 900px !important;
+}
+.slides-container li.slider2 .intro {
+    margin-top: 420px !important;
+}
+.slides-container .slider44 img {
+    display: block !important;
+    margin-top: 75px !important;
+    height: 895px !important;
+    width: 1451px !important;
+}
+.slides-container li.slider44 .intro {
+    background: rgba(0, 0, 0, 0.4);
+    margin-top: 395px !important;
+    padding-top: 14px !important;
 }
 }

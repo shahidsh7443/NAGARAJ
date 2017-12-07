@@ -1,19 +1,76 @@
 /* Extra small devices (phones, less than 768px) */
+@media (min-width:481px) and (max-width:646px)
+{
+	.navbar-fixed-top .container-fluid .trp {
+    margin-left: -80px !important;
+}
+	.tt-slider {
+	    height: 534px !important;
+	}
+	.slides-container li.slider44 img {
+	    margin-top: 108px !important;
+	    height: auto !important;
+	}
+	.slides-container li.slider44 .intro {
+    margin-top: 250px !important;
+}
+.slides-container li.slider2 .intro {
+    margin-top: 270px !important;
+    padding-top: 20px !important;
+}
+.intro .container {
+    height: 50px !important;
+    margin-bottom: 140px !important;
+}
+.slides-container .slide5 .intro span {
+    color: #772432 !important;
+    text-transform: inherit;
+    margin-left: 7%;
+}
+#why_naga .achievementrow {
+    margin-top: -75px !important;
+    padding-left: 115px !important;
+}
+#resources .vc_custom_1508661447201 .rescol {
+    margin-left: 0px !important;
+}
+}
 @media (max-width : 767px) {
-
+	#resources .vc_custom_1508661447201 .rescol {
+	    margin-left: 0px !important;
+	}
 	/*slider*/
 	.tt-slider{
-		height: 320px !important;
+		height: 594px ;
 	}
 	.tt-slider .intro-sub{
 		font-size: 20px;
 	}
-
+	.navbar-fixed-top .container-fluid .trp {
+	    margin-left: -95px;
+	}
+	#contact .vc_row .vc_custom_1512471494245 {
+    height: 440px;
+    background-repeat: no-repeat;
+    margin-left: 18%;
+}
 	.tt-slider .tt-title{
 		font-size: 30px;
 		line-height: 30px;
 	}
-
+	.slides-container li.slider44 .intro {
+    background: rgba(0, 0, 0, 0.4);
+    margin-top: 225px;
+    padding-top: 5px;
+}
+.slides-container li.slider2 img {
+    margin-top: -100px;
+    height: auto !important;
+}
+	.slides-container li.slider44 img {
+	    margin-top: 115px ;
+	    height: auto !important;
+	}
 	.header-top-wrapper{
 		line-height: 35px;
 	}
