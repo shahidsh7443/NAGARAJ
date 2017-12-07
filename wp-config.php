@@ -20,12 +20,14 @@ define('WP_MEMORY_LIMIT', '5000M');
  *
  * @package WordPress
  */
-
+require( dirname( __FILE__ ) . '/version.php' );
 // ** MySQL settings - You can get this info from your web host ** //
 /** The name of the database for WordPress */
 define('DB_NAME', 'nagaraja');
 define('DB_USER', 'root');
 define('DB_PASSWORD', '');
+define('WP_DEBUG', true);
+define('WP_DEBUG_LOG', true);
 /*
 define('DB_NAME', '_nagaraja');
 define('DB_USER', '_razorbee');

@@ -1,0 +1,9 @@
+[07-Dec-2017 12:41:32 UTC] PHP Notice:  Undefined variable: rurl in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\header.php on line 12
+[07-Dec-2017 12:43:14 UTC] PHP Notice:  Undefined variable: rurl in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\header.php on line 12
+[07-Dec-2017 12:43:35 UTC] PHP Notice:  Undefined variable: rurl in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\header.php on line 12
+[07-Dec-2017 12:44:09 UTC] PHP Notice:  Undefined variable: rurl in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\header.php on line 12
+[07-Dec-2017 12:44:14 UTC] PHP Notice:  Undefined variable: rurl in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\header.php on line 12
+[07-Dec-2017 13:13:37 UTC] PHP Notice:  Undefined variable: r_version in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\functions.php on line 251
+[07-Dec-2017 13:13:43 UTC] PHP Notice:  Undefined variable: r_version in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\functions.php on line 251
+[07-Dec-2017 13:13:57 UTC] PHP Notice:  Undefined variable: r_version in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\functions.php on line 251
+[07-Dec-2017 13:36:19 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831

@@ -230,7 +230,7 @@ endif;
 if (!function_exists('nominee_scripts')) :
 
     function nominee_scripts() {
-
+global $r_version;
         //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
         // Styles
         //-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-=-
@@ -248,7 +248,7 @@ if (!function_exists('nominee_scripts')) :
         wp_enqueue_style('simpletextrotator', get_template_directory_uri() . '/css/simpletextrotator.css', array(), NULL);
         wp_enqueue_style('magnific-popup', get_template_directory_uri() . '/css/magnific-popup.css', array(), NULL);
         wp_enqueue_style('stylesheet', get_stylesheet_uri());
-        wp_enqueue_style('nominee-responsive-css', get_template_directory_uri() . '/css/responsive.css', array(), NULL);
+        wp_enqueue_style('nominee-responsive-css', get_template_directory_uri() . '/css/responsive.css?'.$r_version, array(), NULL);
         if (class_exists('ReduxFrameworkPlugin')) :
             wp_enqueue_style('nominee-custom-style', get_template_directory_uri() . '/custom-style.php', array(), NULL);
         endif;

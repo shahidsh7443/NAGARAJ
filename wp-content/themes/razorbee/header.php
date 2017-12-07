@@ -1,6 +1,10 @@
 <?php if ( ! defined( 'ABSPATH' ) ) :
     exit; // Exit if accessed directly
 endif; ?>
+<?php
+
+$rurl=is_home()?"":site_url();
+?>
 <!DOCTYPE html>
 <html <?php language_attributes(); ?>>
 <head>

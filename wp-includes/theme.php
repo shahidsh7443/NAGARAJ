@@ -219,8 +219,11 @@ function get_stylesheet_directory_uri() {
  * @return string
  */
 function get_stylesheet_uri() {
+	global $r_version;
 	$stylesheet_dir_uri = get_stylesheet_directory_uri();
-	$stylesheet_uri = $stylesheet_dir_uri . '/style.css';
+	$stylesheet_uri = $stylesheet_dir_uri . '/style.css.';
+	$stylesheet_uri = $stylesheet_dir_uri . '/style.css?'.$r_version;
+
 	/**
 	 * Filters the URI of the current theme stylesheet.
 	 *
