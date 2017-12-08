@@ -232,7 +232,40 @@ a img.aligncenter {
     margin-left: auto;
     margin-right: auto
 }
-
+.slides-navigation a {
+  -webkit-border-radius: 30px;
+  -moz-border-radius: 30px;
+  -ms-border-radius: 30px;
+  -o-border-radius: 30px;
+  border-radius: 50px;
+  display: block;
+  text-decoration: none;
+  border: 3px solid #fff;
+  color: white;
+  font-weight: bold;
+  font-size: 25px;
+  margin: 0 10px;
+  text-shadow: 0 1px 1px #000;
+  text-align: center;
+  height: 40px;
+  width: 40px;
+  top: 40px;
+  padding: 3px;
+  -webkit-box-shadow: 0 1px 1px black;
+  -moz-box-shadow: 0 1px 1px black;
+  box-shadow: 0 1px 1px black;
+  -webkit-transition: background 0.15s ease;
+  -moz-transition: background 0.15s ease;
+  -o-transition: background 0.15s ease;
+  transition: background 0.15s ease;
+}
+.slides-navigation a:hover {
+  background: rgba(0, 0, 0, 0.4);
+  color:white !important;
+}
+.slides-navigation .glyphicon {
+  color:white !important;
+}
 .wp-caption {
     background: #fff;
     border: 1px solid #f0f0f0;
@@ -1478,11 +1511,11 @@ color:#ef4836;
 }
 
 /* =-=-=-=-=-=-= SLIDER SECTION =-=-=-=-=-=-= */
-@media(max-width:767px) {
+/*@media(max-width:767px) {
     .tt-slider{
         height: 550px !important;
     }
-}
+}*/
 
 .tt-slider ul{
     margin: 0;
@@ -6197,8 +6230,10 @@ section{
 .slides-container .slide5 img
 {
   display: block !important;
-  margin-top: 80px !important;
-  height:310px !important;
+    margin-top: 15px !important;
+    height: 736px !important;
+    width: 1050px !important;
+    margin-left: -65px;
 }
 .header-default .slides-container .slide5 .intro{
   margin-left: -104px !important;
@@ -6207,23 +6242,26 @@ section{
 
 .slides-container .slide5 .container
 {
-height: 80px !important;
+height: 100px !important;
 padding-top: 15px !important;
 width: 70%;
 margin-bottom: 0px !important;
-margin-top: 30px;
+margin-top:415px;
 }
 .slides-container .slider44 img
 {
   display: block !important;
-  margin-top: 60px !important;
-  height:315px !important;
+  margin-top: -30px !important;
+  height: 736px!important;
+      width: 1170px !important;
+      margin-left: -425px;
 }
 .slides-container .slider2 img
 {
   display: block !important;
-  margin-top: -40px !important;
-  height:auto !important;
+  margin-top: -180px !important;
+  width: 900px !important;
+    margin-left: -290px;
 }
 
 .intro .container .intro-sub
@@ -6235,7 +6273,7 @@ margin-top: 30px;
 .intro .container span
 {
   font-size: 12px !important;
-  line-height: 2px !important;
+  line-height: 5px !important;
 }
 .slides-container .slider1 .intro .container
 {
@@ -6252,14 +6290,12 @@ height: 50px !important;
 margin-bottom: 90px !important;
 }
 .slides-container li.slider44 .intro{
-  margin-top: 65px !important;
+  height: 110px;
+margin-top: 405px !important;
 }
 .slides-container li.slider2 .intro
 {
   margin-top:0px !important;
-}
-.tt-slider {
-    height: 350px!important;
 }
 .slides-container  .slider44 .intro
 {
@@ -6269,8 +6305,9 @@ margin-bottom: 90px !important;
     margin-top: 155px !important;
 }
 .slides-container li.slider2 .intro {
-    margin-top: 170px !important;
+    margin-top: 325px !important;
     padding-top: 15px !important;
+    height: 85px;
 }
 .home_intro1 .section-intro h2 span{
   display: inline !important;
@@ -6848,18 +6885,34 @@ margin-top: 65px;
 }
 .slides-container .slider44 img {
     display: block !important;
-    margin-top: 80px !important;
+    margin-top: -40px !important;
     height: auto !important;
+        margin-left: -470px;
 }
 .slides-container .slide5 img {
     display: block !important;
-    margin-top: 85px !important;
+    margin-top: 10px !important;
     height: auto !important;
+    width: 975px !important;
+    margin-left: -75px;
+}
+.slides-container li.slider44 .intro {
+    height: 110px;
+    margin-top: 310px !important;
 }
 .slides-container .slider2 img {
     display: block !important;
-    margin-top: -20px !important;
+    margin-top: -150px !important;
     height: auto!important;
+    width: 800px !important;
+    margin-left: -255px;
+}
+.header-default .slides-container .slide5 .intro {
+    margin-left: -104px !important;
+    margin-top: 260px !important;
+}
+.slides-container li.slider2 .intro {
+    margin-top: 280px !important;
 }
 .slides-container .slide5 .intro .delay-4 {
     margin-left: 31%;

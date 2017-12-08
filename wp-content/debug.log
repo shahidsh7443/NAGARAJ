@@ -7,3 +7,19 @@
 [07-Dec-2017 13:13:43 UTC] PHP Notice:  Undefined variable: r_version in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\functions.php on line 251
 [07-Dec-2017 13:13:57 UTC] PHP Notice:  Undefined variable: r_version in C:\xampp\htdocs\razorbee\nagaraj\wp-content\themes\razorbee\functions.php on line 251
 [07-Dec-2017 13:36:19 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 05:45:32 UTC] PHP Warning:  mysqli_real_connect(): (HY000/2002): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\wp-db.php on line 1548
+[08-Dec-2017 05:45:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\wp-db.php on line 1578
+[08-Dec-2017 05:45:34 UTC] PHP Warning:  mysql_connect(): No connection could be made because the target machine actively refused it.
+ in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\wp-db.php on line 1578
+[08-Dec-2017 05:47:06 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 05:48:11 UTC] WP_Community_Events::maybe_log_events_response: Valid response received. Details: {"api_url":"https:\/\/api.wordpress.org\/events\/1.0\/","request_args":{"body":{"number":5,"ip":"::","locale":"en_US","timezone":"Asia\/Calcutta"}},"response_code":200,"response_body":{"location":{"ip":"157.49.7.212"},"events":"3 events trimmed."}}
+[08-Dec-2017 06:30:16 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 08:43:08 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 09:36:07 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 11:16:13 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 11:31:53 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 12:30:03 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 13:35:43 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 14:43:35 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831
+[08-Dec-2017 15:34:42 UTC] PHP Notice:  like_escape is <strong>deprecated</strong> since version 4.0.0! Use wpdb::esc_like() instead. in C:\xampp\htdocs\razorbee\nagaraj\wp-includes\functions.php on line 3831

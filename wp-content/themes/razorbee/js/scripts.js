@@ -152,10 +152,21 @@ if (this.hash=="achivement"){
 
 
     /* ======= superslides ======= */
-    $('#slides').superslides({
-        play: 70000,
-        animation: 'fade'
-    });
+    if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
+    // some code..
+    $('.slider44 img').attr("src", "http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/02.jpg");
+    $('.slide5  img').attr("src", "http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/04.jpg");
+    $(document).ready(function() {
+               $(window).resize(function() {
+                   var bodyheight = $(this).height();
+                   $('.slides').css({"min-height":bodyheight})    }).resize();
+           });
+
+}
+  $('#slides').superslides({
+      play: 70000,
+      animation: 'fade'
+  });
 
     $(function(){
       $('.navbar-collapse a').click(function()
