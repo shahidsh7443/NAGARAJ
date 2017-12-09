@@ -357,6 +357,7 @@ if (this.hash=="achivement"){
             autoplay: true,
             loop:true,
             items: 1,
+            nav:true,
             autoplayHoverPause: true
         })
 

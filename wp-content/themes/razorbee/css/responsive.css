@@ -47,10 +47,9 @@
 	.navbar-fixed-top .container-fluid .trp {
 	    margin-left: -95px;
 	}
-	#contact .vc_row .vc_custom_1512471494245 {
+	#contact .vc_row .vc_custom_1512817287982 {
     height: 440px;
     background-repeat: no-repeat;
-    margin-left: 18%;
 }
 	.tt-slider .tt-title{
 		font-size: 30px;
@@ -717,7 +716,7 @@ background: 	rgba(0, 0, 0, 0.4);
 
 }
 .home_intro1 .section-intro {
-	margin-top: -30px;
+	margin-top: -65px;
 }
 
 .home_intro2 .section-intro {
@@ -727,6 +726,7 @@ background: 	rgba(0, 0, 0, 0.4);
     padding-left: 10px;
 		padding-bottom: 25px;
 		padding-top: 0px;
+		margin-top: 45px;
 }
 @media (max-width: 767px){
 			.navbar-fixed-top .navbar-brand img {
@@ -826,5 +826,78 @@ background: rgba(255, 255, 255, 0.4);
 	margin-bottom: 0px;
 
 }
+.slider44 .intro .container .delay-4
+{
+	line-height: 15px !important;
+}
 .home_intro2 .vc_column-inner .title-description{
+}
+.testimonial-carousel .owl-nav {
+  width: 100%;
+  position: absolute;
+  top: 50%;
+  margin-top: -35px;
+}
+.testimonial-carousel .owl-nav .owl-prev,
+.testimonial-carousel .owl-nav .owl-next {
+  overflow: hidden;
+}
+.testimonial-carousel .owl-nav .owl-prev:hover,
+.testimonial-carousel .owl-nav .owl-next:hover {
+background-color: #832a38 !important;
+}
+.testimonial-carousel .owl-nav .owl-prev:before, .testimonial-carousel .owl-nav .owl-prev:after,
+.testimonial-carousel .owl-nav .owl-next:before,
+.testimonial-carousel .owl-nav .owl-next:after {
+  font-family: Fontawesome;
+  color: #fff !important;
+  font-size: 40px !important;
+}
+.testimonial-carousel .owl-nav .owl-prev {
+  width: 1px !important;
+  height: 65px;
+  padding-left: 40px;
+  margin-left: -20px;
+  float: left;
+  position: relative;
+}
+.testimonial-carousel .owl-nav .owl-prev .fa-chevron-left
+{
+	margin-left: -8px;
+}
+.testimonial-carousel .owl-nav .owl-next .fa-chevron-right
+{
+	margin-left: -4px;
+}
+.testimonial-carousel .owl-nav .owl-prev:before {
+  position: absolute;
+  left: 10px;
+}
+.testimonial-carousel .owl-nav .owl-next {
+  width: 1px;
+  height: 65px;
+  padding-left: 40px;
+  margin-right: -20px;
+  float: right;
+  position: relative;
+}
+.testimonial-carousel .owl-nav .owl-next:after {
+  position: absolute;
+  left: 15px;
+}
+.owl-theme .owl-controls .owl-nav [class*='owl-'] {
+    font-size: 24px !important;
+    padding: 4px 15px  !important;
+    background: none !important;
+		border-radius: 50px;
+display: block;
+text-decoration: none;
+border: 3px solid #fff;
+color: white;
+font-weight: bold;
+margin: 0 -30px;
+text-shadow: 0 1px 1px #000;
+text-align: center;
+height: 40px;
+width: 40px !important;
 }
