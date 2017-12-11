@@ -263,6 +263,7 @@ a img.aligncenter {
   background: rgba(0, 0, 0, 0.4);
   color:white !important;
 }
+
 .slides-navigation .glyphicon {
   color:white !important;
 }
@@ -538,6 +539,10 @@ table>thead>tr>th{
   margin-bottom: 30px !important;
 padding-top: 10px !important;
 }
+.vc_parallax .vc_parallax-inner
+{
+  top:-15% !important;
+}
 #achievements .row .wpb_wrapper .section-intro h2
 {
 color: white !important;
@@ -689,12 +694,17 @@ span.separator span{
   background-color: #fafafa;
 }
  #achievements .row .c .thumbnail  {
-    min-height: 454px;
+    min-height: 408px;
   }
   #achievements .row .c1 .thumbnail  {
-     min-height: 384px;
+     min-height: 332px;
    }
-
+#achievements .row .thumbnail p{
+  margin-bottom: 0px;
+}
+#achievements .row .c1 .thumbnail h4 {
+margin-bottom: 0px;
+ }
 /* =-=-=-=-=-=-= PAGE HEADER =-=-=-=-=-=-= */
 .page-header-section{
     margin-bottom: 130px;
@@ -771,7 +781,7 @@ span.separator span{
 #about .home_intro2 .vc_column-inner
 {
   margin-top: -100px;
-  height: 415px !important;
+  height: 460px !important;
   padding-top: 0px !important;
 }
 #about .home_intro1 .section-intro h2

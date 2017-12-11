@@ -1,0 +1,22 @@
+.yrm-black-friday-wrapper {
+	position: relative;
+	height: 250px;
+	width: 98%;
+	margin-right: 25px;
+	margin: 5px auto;
+	background-image: url('../../img/BlackFriday.png');
+	background-size: 100% 119%;
+	background-repeat: no-repeat;
+	display: inline-block;
+	max-width: 1166px;
+	cursor: pointer;
+}
+
+.yrm-dont-show-again {
+	position: absolute;
+    z-index: 99999999999999999999999;
+    right: 21px;
+    bottom: 5px;
+    color: white;
+    cursor: pointer;
+}

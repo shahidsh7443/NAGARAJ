@@ -1,0 +1,31 @@
+.yrm-content {
+	display: none;
+	color: gray !important;
+}
+
+.yrm-toggle-expand {
+	border: 1px solid #CCC;
+	width: 120px;
+	display: inline-block;
+	cursor: pointer;
+	vertical-align: middle;
+	text-align: center;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+	position: relative;
+}
+
+.yrm-btn-wrapper {
+	text-align: center;
+	padding-top: 5px;
+	position: relative;
+}
+
+.yrm-button-text {
+	position: absolute;
+    top: 50%;  
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    width: 100%;
+}

@@ -1,0 +1,380 @@
+.ycf-bootstrap-wrapper  a:hover,
+.ycf-bootstrap-wrapper  a:active,
+.ycf-bootstrap-wrapper  a:focus {
+	text-decoration: none !important;
+}
+
+.yrm-delete-link {
+	margin-left: 5px;
+}
+
+.expm-wrapper {
+	margin-right: 18px;
+}
+
+.expm-table {
+	margin-top: 15px;
+	background-color: white !important;
+}
+
+.expm-wrapper  .control-label {
+	margin-top: 7px !important;
+}
+
+.expm-row-bottom {
+	margin-bottom: 10px;
+}
+
+.expm-left-side {
+	width: 49%;
+	float: left;
+	margin-right: 10px;
+}
+
+.expm-right-side {
+	width: 49%;
+	float: right;
+}
+
+h2 {
+	font-size: 24px;
+	font-weight: bold;
+}
+
+.button-wrapper {
+	float: right;
+	margin-right: 20px;
+	padding-top: 20px;
+}
+
+.expm-update-to-pro {
+	background-color: #D54E21 !important;
+    border: 1px solid #D54E21 !important;
+    color: white !important;
+    cursor: pointer;
+    height: 29px;
+}
+
+.expander-page-title {
+	display: inline-block;
+	float: left;
+}
+
+p.submit {
+	margin: 0;
+	padding: 0;
+}
+
+.live-hedline {
+	text-align: center;
+	margin-bottom: 5px;
+}
+
+.options-wrapper {
+	width: 48.5%;
+	float: left;
+	margin-right: 1.5%;
+	padding-top: 15px;
+}
+
+.right-side {
+	width: 50%;
+	float: right;
+	padding-top: 15px;
+}
+
+.preview-wrapper {
+	width: 50%;
+	float: right;
+}
+
+.postbox-container {
+	width: 100%;
+}
+
+.expander-options-content,
+.preview-wrapper {
+	margin: 10px;
+}
+
+.expm-option-label {
+	margin-bottom: 5px;
+	margin-top: 4px;
+}
+
+#expander-pro-option {
+	background-color: #ccc;
+	opacity: 0.6;
+	cursor: pointer;
+	border:1px solid #ccc;
+}
+
+.clear {
+	clear: both;
+}
+
+.preview-wrapper {
+	display: inline-block;
+	width: 49%;
+	border: 1px solid #cccccc;
+	float: right;
+	margin-right: 20px;
+	padding: 10px;
+	-moz-box-sizing: border-box;
+    box-sizing: border-box;
+    margin-top: 12px;
+}
+
+#wpbody-content .metabox-holder {
+    padding-top: 0px;
+}
+
+/*Button style*/
+
+.expm-content,
+.yrm-hide-content {
+	display: none;
+}
+
+.expm-toggle-expand {
+	border: 1px solid #CCC;
+	width: 120px;
+	padding: 5px;
+	display: inline-block;
+	cursor: pointer;
+	vertical-align: middle;
+	text-align: center;
+	box-sizing: border-box;
+	-moz-box-sizing: border-box;
+	-webkit-box-sizing: border-box;
+}
+
+.expand-btn-wrappper {
+	text-align: center;
+	padding-top: 5px;
+	position: relative;
+}
+
+.expm-button-text {
+	position: absolute;
+    top: 50%;  
+    left: 50%; 
+    transform: translate(-50%, -50%);
+    font-size: 14px;
+}
+
+#expm-shortcode-info-div {
+	display: inline-block;
+	background-color: #ccc;
+	width: 561px;
+	margin-left: 15px; 
+}
+
+.expm-option-info {
+	padding-top: 4px;
+}
+
+a.wp-color-result {
+	height: 24px !important;
+}
+
+.row-static-margin-bottom {
+	margin-bottom: 10px !important;
+}
+
+.product-banner {
+	display: inline-block;
+	height: 200px;
+	width: 345px;
+	margin-right: 10px;
+	border: 1px solid #cccccc;
+	cursor: pointer;
+}
+
+.product-banner:hover {
+	transition: all .5s;
+	opacity: 0.4;
+	background-color: rgba(255,255,255, 0.4);
+	color: #464646;
+}
+
+.yrm-pro-options-title {
+	position: relative;
+    top: 50%;
+    left: 57%;
+    font-size: 32px;
+    color: red;
+    opacity: 1;
+    overflow-wrap: break-word;
+    width: auto;
+    margin-top: -15px;
+}
+
+.yrm-type-title-pro {
+	position: absolute;
+    font-size: 32px;
+    color: red;
+    opacity: 1;
+    overflow-wrap: break-word;
+    width: auto;
+    margin-top: -15px;
+    -ms-transform: rotate(7deg);
+    -webkit-transform: rotate(7deg);
+    transform: rotate(36deg);
+    top: 36px;
+    right: -19px;
+}
+
+.yrm-ext-title-pro {
+	position: absolute;
+    font-size: 32px;
+    color: red;
+    opacity: 1;
+    overflow-wrap: break-word;
+    width: auto;
+    margin-top: 17px;
+    -ms-transform: rotate(7deg);
+    -webkit-transform: rotate(7deg);
+    transform: rotate(36deg);
+    top: 36px;
+    right: -19px;
+}
+
+.type-banner-pro {
+	position: relative;
+}
+
+.yrm-button {
+	background-image: url("../img/buttonType.jpg");
+	background-repeat: no-repeat;
+	height: 100%;
+}
+
+.yrm-inline {
+	background-image: url("../img/inline.png");
+	background-repeat: no-repeat;
+	height: 100%;
+	background-size: contain;
+	background-color: white;
+}
+
+.yrm-popup {
+	background-image: url("../img/popupType.jpg");
+	background-repeat: no-repeat;
+	height: 100%;
+	background-size: contain;
+	background-color: white;
+}
+
+.yrm-alaytics {
+	background-image: url("../img/analytic.png");
+	background-repeat: no-repeat;
+	background-size: cover;
+}
+
+.yrm-pro-options-wrapper {
+	position: relative;
+}
+
+.main-view-upgrade {
+	text-align: right;
+}
+
+.yrm-pro-options {
+	position: absolute;
+	top: 0;
+	right: 0;
+	bottom: 0;
+	left: 0;
+	background-color: rgba(238,238,238,0.4);
+	cursor: pointer;
+}
+
+/*popup type styles*/
+.yrm-popup-theme {
+	margin-left: 14px !important;
+}
+
+.no-shortcode {
+	background-color: red;
+	padding: 10px;
+	color: white;
+	font-size: 13px
+}
+
+/*more plugins section*/
+
+
+#yrm-plugins-wrapper {
+	width: 90%;
+	margin: 0 auto;
+	padding-top: 30px;
+}
+
+.plugin-icon {
+	top: 0px !important;
+	left: 10px !important;
+}
+
+.plugin-card .desc  {
+	margin-right: 0px;
+}
+
+.plugin-card-top {
+	padding-top: 0px !important;
+}
+
+.plugin-card .compatibility-compatible:before {
+	content: "\f147" !important;
+}
+
+#yrm-plugins-wrapper .column-compatibility {
+	width: 100%;
+	text-align: inherit;
+}
+
+#yrm-plugins-wrapper .plugin-card {
+	cursor: pointer;
+}
+
+#plugin-icon-contact-form {
+	width:128px;
+	height:128px;
+	background-image: url(//ps.w.org/contact-form-master/assets/icon-128x128.png?rev=1293306);
+	background-size:128px 128px;
+}
+
+#plugin-icon-popup {
+	width:128px;
+	height:128px;
+	background-image: url(https://ps.w.org/popup-master/assets/icon-128x128.png?rev=1696507);
+	background-size:128px 128px;
+}
+
+.yrm-add-new-extensions-wrapper {
+	width: 100%;
+    height: 20px;
+    border-bottom: 1px solid #DEDEDE;
+    text-align: center;
+    margin-bottom: 25px;
+}
+
+.yrm-add-new-extensions {
+    font-size: 35px;
+    background-color: #F1F1F1;
+    padding: 0 12px;
+    display: inline-block;
+    margin-top: 8px;
+}
+
+.yrmAdminFooterShell {
+	display: inline;
+}
+
+.yrm-popup-options {
+	margin-top: 15px;
+}
+
+.yrm-popup-theme-wrapper {
+	margin-bottom: 10px;
+}
