@@ -154,12 +154,12 @@ if (this.hash=="achivement"){
     /* ======= superslides ======= */
     if( /Android|webOS|iPhone|iPad|iPod|BlackBerry|IEMobile|Opera Mini/i.test(navigator.userAgent) ) {
     // some code..
-    $('.slider44 img').attr("src", "http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/02.jpg");
-    $('.slide5  img').attr("src", "http://localhost/razorbee/nagaraj/wp-content/uploads/2015/12/04.jpg");
-    $(document).ready(function() {
+ $(document).ready(function() {
                $(window).resize(function() {
-                   var bodyheight = $(this).height();
-                   $('.slides').css({"min-height":bodyheight})    }).resize();
+                 var bodyheight = $(this).height();
+                 var res=bodyheight-45;
+                   $('.intro ').addClass("intro1")
+                 }).resize();
            });
 
 }
@@ -720,16 +720,16 @@ if (this.hash=="achivement"){
       var _top = 60;
 
   if (this.hash=="#achievements"){
-    _top = 60;
+    _top = 95;
   }
   else if (this.hash=="#about") {
-    _top=90;
+    _top=70;
   }
   else if (this.hash=="#why_naga") {
-    _top=105;
+    _top=90;
   }
   else if (this.hash=="#blogs") {
-    _top=160;
+    _top=130;
   }
   else if (this.hash=="#resources") {
     _top=100;
@@ -738,7 +738,10 @@ if (this.hash=="achivement"){
     _top=120;
   }
   else if (this.hash=="#contact") {
-    _top=120;
+    _top=85;
+  }
+  else if (this.hash=="#testimonials") {
+    _top=25;
   }
   		$('html, body').animate({scrollTop: $(this.hash).offset().top - _top}, 1000);
   		return false;

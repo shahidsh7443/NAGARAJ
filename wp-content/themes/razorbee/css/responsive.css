@@ -17,6 +17,7 @@
 .slides-container li.slider2 .intro {
     margin-top: 270px !important;
     padding-top: 20px !important;
+		height: 100px;
 }
 .intro .container {
     height: 50px !important;
@@ -804,7 +805,7 @@ fa-dollar:before, .fa-usd:before {
 	margin-top: 0px;
 }
 .career_history{
-	background: 	rgba(255, 255, 255, 0.4);
+	background: 	#f2f2f2;
 
 
 }
@@ -820,6 +821,7 @@ color: #772433 !important;
 #why_naga{
 margin-top: 0px !important;
 background: rgba(255, 255, 255, 0.4);
+border-top: 4px double black;
 
 }
 .home_intro2 .section-intro{

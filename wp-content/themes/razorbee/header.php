@@ -13,7 +13,7 @@ $rurl=is_home()?"":site_url();
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <link rel="profile" href="http://gmpg.org/xfn/11">
     <link rel="pingback" href="<?php esc_url( bloginfo( 'pingback_url' ) ); ?>">
-    <link rel="icon" type="image/jpg" href="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg">
+    <link rel="icon" type="image/jpg" href="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.png">
     <?php wp_head(); ?>
 </head>
 
