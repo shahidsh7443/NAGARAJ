@@ -732,6 +732,10 @@ margin-bottom: 0px;
 {
   color:white!important;
 }
+.vc_custom_1513244656905
+{
+  display: none;
+}
 #slides .slides-container .slide6 .intro
 {
   background: rgba(0,0,0,0.4);
@@ -765,44 +769,45 @@ width: 100%;
     width: 100px;
     height: 100px;
     border-radius: 0%;
+    box-shadow: none;
 }
 #resources .resource_sec1 .icon-effect .tt-icon .flaticon-businessman20{
-    background-image: url(../../../wp-content/upload_mobile/biography.jpg);
+    background-image: url(../../../wp-content/upload_mobile/biography.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 #resources .resource_sec1 .icon-effect .tt-icon .flaticon-earth207{
-    background-image: url(../../../wp-content/upload_mobile/DiD.jpg);
+    background-image: url(../../../wp-content/upload_mobile/Did.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 #resources .resource_sec1 .icon-effect .tt-icon .flaticon-tick8{
-    background-image: url(../../../wp-content/upload_mobile/PQD.jpg);
+    background-image: url(../../../wp-content/upload_mobile/PQD.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 #resources .resource_sec1 .icon-effect .tt-icon .flaticon-paper135{
-    background-image: url(../../../wp-content/upload_mobile/clubgrowth.jpg);
+    background-image: url(../../../wp-content/upload_mobile/clubgrowth.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 #resources .resource_sec1 .icon-effect .tt-icon .flaticon-eye105{
-    background-image: url(../../../wp-content/upload_mobile/Prm.jpg);
+    background-image: url(../../../wp-content/upload_mobile/Prm.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 #resources .resource_sec1 .icon-effect .tt-icon .flaticon-settings51{
-    background-image: url(../../../wp-content/upload_mobile/AM.jpg);
+    background-image: url(../../../wp-content/upload_mobile/AM.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 #resources .resource_sec1 .icon-effect .tt-icon .flaticon-house121{
-    background-image: url(../../../wp-content/upload_mobile/FM.jpg);
+    background-image: url(../../../wp-content/upload_mobile/FM.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
 #resources .resource_sec1 .icon-effect .tt-icon .flaticon-graduate37{
-    background-image: url(../../../wp-content/upload_mobile/AD.jpg);
+    background-image: url(../../../wp-content/upload_mobile/P2.png);
     background-size: contain;
     background-repeat: no-repeat;
 }
@@ -895,6 +900,7 @@ background-color: transparent;
 #about .home_intro1 .section-intro h3
 {
 color:#ef4836;
+text-align: left;
 }
 @media (max-width : 767px) {
     .page-header-section{
@@ -6702,6 +6708,10 @@ margin-left: 10px;
   .page-header-section{
       margin-top: 14%!important;
   }
+  .slides-container .slide6 img{
+    margin-left: -700px;
+  }
+
   .slides-container img
   {
     display: block !important;
@@ -6981,6 +6991,13 @@ width: 105%;
     /* padding-bottom: 0px; */
     top: auto;
 }
+#slides .slides-control .slides-container .slider2 .intro1 {
+    bottom: -140px !important;
+}
+.slides-container .slide6 img {
+    margin-top: 20px !important;
+    margin-left: -500px;
+}
 .slides-container li.slide5 img {
     margin-top: 108px !important;
     height: auto !important;
@@ -7126,7 +7143,7 @@ margin-top: 65px;
 {
   .slides-container .slide6 img {
     left: -30px !important;
-    top: -10px !important;
+    top: -80px !important;
     height: 605px !important;
     margin-left: -317px;
     width: auto !important;
@@ -7185,8 +7202,8 @@ margin-top: 65px;
   }
 .slides-container .slider2 img {
     display: block !important;
-    margin-top: 35px !important;
-    height: auto!important;
+    margin-top: 50px !important;
+        width: 475px !important;
 }
 .header-default .slides-container .slide5 .intro {
   padding: 0px;
