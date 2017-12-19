@@ -37,7 +37,7 @@ add_action('admin_init', 'tt_hide_vc_admin_notice');
 
 // Loading Admin Scripts, Stylesheets
 function tt_wp_admin_scripts() {
-	
+
 	// Fontawesome icon
 	wp_enqueue_style( 'tt-fontawesome-css', TT_PLUGIN_URL . 'css/font-awesome.min.css' );
 	// Select 2 CSS
@@ -76,7 +76,6 @@ require_once TT_PLUGIN_DIR . "/inc/mega-menu/admin-megamenu-walker.php";
 // Fonts
 require_once TT_PLUGIN_DIR . "/inc/fonts/font-awesome-icons.php";
 // Google map API key
-require_once TT_PLUGIN_DIR . "/inc/api-key-for-google-maps.php";
 // demo import
 require_once TT_PLUGIN_DIR . "/inc/one-click-demo-import/one-click-demo-import.php";
 // inport process file

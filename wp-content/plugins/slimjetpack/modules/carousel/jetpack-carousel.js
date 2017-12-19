@@ -1131,14 +1131,14 @@ jQuery(document).ready(function($) {
 
 			$mapbox
 				.addClass( 'jp-carousel-image-map' )
-				.html( '<img width="154" height="154" src="https://maps.googleapis.com/maps/api/staticmap?\
+				.html( '<img width="154" height="154" src="?\
 							center=' + latitude + ',' + longitude + '&\
 							zoom=8&\
 							size=154x154&\
 							sensor=false&\
 							markers=size:medium%7Ccolor:blue%7C' + latitude + ',' + longitude + style +'" class="gmap-main" />\
 							\
-						<div class="gmap-topright"><div class="imgclip"><img width="175" height="154" src="https://maps.googleapis.com/maps/api/staticmap?\
+						<div class="gmap-topright"><div class="imgclip"><img width="175" height="154" src="?\
 							center=' + latitude + ',' + longitude + '&\
 							zoom=3&\
 							size=175x154&\

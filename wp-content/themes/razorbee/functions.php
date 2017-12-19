@@ -260,7 +260,7 @@ global $r_version;
         wp_enqueue_script('owl-carousel', get_template_directory_uri() . '/js/owl.carousel.min.js', array('jquery'), NULL, TRUE);
         wp_enqueue_script('superslides', get_template_directory_uri() . '/js/jquery.superslides.min.js', array('jquery'), NULL, TRUE);
         wp_enqueue_script('simple-text-rotator', get_template_directory_uri() . '/js/jquery.simple-text-rotator.min.js', array('jquery'), NULL, TRUE);
-        wp_enqueue_script('google-map', '//maps.googleapis.com/maps/api/js', array(), NULL, TRUE );
+      //  wp_enqueue_script('google-map', '//maps.googleapis.com/maps/api/js', array(), NULL, TRUE );
         wp_enqueue_script('nominee-count-to', get_template_directory_uri() . '/js/jquery.countTo.min.js', array('jquery'), NULL, TRUE);
         wp_enqueue_script('coundown-timer', get_template_directory_uri() . '/js/coundown-timer.min.js', array('jquery'), NULL, TRUE);
         wp_enqueue_script('shuffle', get_template_directory_uri() . '/js/jquery.shuffle.min.js', array('jquery'), NULL, TRUE);
@@ -278,7 +278,7 @@ global $r_version;
 
         wp_enqueue_script('flicker-photo', get_template_directory_uri() . '/js/flicker-photo.min.js', array('jquery'), NULL, TRUE);
         wp_enqueue_script('flexslider', get_template_directory_uri() . '/js/jquery.flexslider-min.js', array('jquery'), NULL, TRUE);
-        wp_enqueue_script('retina', get_template_directory_uri() . '/js/retina.min.js', array('jquery'), NULL, TRUE);
+        //wp_enqueue_script('retina', get_template_directory_uri() . '/js/retina.min.js', array('jquery'), NULL, TRUE);
         wp_enqueue_script( 'jquery-masonry' );
         wp_enqueue_script('nominee-scripts', get_template_directory_uri() . '/js/scripts.js?'.$r_version, array('jquery'), NULL, TRUE);
 

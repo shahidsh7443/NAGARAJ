@@ -1,0 +1,18 @@
+2017-12-19T09:45:59+00:00 - MERGED:
+ - bootstrap - http://localhost/razorbee/nagaraj/wp-content/plugins/easy-bootstrap-shortcodes/styles/bootstrap.min.css
+ - bootstrap-fa-icon - http://localhost/razorbee/nagaraj/wp-content/plugins/easy-bootstrap-shortcodes/styles/font-awesome.min.css
+ - contact-form-7 - http://localhost/razorbee/nagaraj/wp-content/plugins/contact-form-7/includes/css/styles.css
+ - collapseomatic-css - http://localhost/razorbee/nagaraj/wp-content/plugins/jquery-collapse-o-matic/light_style.css
+ - style - http://localhost/razorbee/nagaraj/wp-content/plugins/read-more-without-refresh/style.css
+ - rs-plugin-settings - http://localhost/razorbee/nagaraj/wp-content/plugins/revslider/public/assets/css/settings.css
+ - zilla-likes - http://localhost/razorbee/nagaraj/wp-content/plugins/tt-plugin/inc/post-likes/styles/zilla-likes.css
+ - wonderplugin-carousel-engine-css - http://localhost/razorbee/nagaraj/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselengine.css
+ - slick - http://localhost/razorbee/nagaraj/wp-content/plugins/wp-carousel-free/assets/css/slick.css
+ - font-awesome - http://localhost/razorbee/nagaraj/wp-content/plugins/js_composer/assets/lib/bower/font-awesome/css/font-awesome.min.css
+ - wp-carousel-free-style - http://localhost/razorbee/nagaraj/wp-content/plugins/wp-carousel-free/assets/css/style.css
+ - jetpack-carousel - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/modules/carousel/jetpack-carousel.css
+ - tiled-gallery - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/modules/tiled-gallery/tiled-gallery/tiled-gallery.css
+ - mediaelement - /wp-includes/js/mediaelement/mediaelementplayer.min.css
+ - wp-mediaelement - /wp-includes/js/mediaelement/wp-mediaelement.min.css
+2017-12-19T09:46:06+00:00 - COMPRESSING CSS
+2017-12-19T09:46:07+00:00 - COMPRESSION COMPLETE - 7.81K saved

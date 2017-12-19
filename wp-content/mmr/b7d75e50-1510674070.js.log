@@ -1,0 +1,18 @@
+2017-12-19T09:46:00+00:00 - MERGED:
+ - jquery-core - /wp-includes/js/jquery/jquery.js
+ - jquery-migrate - /wp-includes/js/jquery/jquery-migrate.min.js - unminified version used
+ - tp-tools - http://localhost/razorbee/nagaraj/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+ - revmin - http://localhost/razorbee/nagaraj/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+ - zilla-likes - http://localhost/razorbee/nagaraj/wp-content/plugins/tt-plugin/inc/post-likes/scripts/zilla-likes.js
+ - wonderplugin-carousel-skins-script - http://localhost/razorbee/nagaraj/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js
+ - wonderplugin-carousel-script - http://localhost/razorbee/nagaraj/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarousel.js
+ - spin - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/_inc/spin.js
+ - jquery.spin - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/_inc/jquery.spin.js
+ - tiled-gallery - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/modules/tiled-gallery/tiled-gallery/tiled-gallery.js
+ - mediaelement - /wp-includes/js/mediaelement/mediaelement-and-player.min.js
+ - wp-mediaelement - /wp-includes/js/mediaelement/wp-mediaelement.min.js - unminified version used
+ - imagesloaded - /wp-includes/js/imagesloaded.min.js
+ - masonry - /wp-includes/js/masonry.min.js
+ - jquery-masonry - /wp-includes/js/jquery/jquery.masonry.min.js
+2017-12-19T09:46:08+00:00 - COMPRESSING WITH MINIFY (PHP exec not available or java not found)
+2017-12-19T09:46:21+00:00 - COMPRESSION COMPLETE - 24.79K saved

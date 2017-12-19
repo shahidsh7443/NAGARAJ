@@ -4952,7 +4952,7 @@ function wp_spaces_regexp() {
  *
  * @staticvar bool $printed
  */
-function print_emoji_styles() {
+function print_emoji_styles() {return;
 	static $printed = false;
 
 	if ( $printed ) {
@@ -4984,7 +4984,7 @@ img.emoji {
  * @since 4.2.0
  * @staticvar bool $printed
  */
-function print_emoji_detection_script() {
+function print_emoji_detection_script() { return;
 	static $printed = false;
 
 	if ( $printed ) {
@@ -5003,7 +5003,7 @@ function print_emoji_detection_script() {
  * @since 4.6.0
  * @access private
  */
-function _print_emoji_detection_script() {
+function _print_emoji_detection_script() { return;
 	$settings = array(
 		/**
 		 * Filters the URL where emoji png images are hosted.
@@ -5220,7 +5220,7 @@ function wp_staticize_emoji( $text ) {
  * @param array $mail The email data array.
  * @return array The email data array, with emoji in the message staticized.
  */
-function wp_staticize_emoji_for_email( $mail ) {
+function wp_staticize_emoji_for_email( $mail ) { return;
 	if ( ! isset( $mail['message'] ) ) {
 		return $mail;
 	}

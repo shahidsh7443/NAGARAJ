@@ -1688,7 +1688,7 @@
 
                             (function() {
                                 var wf = document.createElement( 'script' );
-                                wf.src = 'https://ajax.googleapis.com/ajax/libs/webfont/1.5.3/webfont.js';
+                                wf.src = '';
                                 wf.type = 'text/javascript';
                                 wf.async = 'true';
                                 var s = document.getElementsByTagName( 'script' )[0];
@@ -3979,7 +3979,7 @@
              */
             function redux_array_merge_recursive_distinct( array $array1, array $array2 ) {
                 $merged = array();
-                
+
                 $merged = $array1;
 
                 foreach ( $array2 as $key => $value ) {
@@ -4127,7 +4127,7 @@
             public static function user_can( $user, $capabilities, $object_id = null ) {
                 static $depth = 0;
                 $args = array();
-                
+
                 if ( $depth >= 30 ) {
                     return false;
                 }
