@@ -4085,9 +4085,37 @@ Tags:           two-columns, three-columns, left-sidebar, right-sidebar, custom-
 
 
 /* =-=-=-=-=-=-= GENERAL =-=-=-=-=-=-= */
+@font-face {
+    font-family: 'newsgoth_btbold';
+    src: url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/tt0049m_-webfont.eot);
+    src: url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/tt0049m_-webfont.woff2) format('woff2'),
+         url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/tt0049m_-webfont.woff) format('woff'),
+         url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/tt0049m_-webfont.ttf) format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+    font-family: 'latoregular';
+    src: url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/Lato-Regular-webfont.eot);
+    src: url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/Lato-Regular-webfont.woff2) format('woff2'),
+         url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/Lato-Regular-webfont.woff) format('woff'),
+         url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/Lato-Regular-webfont.ttf) format('truetype');
 
+    font-weight: normal;
+    font-style: normal;
+}
+@font-face {
+	font-family:'CenturyGothic-Bold';
+	src: url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/CenturyGothic-Bold_gdi.eot);
+	src: url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/CenturyGothic-Bold_gdi.woff) format('woff'),
+		url(/razorbee/nagaraj/wp-content/themes/razorbee/fonts/CenturyGothic-Bold_gdi.ttf) format('truetype');
+
+	font-weight: 400;
+	font-style: normal;
+	font-stretch: normal;
+	unicode-range: U+0020-F003;
+}
 body{
-  font-family: "Helvetica Neue",Helvetica,Arial,sans-serif !important;
     font-size: 14px;
     line-height: 26px;
     font-weight: 400;
@@ -4162,10 +4190,15 @@ button:focus {
 
 
 /* =-=-=-=-=-=-= TYPOGRAPHY =-=-=-=-=-=-= */
-
+p{
+  font-family: 'latoregular';
+  font-size: 13pt;
+  line-height: 1.5em;
+}
 h1, h2, h3, h4, h5, h6{
+  font-family: "CenturyGothic-Bold" !important;
     color: #2f2f2f;
-    font-weight: 700;
+    font-weight: 400;
     margin: 0 0 15px;
 }
 h1 {
@@ -4561,7 +4594,6 @@ color: white !important;
 }
 .resource_sec h2
 {
-      color: #ef4836 !important;
       text-transform: none !important;
 }
 .section-intro h2{
@@ -4695,6 +4727,16 @@ span.separator span{
 {
   color: black;
 }
+#contact .row .cont1
+{
+  background-repeat: no-repeat;
+  height: 435px;
+}
+#contact .row .cont2 .vc_custom_1513782823779
+{
+    padding-top: 100px;
+}
+
 .form-control {
   height: 45px;
   background-color: transparent;
@@ -4706,13 +4748,29 @@ span.separator span{
   background-color: #fafafa;
 }
  #achievements .row .c .thumbnail  {
-    min-height: 408px;
+    min-height: 333px;
   }
-  #achievements .row .c1 .thumbnail  {
-     min-height: 332px;
+  #achievements .row h4  {
+     margin-bottom: 0px;
+     font-size: 16px;
    }
+   #achievements .row .empt {
+    width: 12.666667%;
+    }
+  #achievements .row .c1 .thumbnail  {
+     min-height: 333px;
+   }
+   #achievements .row .c3 .thumbnail  {
+      min-height: 333px;
+    }
 #achievements .row .thumbnail p{
   margin-bottom: 0px;
+  font-size: 11pt;
+}
+#testimonials p
+{
+  font-size: 13.5pt;
+  font-family: Open Sans, sans-serif;
 }
 #achievements .row .c1 .thumbnail h4 {
 margin-bottom: 0px;
@@ -4731,10 +4789,6 @@ margin-bottom: 0px;
 .navbar-collapse li.menu-item-3324 a
 {
   color:white!important;
-}
-.vc_custom_1513244656905
-{
-  display: none;
 }
 #slides .slides-container .slide6 .intro
 {
@@ -4944,7 +4998,7 @@ text-align: left;
   background: rgba(255, 255, 255, 0.9);
   padding-bottom: 5px;
   padding-right: 15px;
-  height:585px;
+  height:auto;
 }
 #why_naga .colwhy .row
 {
@@ -7385,6 +7439,14 @@ display: block;
     color: #2f2f2f;
 }
 @media(max-width: 480px){
+  #contact .cont2 h2
+  {
+    font-size: 32px;
+  }
+  .career_history h2
+  {
+    font-size: 30px;
+  }
   #achievements .row .wpb_wrapper .section-intro {
     margin-bottom: 50px !important;
     padding-top: 10px !important;
@@ -10261,6 +10323,10 @@ section{
 }
 @media screen and (max-width:480px)
 {
+  #contact .row .cont2 .vc_custom_1513782823779
+  {
+      padding-top: 15px;
+  }
   .slides-container .slide6 img {
     left: -30px !important;
     top: -10px !important;
@@ -10353,7 +10419,7 @@ section{
   }
   #about .row .vc_col-sm-12 .section-intro h2
   {
-    font-size: 32px;
+    font-size: 28px;
     line-height: 52px;
     font-weight: 700;
   }
@@ -10548,21 +10614,6 @@ padding-bottom: 10px;
   font-size: 27px !important;
   font-weight: bolder!important;
   margin-top: -65px !important;
-}
-#why_naga .bio-details p
-{
-  font-size: 16px !important;
-  color:#333 !important;
-}
-#achievements .title-description p
-{
-  font-size: 16px !important;
-  color:#333 !important;
-}
-.home_intro1 .title-description p
-{
-  font-size: 16px !important;
-  color:#333 !important;
 }
 #testimonials .section-intro h2 span{
   display: inline !important;
@@ -10856,6 +10907,11 @@ margin-left: -540px;
 }
 @media screen and (min-width:480px) and (max-width:769px)
 {
+  #about .home_intro1 .vc_column-inner {
+height: auto !important;
+}
+#about .home_intro2 .vc_column-inner {
+height: auto !important;}
   #testimonials .row .testimonial-carousel .owl-stage-outer .owl-stage .owl-item .fa-quote-left
   {
     display: inherit;
@@ -11089,6 +11145,13 @@ margin-top: 65px;
     width: 62px !important;
     margin-top: 0px;
 }
+#about .home_intro2 .vc_column-inner {
+    height: 670px !important;
+}
+#achievements .row .thumbnail p {
+    margin-bottom: 0px;
+    font-size: 12px;
+}
 #about .home_intro1 .vc_column-inner {
     margin-top: -20px;
     padding-left: 0px;
@@ -11141,6 +11204,10 @@ margin-top: 65px;
 }
 @media only screen and (min-width:360px) and (max-width:413px)
 {
+  .career_history #career_history p
+  {
+    font-size: 11pt;
+  }
   .slides-container .slide6 img {
     left: -30px !important;
     top: -80px !important;
@@ -11937,7 +12004,7 @@ margin-top: 0px !important;
 .navbar-fixed-top .container-fluid h4{
 	font-size: 25px;
 	line-height: 30px;
-	padding-top: 16px;
+	padding-top: 20px;
 	transition: all .3s;
 	margin-right: -10px;
 

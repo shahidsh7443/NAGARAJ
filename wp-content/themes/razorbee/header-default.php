@@ -35,7 +35,7 @@ $rurl=is_home()?"":site_url();
 <img class="visible-xs" style="height: 50px;width:auto;display:block;float:right;padding-top: 5px;margin-top: -8px;margin-left:5px;" src="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" data-at2x="<?php echo $rurl?>/wp-content/uploads/2015/12/nagaraj_logo2.jpg" alt="Nagaraja Rao" width="55" height="50">
 
          <div class="hidden-xs  status" style="padding-right:125px;margin-top: -17px;height: 0px;">
-<h4 style="color:#004165;font-family: sans-serif !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-size:12pt !important;">Candidate for Second Vice President<br>Toastmasters International.</p></h4>
+<h4 style="color:#004165;font-family: newsgoth_btbold !important;"><b style="line-height:5px !important;">Nagaraja Rao, DTM</b><br><p style="font-family:sans-serif;font-size:12pt !important;">Candidate for Second Vice President<br>Toastmasters International.</p></h4>
 </div>
 
 </div>
@@ -85,6 +85,8 @@ if (is_front_page()){?>
 <li id="menu-item-3331" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3331  has-menu-child scroll"><a title="Career_history" href="<?php echo $rurl?>/#career_history" style="font-size:16px;font-weight:bold;color:black;">Leadership Journey</a></li>
 <li id="menu-item-3327" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3327   has-menu-child scroll"><a title="Achievements" href="<?php echo $rurl?>/#achievements" style="font-size:16px;font-weight:bold;color:black;">Achievements</a></li>
 <li id="menu-item-3328" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3328  has-menu-child scroll"><a title="Testimonials" href="<?php echo $rurl?>/#testimonials" style="font-size:16px;font-weight:bold;color:black;">Testimonials</a></li>
+
+<li id="menu-item-3343" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3342  has-menu-child scroll"><a title="Blogs" href="<?php echo $rurl?>/#blogs" style="font-size:16px;font-weight:bold;color:black;">Blogs</a></li>
 <li id="menu-item-3329" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3329  has-menu-child scroll"><a title="Resources" href="<?php echo $rurl?>/#resources" style="font-size:16px;font-weight:bold;color:black;">Resources</a></li>
 
 <li id="menu-item-3332" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3332  has-menu-child scroll"><a title="Contact" href="<?php echo $rurl?>/#contact" style="font-size:16px;font-weight:bold;color:black;">Contact</a></li>
@@ -111,7 +113,9 @@ if (is_front_page()){?>
   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3386  has-menu-child scroll"><a title="Career_history" href="<?php echo $rurl?>/#career_history" style="font-size:16px;color:black !important;">Leadership Journey</a></li>
   <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3382  has-menu-child scroll"><a title="ACHIVEMENT" href="<?php echo $rurl?>/#achievements" style="font-size:16px;color:black !important;">Achievements</a></li>
     <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3384  has-menu-child scroll"><a title="Testimonial" href="<?php echo $rurl?>/#testimonials" style="font-size:16px;color:black !important;">Testimonials</a></li>
-      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3385  has-menu-child scroll"><a title="Resources" href="<?php echo $rurl?>/#resources" style="font-size:16px;color:black !important;">Resources</a></li>                <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3387  has-menu-child scroll"><a title="Contact" href="<?php echo $rurl?>/#contact" style="font-size:16px;color:black !important;">Contact</a></li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3389  has-menu-child scroll"><a title="Blogs" href="<?php echo $rurl?>/#blogs" style="font-size:16px;color:black !important;">Blogs</a></li>
+      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3385  has-menu-child scroll"><a title="Resources" href="<?php echo $rurl?>/#resources" style="font-size:16px;color:black !important;">Resources</a></li>
+       <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3387  has-menu-child scroll"><a title="Contact" href="<?php echo $rurl?>/#contact" style="font-size:16px;color:black !important;">Contact</a></li>
 </ul>                </div> <!-- /.navbar-collapse -->
             </div>
         </div><!-- .container-->

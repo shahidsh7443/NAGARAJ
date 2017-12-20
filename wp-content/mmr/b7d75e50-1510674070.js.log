@@ -1,4 +1,4 @@
-2017-12-19T09:46:00+00:00 - MERGED:
+2017-12-20T12:03:17+00:00 - MERGED:
  - jquery-core - /wp-includes/js/jquery/jquery.js
  - jquery-migrate - /wp-includes/js/jquery/jquery-migrate.min.js - unminified version used
  - tp-tools - http://localhost/razorbee/nagaraj/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
@@ -14,5 +14,5 @@
  - imagesloaded - /wp-includes/js/imagesloaded.min.js
  - masonry - /wp-includes/js/masonry.min.js
  - jquery-masonry - /wp-includes/js/jquery/jquery.masonry.min.js
-2017-12-19T09:46:08+00:00 - COMPRESSING WITH MINIFY (PHP exec not available or java not found)
-2017-12-19T09:46:21+00:00 - COMPRESSION COMPLETE - 24.79K saved
+2017-12-20T12:03:29+00:00 - COMPRESSING WITH MINIFY (PHP exec not available or java not found)
+2017-12-20T12:03:49+00:00 - COMPRESSION COMPLETE - 24.79K saved

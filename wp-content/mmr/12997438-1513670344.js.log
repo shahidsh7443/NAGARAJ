@@ -1,0 +1,24 @@
+2017-12-20T13:42:57+00:00 - MERGED:
+ - bootstrap - http://localhost/razorbee/nagaraj/wp-content/plugins/easy-bootstrap-shortcodes/js/bootstrap.min.js
+ - contact-form-7 - http://localhost/razorbee/nagaraj/wp-content/plugins/contact-form-7/includes/js/scripts.js
+ - collapseomatic-js - http://localhost/razorbee/nagaraj/wp-content/plugins/jquery-collapse-o-matic/js/collapse.js
+ - slick-main - http://localhost/razorbee/nagaraj/wp-content/plugins/wp-carousel-free/assets/js/slick.min.js
+ - jetpack-carousel - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/modules/carousel/jetpack-carousel.js
+ - owl-carousel - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/owl.carousel.min.js
+ - superslides - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/jquery.superslides.min.js
+ - simple-text-rotator - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/jquery.simple-text-rotator.min.js
+ - nominee-count-to - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/jquery.countTo.min.js
+ - coundown-timer - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/coundown-timer.min.js
+ - shuffle - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/jquery.shuffle.min.js
+ - smoothscroll - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/smoothscroll.min.js
+ - inview - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/jquery.inview.min.js
+ - easing - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/jquery.easing.min.js
+ - twitter-fetcher - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/twitter-fetcher.min.js
+ - magnific-popup - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/magnific-popup.min.js
+ - placeholder - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/jquery.placeholder.min.js
+ - flicker-photo - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/flicker-photo.min.js
+ - flexslider - http://localhost/razorbee/nagaraj/wp-content/plugins/js_composer/assets/lib/bower/flexslider/jquery.flexslider-min.js
+ - nominee-scripts - http://localhost/razorbee/nagaraj/wp-content/themes/razorbee/js/scripts.js?14000
+ - wp-embed - /wp-includes/js/wp-embed.min.js - unminified version used
+2017-12-20T13:43:19+00:00 - COMPRESSING WITH MINIFY (PHP exec not available or java not found)
+2017-12-20T13:43:25+00:00 - COMPRESSION COMPLETE - 50.71K saved

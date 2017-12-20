@@ -1,4 +1,4 @@
-2017-12-19T09:14:58+00:00 - MERGED:
+2017-12-20T10:57:32+00:00 - MERGED:
  - dashicons - /wp-includes/css/dashicons.min.css
  - admin-bar - /wp-includes/css/admin-bar.min.css
  - bootstrap - http://localhost/razorbee/nagaraj/wp-content/plugins/easy-bootstrap-shortcodes/styles/bootstrap.min.css
@@ -16,5 +16,5 @@
  - tiled-gallery - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/modules/tiled-gallery/tiled-gallery/tiled-gallery.css
  - mediaelement - /wp-includes/js/mediaelement/mediaelementplayer.min.css
  - wp-mediaelement - /wp-includes/js/mediaelement/wp-mediaelement.min.css
-2017-12-19T09:15:06+00:00 - COMPRESSING CSS
-2017-12-19T09:15:09+00:00 - COMPRESSION COMPLETE - 7.81K saved
+2017-12-20T10:57:46+00:00 - COMPRESSING CSS
+2017-12-20T10:57:50+00:00 - COMPRESSION COMPLETE - 7.81K saved
