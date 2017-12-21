@@ -732,7 +732,7 @@ span.separator span{
   background-repeat: no-repeat;
   height: 435px;
 }
-#contact .row .cont2 .vc_custom_1513782823779
+#contact .row .cont2 .vc_custom_1513844734930
 {
     padding-top: 100px;
 }
@@ -6323,7 +6323,7 @@ section{
 }
 @media screen and (max-width:480px)
 {
-  #contact .row .cont2 .vc_custom_1513782823779
+  #contact .row .cont2 .vc_custom_1513844734930
   {
       padding-top: 15px;
   }
@@ -6633,6 +6633,7 @@ padding-bottom: 10px;
   font-size: 16px !important;
   color:#333 !important;
   text-align: center!important;
+  padding-bottom: 15px;
 }
 .page-header-section{
     margin-bottom: 130px;
@@ -6656,6 +6657,22 @@ padding-bottom: 10px;
 }
 @media screen and (min-width:770px) and (max-width:1024px)
 {
+  #achievements .row .c3 .thumbnail  {
+     min-height: 286px;
+   }
+   .vc_custom_1513782933183
+   {
+     padding-top: 20%;
+    padding-bottom: 20%;
+   }
+#contact .row .cont2
+{
+  padding-left: 15px;
+}
+.navbar-right
+{
+  margin-left: -15px;
+}
   #achievements .row .c1 .thumbnail {
     min-height: 314px;
 }
@@ -6719,7 +6736,7 @@ margin-left: 10px;
 }
 #why_naga .leader-image img {
     width: 60%;
-    margin-left: 20.5%;
+    margin-left: 22%;
 }
 #why_naga .why_naga .leader-basic-info .row .col-lg-5
 {
@@ -6744,7 +6761,7 @@ margin-left: 10px;
 }
 #why_naga .biography-info-wrapper .leader-name h2 {
     font-weight: 700;
-    margin-left: 21.5%;
+    margin-left: 29%;
 }
 #about .home_intro1 .section-intro h3 {
     color: #ef4836;
@@ -6812,7 +6829,7 @@ margin-left: 10px;
       top: auto;
   }
   #achievements .row .c .thumbnail {
-    min-height: 429px;
+    min-height: 313px;
 }
   .header-default .slides-container .slider1 .intro {
     margin-top: 100px !important;
@@ -6907,6 +6924,21 @@ margin-left: -540px;
 }
 @media screen and (min-width:480px) and (max-width:769px)
 {
+  .navbar-right
+  {
+    float: left !important;
+  }
+  .navbar .cf
+  {
+    padding-left: 25px;
+  }
+  #contact .row .cont2 .vc_custom_1513844734930 {
+    padding-top: 50px;
+    padding-left: 50px;
+}
+  #achievements .row .ipad {
+  width: 17.33333%;
+}
   #about .home_intro1 .vc_column-inner {
 height: auto !important;
 }
@@ -6946,8 +6978,14 @@ height: auto !important;}
   .navbar-fixed-top .container-fluid .trp {
     margin-left: -95px !important;
 }
+#achievements .row .c .thumbnail {
+    min-height: 294px;
+}
+#achievements .row .c3 .thumbnail {
+    min-height: 290px;
+}
   #achievements .row .c1 .thumbnail {
-    min-height: 416px;
+    min-height: 290px;
 }
 #achievements .row .c2 .thumbnail {
     min-height: 322px;
@@ -7084,6 +7122,21 @@ margin-top: 65px;
 {
   margin-top: 0px !important;
   padding-left: 15px !important;
+  padding-top: 20px;
+  text-align: center;
+}
+#about .title-description p
+{
+  text-align: justify;
+}
+.biography-info-wrapper .leader-name h2 {
+    text-align: center;
+}
+.biography-info-wrapper .leader-name h3 {
+    text-align: center;
+}
+#about .home_intro1 .section-intro h3 {
+    text-align: center;
 }
 #home_intro2_img  .wpb_single_image img {
     height: auto !important;

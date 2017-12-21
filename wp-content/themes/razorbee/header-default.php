@@ -46,7 +46,7 @@ $rurl=is_home()?"":site_url();
     <?php endif; ?>
 </nav>
     <nav class="navbar navbar-default" style="background-color:#a9b2b1;height:5px;">
-        <div class="container-fluid"  style="background-color:#a9b2b1;">
+        <div class="container-fluid cf"  style="background-color:#a9b2b1;">
             <!-- Brand and toggle get grouped for better mobile display -->
             <div class="navbar-header">
 
