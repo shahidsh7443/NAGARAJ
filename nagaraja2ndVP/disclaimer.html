@@ -1,0 +1,99 @@
+<!doctype html>
+<html>
+<head>
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<link rel="icon" type="ico" href="img/favicon.ico">
+<title>Nagaraja Rao</title>
+<link rel="stylesheet" type="text/css" href="css/bootstrap.min.css">
+<link rel="stylesheet" type="text/css" href="css/style.css">
+<style>
+#home{border:none; background:none;}
+#home p{ text-transform:capitalize;}
+</style>
+
+</head>
+
+<body>
+<header class="container-fluid">
+<div class="row head">
+	<div class="col-lg-4 col-sm-6 col-xs-7">
+    	<img src="img/Logo.jpg" class="img-responsive">
+    </div>
+    <div class="col-lg-5 col-lg-offset-3 col-sm-6 col-sm-offset-0 col-xs-3 col-xs-offset-2 text-right">
+    	<div class="idname hidden-xs">
+    	<h4>Nagaraja Rao, DTM</h4>
+        <p>Candidate for International Director<br>2015-2017, Region 13</p>
+        </div>
+    	<img src="img/toastmastersLogo.jpg" class="img-responsive">
+    </div>
+</div>
+<nav class="row">
+	<div class="col-lg-12 nav_parent">
+        <div class="visible-xs-inline-block menu">
+        	<img src="img/menu.png" title="Menu" width="30" height="21">
+            <p>Menu</p>
+        </div>
+    	<div class="idname visible-xs-inline-block text-right">
+    	<h4>Nagaraja Rao, DTM</h4>
+        <p>Candidate for International Director, 2015-17, Reg 13</p>
+        </div>
+    	<ul class="nav">
+        	<li><div class="down-arrow hidden-xs"></div><a href="index.html#home">Home</a></li>
+            <li><div class="down-arrow hidden-xs"></div><a href="index.html#about">About</a></li>
+            <li><div class="down-arrow hidden-xs"></div><a href="index.html#why">Why Nagaraja?</a></li>
+            <li><div class="down-arrow hidden-xs"></div><a href="index.html#achievements">Achievements</a></li>
+            <li><div class="down-arrow hidden-xs"></div><a href="index.html#testimonials">Testimonials</a></li>
+            <li><div class="down-arrow hidden-xs"></div><a href="index.html#downloads">Downloads</a></li>
+            <!--<li><div class="down-arrow hidden-xs"></div><a href="index.html#appointments">Appointments</a></li>-->
+            <li><div class="down-arrow hidden-xs"></div><a href="index.html#contact">Contact</a></li>
+        </ul>
+    </div>
+</nav>
+</header>
+
+<div class="container-fluid" id="home">
+	<div class="row mar-top-m">
+    	<div class="col-lg-10 col-lg-offset-1">
+        <h3>Disclaimer</h3>
+        <p>THIS SITE IS PROVIDED  ON AN "AS IS" AND "AS AVAILABLE" BASIS. NAGARAJA RAO MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND, EXPRESS OR IMPLIED, AS TO THE OPERATION OF THIS SITE OR THE INFORMATION, CONTENT, MATERIALS OR PRODUCTS INCLUDED ON THIS SITE. YOU EXPRESSLY AGREE THAT YOUR USE OF THIS SITE IS AT YOUR SOLE RISK.</p>
+        <p>TO THE FULL EXTENT PERMISSIBLE BY APPLICABLE LAW, NAGARAJA RAO DISCLAIMS ALL WARRANTIES, EXPRESS OR IMPLIED, INCLUDING THE WARRANTY OF MERCHANTABILITY AND WARRANTY OF FITNESS FOR A PARTICULAR PURPOSE. NAGARAJA RAO DOES NOT WARRANT THAT THIS SITE, ITS SERVERS OR EMAIL SENT FROM this ARE FREE OF VIRUSES OR OTHER HARMFUL COMPONENTS. NAGARAJA RAO WILL NOT BE LIABLE FOR ANY DAMAGES OF ANY KIND ARISING FROM THE USE OF THIS SITE, INCLUDING, BUT NOT LIMITED TO DIRECT, INDIRECT, INCIDENTAL, PUNITIVE AND CONSEQUENTIAL DAMAGES.</p>
+        <p>ANY CAUSE OF ACTION OR CLAIM YOU MAY HAVE ARISING OUT OF OR RELATING TO THESE CONDITIONS OF USE OR THE WEBSITE MUST BE COMMENCED IN ARBITRATION WITHIN ONE (1) YEAR AFTER THE CAUSE OF ACTION ACCRUES, OTHERWISE, SUCH CAUSE OF ACTION OR CLAIM IS PERMANENTLY BARRED.</p>
+        <p>CERTAIN STATE LAWS DO NOT ALLOW LIMITATIONS ON IMPLIED WARRANTIES OR THE EXCLUSION OR LIMITATION OF CERTAIN DAMAGES. IF THESE LAWS APPLY TO YOU, SOME OR ALL OF THE ABOVE DISCLAIMERS, EXCLUSIONS, OR LIMITATIONS MAY NOT APPLY TO YOU, AND YOU MIGHT HAVE ADDITIONAL RIGHTS.</p>
+        </div>
+    </div>
+</div>
+
+<footer class="mar-top-l">
+<div class="container-fluid">
+	<div class="row">
+    	<div class="col-lg-4 col-sm-4 col-xs-3">
+        	<p><a href="disclaimer.html" target="_blank">Disclaimer.</a> </p>
+        </div>
+    	<div class="col-lg-4 col-sm-4 col-xs-6">
+        	<p class="text-center">&copy; 2014 All rights reserved.</p>
+        </div>
+    	<div class="col-lg-4 col-sm-4 col-xs-3">
+        	<p class="text-right"><a href="privacy.html" target="_blank">Privacy Policy.</a></p>
+        </div>        
+    </div>
+</div>
+</footer>
+</body>
+
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<script>
+$(function(){
+	$('body').scrollspy({ target: '.nav_parent', offset:120 });
+	$(window).on("scroll touchmove", function () {$('.head').toggleClass('tiny', $(document).scrollTop() > 0);});
+	if(window.innerWidth<768)
+	{$('.nav').slideUp(0); $('.menu').click(function(){	$('.nav').slideToggle(500);})
+	$('.nav li a').click(function(){$('.nav').slideUp(500);})}
+})
+</script>
+<!--[if lt IE 9]>
+      <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
+      <script src="https://oss.maxcdn.com/respond/1.4.2/respond.min.js"></script>
+<![endif]-->
+</html>
