@@ -1,0 +1,24 @@
+2018-01-03T12:20:54+00:00 - MERGED:
+ - underscore - /wp-includes/js/underscore.min.js
+ - customize-base - /wp-includes/js/customize-base.min.js - unminified version used
+ - customize-preview - /wp-includes/js/customize-preview.min.js - unminified version used
+ - tp-tools - http://localhost/razorbee/nagaraj/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.tools.min.js
+ - revmin - http://localhost/razorbee/nagaraj/wp-content/plugins/revslider/public/assets/js/jquery.themepunch.revolution.min.js
+ - zilla-likes - http://localhost/razorbee/nagaraj/wp-content/plugins/tt-plugin/inc/post-likes/scripts/zilla-likes.js
+ - wonderplugin-carousel-skins-script - http://localhost/razorbee/nagaraj/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarouselskins.js
+ - wonderplugin-carousel-script - http://localhost/razorbee/nagaraj/wp-content/plugins/wonderplugin-carousel/engine/wonderplugincarousel.js
+ - spin - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/_inc/spin.js
+ - jquery.spin - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/_inc/jquery.spin.js
+ - tiled-gallery - http://localhost/razorbee/nagaraj/wp-content/plugins/slimjetpack/modules/tiled-gallery/tiled-gallery/tiled-gallery.js
+ - mediaelement - /wp-includes/js/mediaelement/mediaelement-and-player.min.js
+ - wp-mediaelement - /wp-includes/js/mediaelement/wp-mediaelement.min.js - unminified version used
+ - imagesloaded - /wp-includes/js/imagesloaded.min.js
+ - masonry - /wp-includes/js/masonry.min.js
+ - jquery-masonry - /wp-includes/js/jquery/jquery.masonry.min.js
+ - froogaloop - /wp-includes/js/mediaelement/froogaloop.min.js
+ - wp-util - /wp-includes/js/wp-util.min.js - unminified version used
+ - customize-selective-refresh - /wp-includes/js/customize-selective-refresh.min.js - unminified version used
+ - customize-preview-widgets - /wp-includes/js/customize-preview-widgets.min.js - unminified version used
+ - customize-preview-nav-menus - /wp-includes/js/customize-preview-nav-menus.min.js - unminified version used
+2018-01-03T12:21:16+00:00 - COMPRESSING WITH MINIFY (PHP exec not available or java not found)
+2018-01-03T12:21:38+00:00 - COMPRESSION COMPLETE - 75.02K saved

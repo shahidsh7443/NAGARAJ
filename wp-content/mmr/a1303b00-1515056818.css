@@ -4292,6 +4292,18 @@ a img.aligncenter {
   -o-transition: background 0.15s ease;
   transition: background 0.15s ease;
 }
+#comments
+{
+  display: none;
+}
+.posts-content .entry-footer
+{
+  display: none;
+}
+.entry-meta
+{
+  display: none;
+}
 .slides-navigation a:hover {
   background: rgba(0, 0, 0, 0.4);
   color:white !important;
@@ -4308,6 +4320,7 @@ top: auto;
 
 height: auto !important;
 padding-left: 0px !important;
+margin-left: 45px;
 }
 .slides-navigation .glyphicon {
   color:white !important;
@@ -4328,7 +4341,10 @@ padding-left: 0px !important;
 .wp-caption.alignnone {
     margin: 5px 20px 20px 0;
 }
-
+#why_naga .vc_custom_1513784948723
+{
+  margin-bottom: 40px;
+}
 .wp-caption.alignleft {
     margin: 5px 20px 20px 0;
 }
@@ -4495,6 +4511,7 @@ iframe{
     color: #31708f;
     background-color: #f5f5f5;
     border-color: transparent;
+    display: none;
 }
 
 blockquote{
@@ -4645,7 +4662,7 @@ span.separator span{
 }
 
 .title-description{
-    padding-top: 50px;
+    padding-top: 30px;
     color: #333;
 }
 
@@ -4771,6 +4788,7 @@ span.separator span{
 {
   font-size: 13.5pt;
   font-family: Open Sans, sans-serif;
+  text-align: justify;
 }
 #achievements .row .c1 .thumbnail h4 {
 margin-bottom: 0px;
@@ -4931,7 +4949,7 @@ background-color: transparent;
 #about .home_intro1 .vc_column-inner
 {
   margin-top: -135px;
-  height: 488px;
+  height: 500px;
   padding-top: 0px;
   padding-left: 0px;
 }
@@ -4941,8 +4959,8 @@ background-color: transparent;
 }
 #about .home_intro2 .vc_column-inner
 {
-  margin-top: -100px;
-  height: 510px !important;
+  margin-top: -88px;
+  height: 120px !important;
   padding-top: 0px !important;
   padding-left: 20px;
 }
@@ -4995,10 +5013,11 @@ text-align: left;
 }
 #why_naga .why_naga .biography-info-wrapper
 {
-  background: rgba(255, 255, 255, 0.9);
-  padding-bottom: 5px;
-  padding-right: 15px;
-  height:auto;
+  background: rgba(255,255,255,.9);
+    padding-bottom: 30px;
+    padding-top: 90px;
+    padding-right: 15px;
+    height: auto;
 }
 #why_naga .colwhy .row
 {
@@ -5019,6 +5038,7 @@ text-align: left;
     margin-top: 10px;
     border: 3px solid #004165;
     background: rgba(255,255,255,0.1);
+    display: none;
 }
 .vc_custom_1508960289375 .row{
   width: 101%;
@@ -6363,6 +6383,10 @@ display: block;
 .timeline-content{
     padding:5px 20px 0 20px;
 }
+#blogs .press-release-wrapper .blog-wrap .blog-content .clearfix .the-time
+{
+  display: none;
+}
 .timeline>li .timeline-panel:before {
     right: auto;
     left: -15px;
@@ -6453,8 +6477,9 @@ display: block;
     }
     .timeline>li .timeline-panel {
         float: left;
-        width: 42%;
+        width: 44%;
         text-align: right;
+        margin: 0 -10px;
     }
     .timeline>li .posted-date {
         top: 0;
@@ -8112,6 +8137,7 @@ div.wpcf7-response-output {
 .blog-content {
     background-color: #fff;
     padding: 20px 18px;
+    min-height: 204px
 }
 
 .entry-meta .the-time{
@@ -8143,6 +8169,7 @@ div.wpcf7-response-output {
 }
 .entry-content p{
     margin-bottom: 15px;
+    color: black;
 }
 
 .entry-header iframe,
@@ -8293,6 +8320,7 @@ div.wpcf7-response-output {
 
 .blog-wrapper .posts-content article{
     margin-bottom: 80px;
+    text-align: justify;
 }
 .blog-wrapper .entry-title{
     font-weight: 700;
@@ -9197,6 +9225,7 @@ ul.comment-list > li.bypostauthor > .comment {
 .form-allowed-tags {
     margin-bottom: 15px;
     line-height: 20px;
+    display: none;
 }
 
 .comments-wrapper .comment-form-comment{
@@ -10413,6 +10442,7 @@ section{
   #why_naga .why_naga .biography-info-wrapper {
     background: rgba(255, 255, 255, 0.3);
     padding-right: 0px;
+    padding-bottom: 0px;
 }
   #contact .row .wpb_column  .addresscol .address{
     padding-top: 20px !important;
@@ -10517,6 +10547,7 @@ section{
 height: 100px !important;
 padding-top: 15px !important;
 margin-bottom: 0px !important;
+margin-left: 0px !important;
 }
 .slides-container .slider44 img
 {
@@ -10924,6 +10955,14 @@ margin-left: -540px;
 }
 @media screen and (min-width:480px) and (max-width:769px)
 {
+  .slides-container .slide5 .container
+  {
+    margin-left: -10px !important;
+  }
+.slides-container .slider2 .intro1 .container
+  {
+    margin-left: 5px !important;
+  }
   .navbar-right
   {
     float: left !important;
