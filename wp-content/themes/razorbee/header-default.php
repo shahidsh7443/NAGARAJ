@@ -60,7 +60,7 @@ $rurl=is_home()?"":site_url();
                     <span class="icon-bar"></span>
                 </button>
                 <div class="hidden-lg hidden-md hidden-sm" style="display:block;padding:0px;height:auto;">
-                <p style="color:Black;font-size:9px;line-height:15px;padding-top:10px;padding-left:10px;"><b>Nagaraja Rao, DTM </b></br style="line-height:10px;">Candidate for Second Vice President</br style="line-height:10px;">Toastmasters Intl.</b></p>
+                <p style="color:Black;font-size:9px;line-height:15px;padding-top:10px;padding-left:10px;"><b>Nagaraja Rao, DTM </b></br style="line-height:10px;">Candidate for Second Vice President</br style="line-height:10px;">Toastmasters International.</b></p>
 </div>
 <!-- .navbar-brand -->
             </div> <!-- .navbar-header -->
@@ -75,9 +75,9 @@ $rurl=is_home()?"":site_url();
 
 
 if (is_front_page()){?>
-<li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3324  has-menu-child  scroll"><a title="Home" href="<?php echo $rurl ?>/#home" style="font-size:16px;font-weight:bold;color:black !important;">Home</a></li>
+<li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3324  has-menu-child  scroll"><a title="Home" href="http://nagarajafor2ndvp.com/" style="font-size:16px;font-weight:bold;color:black !important;">Home</a></li>
 <?php }else{?>
-  <li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3324  has-menu-child  scroll"><a title="Home" href="<?php echo $rurl ?>" style="font-size:16px;font-weight:bold;color:black !important;">Home</a></li>
+  <li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3324  has-menu-child  scroll"><a title="Home" href="http://nagarajafor2ndvp.com/" style="font-size:16px;font-weight:bold;color:black !important;">Home</a></li>
 
 <?php }?>
 <li id="menu-item-3325" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3325   has-menu-child scroll"><a title="About" href="<?php echo $rurl?>/#about" style="font-size:16px;font-weight:bold;color:black;">About</a></li>
@@ -104,9 +104,9 @@ if (is_front_page()){?>
                     <ul id="menu-primary-menu-1" class="menu nav navbar-nav">
                       <?php
 if (is_front_page()){?>
-                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3384   has-menu-child scroll"><a title="Home" href="<?php echo $rurl ?>/#home" style="font-size:16px;color:black !important;">Home</a></li>
+                      <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3384   has-menu-child scroll"><a title="Home" href="http://nagarajafor2ndvp.com/" style="font-size:16px;color:black !important;">Home</a></li>
 <?php }else{?>
-                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3384   has-menu-child scroll"><a title="Home" href="<?php echo $rurl ?>" style="font-size:16px;color:black !important;">Home</a></li>
+                        <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home current-menu-item page_item page-item-2320 current_page_item menu-item-3384   has-menu-child scroll"><a title="Home" href="http://nagarajafor2ndvp.com/" style="font-size:16px;color:black !important;">Home</a></li>
 <?php }?>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3325  has-menu-child scroll"><a title="About" href="<?php echo $rurl?>/#about" style="font-size:16px;color:black !important;">About</a></li>
 <li class="menu-item menu-item-type-post_type menu-item-object-page menu-item-3383  has-menu-child scroll"><a title="Why nagaraj" href="<?php echo $rurl?>/#why_naga" style="font-size:16px;color:black !important;">Why Nagaraja?</a></li>

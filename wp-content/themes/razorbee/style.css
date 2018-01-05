@@ -6258,19 +6258,16 @@ ul.comment-list > li.bypostauthor > .comment {
 {
   display: block !important;
   margin-top: 40px !important;
-  height:840px !important;
 }
 .slides-container .slider2 img
 {
   display: block !important;
-  margin-top: 340px !important;
-  height:1900px !important;
+  margin-top: 365px !important;
 }
 .slides-container .slide5 img
 {
   display: block !important;
   margin-top: 100px !important;
-  height:900px !important;
 }
 .intro .container span
 {
@@ -6317,7 +6314,9 @@ ul.comment-list > li.bypostauthor > .comment {
 background: rgba(255,255,255,.4) !important;
 height: 95px !important;
 padding-top: 18px !important;
-margin-left: 20px;
+margin-left: -65px !important;
+width: 80% !important;
+padding-left: 90px !important;
 }
 section{
   width: 100% !important;
@@ -6671,7 +6670,7 @@ padding-bottom: 10px;
 .page-header-section{
     margin-bottom: 130px;
     position: relative;
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     margin-top: 24%!important;
 }
@@ -7424,4 +7423,25 @@ margin-top: 0px !important;
     margin-top: 395px !important;
     padding-top: 14px !important;
 }
+}*/
+@media only screen and (min-width:1441px) and (max-width:1920px)
+{
+.slides-container .slide5 .container {
+    margin-left: 60px !important;
+    width: 50% !important;
+    padding-left: 100px !important;
+}
+.slides-container li.slider44 .intro {
+    margin-top: 380px !important;
+}
+.slides-container li.slider2 .intro {
+    margin-top: 380px !important;
+}
+}
+@media  (min-width:800px) and (max-width:1200px)
+{
+  .slides-container .slide5 .container
+  {
+  margin-left: -115px !important;
+  }
 }
