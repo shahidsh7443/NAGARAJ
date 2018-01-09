@@ -6257,7 +6257,7 @@ ul.comment-list > li.bypostauthor > .comment {
 .slides-container .slider44 img
 {
   display: block !important;
-  margin-top: 40px !important;
+  margin-top: 125px !important;
 }
 .slides-container .slider2 img
 {
@@ -6549,6 +6549,7 @@ height: 100px !important;
 padding-top: 15px !important;
 margin-bottom: 0px !important;
 margin-left: 0px !important;
+width: 100% !important;
 }
 .slides-container .slider44 img
 {
@@ -6764,7 +6765,12 @@ margin-left: 10px;
   #about .row .aboutng
   {
     width: 75%;
-    margin-left: 12.5%;
+    margin-left: 14%;
+}
+.blog-content {
+    background-color: #fff;
+    padding: 20px 18px;
+    min-height: 231px;
 }
 #why_naga .leader-image img {
     width: 60%;
@@ -6805,6 +6811,10 @@ margin-left: 10px;
   width: 100%;
   margin-top: 75px;
 }
+#about .row .home_intro2
+{
+  margin-left: -20px;
+}
   .page-header-section{
       margin-top: 14%!important;
   }
@@ -6824,8 +6834,8 @@ margin-left: 10px;
       background: rgba(255,255,255,.4) !important;
       height: 109px !important;
       padding-top: 22px !important;
-      width: 142%;
-      margin-left: -50%;
+      width: 142% !important;
+      margin-left: -50% !important;
   }
   .slides-container .slide5 .intro span {
     color: #772432 !important;
@@ -7199,6 +7209,10 @@ margin-top: 65px;
         margin-left: -22px !important;
             padding-right: 35px !important;
             padding-left: 20px;
+            margin-bottom: -40px;
+}
+.home_intro1 .section-intro {
+    margin-bottom: 15px;
 }
 #why_naga .why_naga .biography-info-wrapper .leader-name {
     padding-left: 20px;
@@ -7239,7 +7253,7 @@ margin-top: 65px;
     margin-top: 0px;
 }
 #about .home_intro2 .vc_column-inner {
-    height: 670px !important;
+    height: 190px !important;
 }
 #achievements .row .thumbnail p {
     margin-bottom: 0px;
@@ -7437,11 +7451,4 @@ margin-top: 0px !important;
 .slides-container li.slider2 .intro {
     margin-top: 380px !important;
 }
-}
-@media  (min-width:800px) and (max-width:1200px)
-{
-  .slides-container .slide5 .container
-  {
-  margin-left: -115px !important;
-  }
 }
